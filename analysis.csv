@@ -1,0 +1,1031 @@
+year,game number,white,black,white num moves,black num moves,white ACPL,black ACPL,combined ACPL,ECO,opening,WC
+1886,1,"Zukertort, Johannes Hermann","Steinitz, William",46,46,35.71739130434783,20.97826086956522,56.69565217391305,D10,Slav Defense,Wilhelm Steinitz
+1886,2,"Steinitz, William","Zukertort, Johannes Hermann",46,46,28.91304347826087,16.02173913043478,44.934782608695656,C45,Scotch Game: Schmidt Variation,Wilhelm Steinitz
+1886,3,"Zukertort, Johannes Hermann","Steinitz, William",47,46,18.95744680851064,33.84782608695652,52.80527289546716,D10,Slav Defense,Wilhelm Steinitz
+1886,4,"Steinitz, William","Zukertort, Johannes Hermann",39,39,19.692307692307693,8.743589743589743,28.435897435897438,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Wilhelm Steinitz
+1886,5,"Zukertort, Johannes Hermann","Steinitz, William",32,31,12.4375,26.258064516129032,38.69556451612903,D10,Slav Defense,Wilhelm Steinitz
+1886,6,"Steinitz, William","Zukertort, Johannes Hermann",61,60,41.540983606557376,50.71666666666667,92.25765027322404,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Wilhelm Steinitz
+1886,7,"Zukertort, Johannes Hermann","Steinitz, William",35,35,43.714285714285715,29.571428571428573,73.28571428571429,D32,Tarrasch Defense: Symmetrical Variation,Wilhelm Steinitz
+1886,8,"Steinitz, William","Zukertort, Johannes Hermann",22,21,22.181818181818183,26.80952380952381,48.991341991342,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Wilhelm Steinitz
+1886,9,"Zukertort, Johannes Hermann","Steinitz, William",38,38,39.26315789473684,22.68421052631579,61.94736842105263,D37,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",Wilhelm Steinitz
+1886,10,"Steinitz, William","Zukertort, Johannes Hermann",21,21,15.285714285714286,16.095238095238095,31.38095238095238,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Wilhelm Steinitz
+1886,11,"Zukertort, Johannes Hermann","Steinitz, William",29,28,62.62068965517241,59.142857142857146,121.76354679802955,C49,"Four Knights Game: Spanish Variation, Gunsberg Counterattack",Wilhelm Steinitz
+1886,12,"Steinitz, William","Zukertort, Johannes Hermann",44,43,14.636363636363637,21.930232558139537,36.56659619450318,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Wilhelm Steinitz
+1886,13,"Zukertort, Johannes Hermann","Steinitz, William",86,85,23.174418604651162,22.741176470588236,45.915595075239395,D35,Queen's Gambit Declined: Harrwitz Attack,Wilhelm Steinitz
+1886,14,"Steinitz, William","Zukertort, Johannes Hermann",48,48,10.916666666666666,9.791666666666666,20.708333333333332,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Wilhelm Steinitz
+1886,15,"Zukertort, Johannes Hermann","Steinitz, William",49,48,25.79591836734694,25,50.79591836734694,D50,Queen's Gambit Declined: Pseudo-Tarrasch Variation,Wilhelm Steinitz
+1886,16,"Steinitz, William","Zukertort, Johannes Hermann",49,48,18.816326530612244,26.229166666666668,45.045493197278915,C65,Ruy Lopez: Berlin Defense,Wilhelm Steinitz
+1886,17,"Zukertort, Johannes Hermann","Steinitz, William",52,51,31.807692307692307,32.01960784313726,63.827300150829565,D55,"Queen's Gambit Declined: Modern Variation, Normal Line",Wilhelm Steinitz
+1886,18,"Steinitz, William","Zukertort, Johannes Hermann",40,38,19.8,28.94736842105263,48.74736842105263,C65,Ruy Lopez: Berlin Defense,Wilhelm Steinitz
+1886,19,"Zukertort, Johannes Hermann","Steinitz, William",29,29,45.89655172413793,30.896551724137932,76.79310344827586,D53,Queen's Gambit Declined,Wilhelm Steinitz
+1886,20,"Steinitz, William","Zukertort, Johannes Hermann",18,18,41.27777777777778,83,124.27777777777777,C25,"Vienna Gambit, with Max Lange Defense: Steinitz Gambit",Wilhelm Steinitz
+1889,1,"Chigorin, Mikhail","Steinitz, William",57,55,20.157894736842106,29.30909090909091,49.466985645933015,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,2,"Steinitz, William","Chigorin, Mikhail",38,37,16.94736842105263,26.054054054054053,43.00142247510668,D02,Queen's Pawn Game: Anti-Torre,Wilhelm Steinitz
+1889,3,"Chigorin, Mikhail","Steinitz, William",83,82,22.746987951807228,28.109756097560975,50.8567440493682,C62,Ruy Lopez: Steinitz Defense,Wilhelm Steinitz
+1889,4,"Steinitz, William","Chigorin, Mikhail",22,21,24,44.38095238095238,68.38095238095238,D02,Queen's Pawn Game: Anti-Torre,Wilhelm Steinitz
+1889,5,"Chigorin, Mikhail","Steinitz, William",26,26,47.88461538461539,22.346153846153847,70.23076923076923,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,6,"Steinitz, William","Chigorin, Mikhail",37,37,36.13513513513514,26.594594594594593,62.729729729729726,D02,Queen's Pawn Game: Anti-Torre,Wilhelm Steinitz
+1889,7,"Chigorin, Mikhail","Steinitz, William",34,33,23.058823529411764,31.272727272727273,54.331550802139034,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,8,"Steinitz, William","Chigorin, Mikhail",36,37,23,46.189189189189186,69.1891891891892,D46,Semi-Slav Defense: Chigorin Defense,Wilhelm Steinitz
+1889,9,"Chigorin, Mikhail","Steinitz, William",56,56,37.44642857142857,32.839285714285715,70.28571428571428,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,10,"Steinitz, William","Chigorin, Mikhail",27,26,23.037037037037038,45.73076923076923,68.76780626780626,D07,"Queen's Gambit Declined: Chigorin Defense, Main Line",Wilhelm Steinitz
+1889,11,"Chigorin, Mikhail","Steinitz, William",31,30,20.677419354838708,28.766666666666666,49.44408602150537,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,12,"Steinitz, William","Chigorin, Mikhail",61,60,37.67213114754098,45.35,83.02213114754099,D07,"Queen's Gambit Declined: Chigorin Defense, Main Line",Wilhelm Steinitz
+1889,13,"Chigorin, Mikhail","Steinitz, William",64,63,33.21875,43.98412698412698,77.20287698412699,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,14,"Steinitz, William","Chigorin, Mikhail",34,34,30.058823529411764,71.88235294117646,101.94117647058823,D07,"Queen's Gambit Declined: Chigorin Defense, Main Line",Wilhelm Steinitz
+1889,15,"Chigorin, Mikhail","Steinitz, William",36,36,40.75,36.361111111111114,77.11111111111111,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1889,16,"Steinitz, William","Chigorin, Mikhail",52,51,27.51923076923077,34.372549019607845,61.89177978883862,A04,Zukertort Opening: Dutch Variation,Wilhelm Steinitz
+1889,17,"Chigorin, Mikhail","Steinitz, William",70,70,23.614285714285714,22.214285714285715,45.82857142857143,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1890,1,"Steinitz, William","Gunsberg, Isidor",25,25,28.08,25.68,53.76,D35,Queen's Gambit Declined: Normal Defense,Wilhelm Steinitz
+1890,2,"Gunsberg, Isidor","Steinitz, William",40,40,31.125,16.975,48.1,C62,Ruy Lopez: Steinitz Defense,Wilhelm Steinitz
+1890,3,"Steinitz, William","Gunsberg, Isidor",27,27,15.296296296296296,15.592592592592593,30.88888888888889,D31,Semi-Slav Defense: Accelerated Move Order,Wilhelm Steinitz
+1890,4,"Gunsberg, Isidor","Steinitz, William",57,55,27.17543859649123,35.163636363636364,62.33907496012759,C50,"Italian Game: Giuoco Pianissimo, Normal",Wilhelm Steinitz
+1890,5,"Steinitz, William","Gunsberg, Isidor",28,27,38.857142857142854,17.37037037037037,56.22751322751323,D20,Queen's Gambit Accepted: Old Variation,Wilhelm Steinitz
+1890,6,"Gunsberg, Isidor","Steinitz, William",42,43,38.95238095238095,29.13953488372093,68.09191583610188,D00,Queen's Pawn Game,Wilhelm Steinitz
+1890,7,"Steinitz, William","Gunsberg, Isidor",28,27,16.071428571428573,28.074074074074073,44.145502645502646,D26,"Queen's Gambit Accepted: Normal Variation, Traditional System",Wilhelm Steinitz
+1890,8,"Gunsberg, Isidor","Steinitz, William",36,35,14.61111111111111,15.114285714285714,29.725396825396825,C53,"Italian Game: Classical Variation, Giuoco Pianissimo",Wilhelm Steinitz
+1890,9,"Steinitz, William","Gunsberg, Isidor",80,79,21.9375,22.810126582278482,44.747626582278485,A46,Yusupov-Rubinstein System,Wilhelm Steinitz
+1890,10,"Gunsberg, Isidor","Steinitz, William",43,43,30.46511627906977,25.069767441860463,55.53488372093023,C53,"Italian Game: Classical Variation, Giuoco Pianissimo",Wilhelm Steinitz
+1890,11,"Steinitz, William","Gunsberg, Isidor",28,28,8.857142857142858,7.214285714285714,16.071428571428573,D05,Queen's Pawn Game: Colle System,Wilhelm Steinitz
+1890,12,"Gunsberg, Isidor","Steinitz, William",24,23,36.208333333333336,45.43478260869565,81.64311594202898,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1890,13,"Steinitz, William","Gunsberg, Isidor",40,39,39.375,54.743589743589745,94.11858974358975,A46,Yusupov-Rubinstein System,Wilhelm Steinitz
+1890,14,"Gunsberg, Isidor","Steinitz, William",33,33,44.36363636363637,33.121212121212125,77.4848484848485,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1890,15,"Steinitz, William","Gunsberg, Isidor",39,38,13.76923076923077,12.763157894736842,26.532388663967613,E14,Queen's Indian Defense: Spassky System,Wilhelm Steinitz
+1890,16,"Gunsberg, Isidor","Steinitz, William",21,20,28,49.8,77.8,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1890,17,"Steinitz, William","Gunsberg, Isidor",56,56,25.142857142857142,24.767857142857142,49.910714285714285,D06,Queen's Gambit Declined: Marshall Defense,Wilhelm Steinitz
+1890,18,"Gunsberg, Isidor","Steinitz, William",54,54,36.74074074074074,29.166666666666668,65.9074074074074,C52,"Italian Game: Evans Gambit, Slow Variation",Wilhelm Steinitz
+1890,19,"Steinitz, William","Gunsberg, Isidor",41,41,14.121951219512194,14.731707317073171,28.853658536585364,D00,Queen's Pawn Game,Wilhelm Steinitz
+1892,1,"Chigorin, Mikhail","Steinitz, William",30,30,35.06666666666667,64.9,99.96666666666667,C52,"Italian Game: Evans Gambit, Alapin-Steinitz Variation",Wilhelm Steinitz
+1892,2,"Steinitz, William","Chigorin, Mikhail",32,31,30.125,31.451612903225808,61.57661290322581,C65,Ruy Lopez: Berlin Defense,Wilhelm Steinitz
+1892,3,"Chigorin, Mikhail","Steinitz, William",32,32,23.84375,26.78125,50.625,C52,"Italian Game: Evans Gambit, Alapin-Steinitz Variation",Wilhelm Steinitz
+1892,4,"Steinitz, William","Chigorin, Mikhail",27,27,12.185185185185185,22.037037037037038,34.22222222222222,C65,Ruy Lopez: Berlin Defense,Wilhelm Steinitz
+1892,5,"Chigorin, Mikhail","Steinitz, William",55,54,21.69090909090909,22.74074074074074,44.431649831649835,C52,"Italian Game: Evans Gambit, Alapin-Steinitz Variation",Wilhelm Steinitz
+1892,6,"Steinitz, William","Chigorin, Mikhail",47,46,20.595744680851062,38.02173913043478,58.617483811285844,C59,"Italian Game: Two Knights Defense, Steinitz Variation",Wilhelm Steinitz
+1892,7,"Chigorin, Mikhail","Steinitz, William",28,27,21.321428571428573,40.18518518518518,61.50661375661376,C52,"Italian Game: Evans Gambit, Sanders-Alapin Variation",Wilhelm Steinitz
+1892,8,"Steinitz, William","Chigorin, Mikhail",24,24,87.20833333333333,55.5,142.70833333333331,C58,"Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line",Wilhelm Steinitz
+1892,9,"Chigorin, Mikhail","Steinitz, William",34,33,15.529411764705882,14.454545454545455,29.983957219251337,C52,"Italian Game: Evans Gambit, Sanders-Alapin Variation",Wilhelm Steinitz
+1892,10,"Steinitz, William","Chigorin, Mikhail",30,30,51.96666666666667,33.43333333333333,85.4,C58,"Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line",Wilhelm Steinitz
+1892,11,"Chigorin, Mikhail","Steinitz, William",45,45,43.08888888888889,31.08888888888889,74.17777777777778,C62,Ruy Lopez: Steinitz Defense,Wilhelm Steinitz
+1892,12,"Steinitz, William","Chigorin, Mikhail",26,26,53.26923076923077,17.03846153846154,70.3076923076923,C59,"Italian Game: Two Knights Defense, Steinitz Variation",Wilhelm Steinitz
+1892,13,"Chigorin, Mikhail","Steinitz, William",38,38,33.55263157894737,17.736842105263158,51.28947368421053,C52,"Italian Game: Evans Gambit, Alapin-Steinitz Variation",Wilhelm Steinitz
+1892,14,"Steinitz, William","Chigorin, Mikhail",33,31,21.060606060606062,42.516129032258064,63.576735092864126,C65,Ruy Lopez: Berlin Defense,Wilhelm Steinitz
+1892,15,"Chigorin, Mikhail","Steinitz, William",47,46,64.70212765957447,74.19565217391305,138.8977798334875,C52,"Italian Game: Evans Gambit, Alapin-Steinitz Variation",Wilhelm Steinitz
+1892,16,"Steinitz, William","Chigorin, Mikhail",38,37,26.57894736842105,35.32432432432432,61.90327169274538,C77,"Ruy Lopez: Morphy Defense, Anderssen Variation",Wilhelm Steinitz
+1892,17,"Chigorin, Mikhail","Steinitz, William",39,37,28.71794871794872,38.75675675675676,67.47470547470547,C52,"Italian Game: Evans Gambit, Alapin-Steinitz Variation",Wilhelm Steinitz
+1892,18,"Steinitz, William","Chigorin, Mikhail",39,37,25.487179487179485,41.7027027027027,67.18988218988218,A04,Zukertort Opening: Dutch Variation,Wilhelm Steinitz
+1892,19,"Chigorin, Mikhail","Steinitz, William",32,31,48.125,71.41935483870968,119.54435483870968,C45,Scotch Game: Horwitz Attack,Wilhelm Steinitz
+1892,20,"Steinitz, William","Chigorin, Mikhail",41,40,16.024390243902438,25.175,41.19939024390244,D05,Queen's Pawn Game: Colle System,Wilhelm Steinitz
+1892,21,"Chigorin, Mikhail","Steinitz, William",47,46,55.276595744680854,54.26086956521739,109.53746530989824,C25,"Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Main Line",Wilhelm Steinitz
+1892,22,"Steinitz, William","Chigorin, Mikhail",49,48,17.224489795918366,28.583333333333332,45.8078231292517,D55,"Queen's Gambit Declined: Modern Variation, Normal Line",Wilhelm Steinitz
+1892,23,"Chigorin, Mikhail","Steinitz, William",31,32,34.58064516129032,35,69.58064516129032,C34,King's Gambit Accepted: Schallopp Defense,Wilhelm Steinitz
+1894,1,"Lasker, Emanuel","Steinitz, William",60,59,23.933333333333334,27.76271186440678,51.69604519774011,C62,Ruy Lopez: Steinitz Defense,Emanuel Lasker
+1894,2,"Steinitz, William","Lasker, Emanuel",42,41,25.595238095238095,36,61.595238095238095,C65,Ruy Lopez: Berlin Defense,Emanuel Lasker
+1894,3,"Lasker, Emanuel","Steinitz, William",52,51,32.32692307692308,40.96078431372549,73.28770739064856,C62,Ruy Lopez: Steinitz Defense,Emanuel Lasker
+1894,4,"Steinitz, William","Lasker, Emanuel",60,59,34.233333333333334,39.355932203389834,73.58926553672316,C53,"Italian Game: Classical Variation, Greco Gambit",Emanuel Lasker
+1894,5,"Lasker, Emanuel","Steinitz, William",50,49,17.7,16.93877551020408,34.638775510204084,C62,Ruy Lopez: Steinitz Defense,Emanuel Lasker
+1894,6,"Steinitz, William","Lasker, Emanuel",71,71,18.04225352112676,17.619718309859156,35.66197183098592,C53,"Italian Game: Classical Variation, Greco Gambit",Emanuel Lasker
+1894,7,"Lasker, Emanuel","Steinitz, William",46,45,35.630434782608695,52.91111111111111,88.54154589371981,C62,Ruy Lopez: Steinitz Defense,Emanuel Lasker
+1894,8,"Steinitz, William","Lasker, Emanuel",76,76,37.8421052631579,30.75,68.59210526315789,C10,"French Defense: Rubinstein Variation, Blackburne Defense",Emanuel Lasker
+1894,9,"Lasker, Emanuel","Steinitz, William",49,48,16.142857142857142,22.395833333333332,38.538690476190474,C62,Ruy Lopez: Steinitz Defense,Emanuel Lasker
+1894,10,"Steinitz, William","Lasker, Emanuel",34,34,41.411764705882355,25.970588235294116,67.38235294117646,D35,Queen's Gambit Declined: Normal Defense,Emanuel Lasker
+1894,11,"Lasker, Emanuel","Steinitz, William",38,37,25.605263157894736,37.891891891891895,63.49715504978663,D37,Queen's Gambit Declined: Three Knights Variation,Emanuel Lasker
+1894,12,"Steinitz, William","Lasker, Emanuel",50,50,20.14,18.58,38.72,D60,Queen's Gambit Declined: Orthodox Defense,Emanuel Lasker
+1894,13,"Lasker, Emanuel","Steinitz, William",55,55,28.654545454545456,16.963636363636365,45.618181818181824,C68,Ruy Lopez: Exchange Variation,Emanuel Lasker
+1894,14,"Steinitz, William","Lasker, Emanuel",46,45,15.521739130434783,24.711111111111112,40.2328502415459,D46,Semi-Slav Defense: Chigorin Defense,Emanuel Lasker
+1894,15,"Lasker, Emanuel","Steinitz, William",44,43,13.227272727272727,24.88372093023256,38.11099365750529,D37,Queen's Gambit Declined: Three Knights Variation,Emanuel Lasker
+1894,16,"Steinitz, William","Lasker, Emanuel",54,54,32.611111111111114,23.12962962962963,55.74074074074075,D60,Queen's Gambit Declined: Orthodox Defense,Emanuel Lasker
+1894,17,"Lasker, Emanuel","Steinitz, William",51,51,18.705882352941178,17.333333333333332,36.03921568627451,C50,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",Emanuel Lasker
+1894,18,"Steinitz, William","Lasker, Emanuel",61,61,20.65573770491803,19.016393442622952,39.67213114754098,D67,"Queen's Gambit Declined: Orthodox Defense, Bd3 Line",Emanuel Lasker
+1894,19,"Lasker, Emanuel","Steinitz, William",52,51,15.096153846153847,23.647058823529413,38.74321266968326,D37,Queen's Gambit Declined: Three Knights Variation,Emanuel Lasker
+1896,1,"Steinitz, William","Lasker, Emanuel",45,45,33.62222222222222,27.022222222222222,60.644444444444446,C54,"Italian Game: Giuoco Piano, Steinitz Variation",Emanuel Lasker
+1896,2,"Lasker, Emanuel","Steinitz, William",40,40,13.7,20.9,34.599999999999994,C64,"Ruy Lopez: Classical Variation, Central Variation",Emanuel Lasker
+1896,3,"Steinitz, William","Lasker, Emanuel",39,39,25.974358974358974,15.076923076923077,41.05128205128205,C54,"Italian Game: Giuoco Piano, Steinitz Variation",Emanuel Lasker
+1896,4,"Lasker, Emanuel","Steinitz, William",66,65,14.257575757575758,18.784615384615385,33.04219114219114,C64,"Ruy Lopez: Classical Variation, Central Variation",Emanuel Lasker
+1896,5,"Steinitz, William","Lasker, Emanuel",39,39,39.76923076923077,41.35897435897436,81.12820512820512,D53,Queen's Gambit Declined,Emanuel Lasker
+1896,6,"Lasker, Emanuel","Steinitz, William",58,57,29.53448275862069,41.8421052631579,71.37658802177859,C50,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",Emanuel Lasker
+1896,7,"Steinitz, William","Lasker, Emanuel",75,75,20.466666666666665,20.6,41.06666666666666,D53,Queen's Gambit Declined,Emanuel Lasker
+1896,8,"Lasker, Emanuel","Steinitz, William",56,55,39.44642857142857,38.163636363636364,77.61006493506494,C62,Ruy Lopez: Steinitz Defense,Emanuel Lasker
+1896,9,"Steinitz, William","Lasker, Emanuel",34,34,24.58823529411765,22.647058823529413,47.23529411764706,D53,Queen's Gambit Declined,Emanuel Lasker
+1896,10,"Lasker, Emanuel","Steinitz, William",41,40,16.26829268292683,22.5,38.76829268292683,C68,"Ruy Lopez: Exchange Variation, Keres Variation",Emanuel Lasker
+1896,11,"Steinitz, William","Lasker, Emanuel",64,64,16.59375,11.1875,27.78125,D53,Queen's Gambit Declined,Emanuel Lasker
+1896,12,"Lasker, Emanuel","Steinitz, William",30,30,31.3,20.833333333333332,52.13333333333333,C71,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Emanuel Lasker
+1896,13,"Steinitz, William","Lasker, Emanuel",38,37,20.842105263157894,24.64864864864865,45.49075391180654,D53,Queen's Gambit Declined,Emanuel Lasker
+1896,14,"Lasker, Emanuel","Steinitz, William",78,77,28.807692307692307,31.68831168831169,60.49600399600399,C68,"Ruy Lopez: Exchange Variation, Keres Variation",Emanuel Lasker
+1896,15,"Steinitz, William","Lasker, Emanuel",35,34,13.2,12.941176470588236,26.141176470588235,D53,Queen's Gambit Declined,Emanuel Lasker
+1896,16,"Lasker, Emanuel","Steinitz, William",42,40,26.142857142857142,38.475,64.61785714285715,C71,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Emanuel Lasker
+1896,17,"Steinitz, William","Lasker, Emanuel",59,59,33.186440677966104,32.25423728813559,65.4406779661017,D60,"Queen's Gambit Declined: Orthodox Defense, Rauzer Variation",Emanuel Lasker
+1907,1,"Marshall, Frank James","Lasker, Emanuel",49,49,34.89795918367347,28.53061224489796,63.42857142857143,C65,"Ruy Lopez: Berlin Defense, Nyholm Attack",Emanuel Lasker
+1907,2,"Lasker, Emanuel","Marshall, Frank James",52,51,22.307692307692307,29.431372549019606,51.73906485671191,C11,"French Defense: Classical Variation, Swiss Variation",Emanuel Lasker
+1907,3,"Marshall, Frank James","Lasker, Emanuel",42,42,37.214285714285715,22.404761904761905,59.61904761904762,D53,Queen's Gambit Declined: Lasker Defense,Emanuel Lasker
+1907,4,"Lasker, Emanuel","Marshall, Frank James",40,40,10.5,10.475,20.975,C12,"French Defense: MacCutcheon Variation, Lasker Variation",Emanuel Lasker
+1907,5,"Marshall, Frank James","Lasker, Emanuel",41,41,9.560975609756097,8.146341463414634,17.70731707317073,D53,Queen's Gambit Declined: Lasker Defense,Emanuel Lasker
+1907,6,"Lasker, Emanuel","Marshall, Frank James",21,21,11.142857142857142,13.428571428571429,24.57142857142857,C12,"French Defense: MacCutcheon Variation, Exchange Variation",Emanuel Lasker
+1907,7,"Marshall, Frank James","Lasker, Emanuel",49,48,16.285714285714285,14.979166666666666,31.26488095238095,D32,Tarrasch Defense: Two Knights Variation,Emanuel Lasker
+1907,8,"Lasker, Emanuel","Marshall, Frank James",67,66,26.16417910447761,34.196969696969695,60.36114880144731,C12,"French Defense: MacCutcheon Variation, Exchange Variation",Emanuel Lasker
+1907,9,"Marshall, Frank James","Lasker, Emanuel",46,45,9.826086956521738,8.666666666666666,18.492753623188406,D32,Tarrasch Defense: Two Knights Variation,Emanuel Lasker
+1907,10,"Lasker, Emanuel","Marshall, Frank James",48,47,12.791666666666666,12.127659574468085,24.91932624113475,C12,"French Defense: MacCutcheon Variation, Exchange Variation",Emanuel Lasker
+1907,11,"Marshall, Frank James","Lasker, Emanuel",51,50,21.45098039215686,21.94,43.39098039215686,A83,"Dutch Defense: Staunton Gambit, Chigorin Variation",Emanuel Lasker
+1907,12,"Lasker, Emanuel","Marshall, Frank James",45,45,16.066666666666666,42.62222222222222,58.68888888888888,C11,"French Defense: Classical Variation, Swiss Variation",Emanuel Lasker
+1907,13,"Marshall, Frank James","Lasker, Emanuel",58,58,40.46551724137931,18.93103448275862,59.39655172413793,D07,"Queen's Gambit Declined: Chigorin Defense, Exchange Variation",Emanuel Lasker
+1907,14,"Lasker, Emanuel","Marshall, Frank James",20,19,57.8,90.36842105263158,148.16842105263157,C11,"French Defense: Classical Variation, Swiss Variation",Emanuel Lasker
+1907,15,"Marshall, Frank James","Lasker, Emanuel",37,37,42.45945945945946,29.91891891891892,72.37837837837839,D53,Queen's Gambit Declined: Lasker Defense,Emanuel Lasker
+1908,1,"Lasker, Emanuel","Tarrasch, Siegbert",55,54,13.709090909090909,20.35185185185185,34.06094276094276,C68,Ruy Lopez: Exchange Variation,Emanuel Lasker
+1908,2,"Tarrasch, Siegbert","Lasker, Emanuel",41,41,37.8780487804878,29.48780487804878,67.36585365853658,C66,"Ruy Lopez: Berlin Defense, Hedgehog Variation",Emanuel Lasker
+1908,3,"Lasker, Emanuel","Tarrasch, Siegbert",43,43,43.06976744186046,34.25581395348837,77.32558139534883,C98,"Ruy Lopez: Closed, Chigorin Defense",Emanuel Lasker
+1908,4,"Tarrasch, Siegbert","Lasker, Emanuel",41,41,44.65853658536585,17.24390243902439,61.90243902439024,C66,"Ruy Lopez: Berlin Defense, Hedgehog Variation",Emanuel Lasker
+1908,5,"Lasker, Emanuel","Tarrasch, Siegbert",38,37,27.18421052631579,40.972972972972975,68.15718349928876,C98,"Ruy Lopez: Closed, Chigorin Defense",Emanuel Lasker
+1908,6,"Tarrasch, Siegbert","Lasker, Emanuel",53,53,22.132075471698112,21.0188679245283,43.15094339622641,C10,French Defense: Rubinstein Variation,Emanuel Lasker
+1908,7,"Lasker, Emanuel","Tarrasch, Siegbert",76,75,34.31578947368421,48.88,83.19578947368421,C12,French Defense: MacCutcheon Variation,Emanuel Lasker
+1908,8,"Tarrasch, Siegbert","Lasker, Emanuel",48,48,16.125,15.291666666666666,31.416666666666664,C67,"Ruy Lopez: Berlin Defense, Rio de Janeiro Variation",Emanuel Lasker
+1908,9,"Lasker, Emanuel","Tarrasch, Siegbert",71,71,13.183098591549296,12.56338028169014,25.746478873239436,C12,French Defense: MacCutcheon Variation,Emanuel Lasker
+1908,10,"Tarrasch, Siegbert","Lasker, Emanuel",32,31,16.65625,16.967741935483872,33.62399193548387,C67,"Ruy Lopez: Berlin Defense, Rio de Janeiro Variation",Emanuel Lasker
+1908,11,"Lasker, Emanuel","Tarrasch, Siegbert",28,26,18.571428571428573,39.69230769230769,58.26373626373626,C12,"French Defense: MacCutcheon Variation, Exchange Variation",Emanuel Lasker
+1908,12,"Tarrasch, Siegbert","Lasker, Emanuel",65,64,27.16923076923077,34.21875,61.387980769230765,C49,"Four Knights Game: Spanish Variation, Double Spanish",Emanuel Lasker
+1908,13,"Lasker, Emanuel","Tarrasch, Siegbert",44,43,14.772727272727273,23.813953488372093,38.586680761099366,D32,Tarrasch Defense: Symmetrical Variation,Emanuel Lasker
+1908,14,"Tarrasch, Siegbert","Lasker, Emanuel",119,119,11.243697478991596,12.067226890756302,23.310924369747898,C67,"Ruy Lopez: Berlin Defense, Rio de Janeiro Variation",Emanuel Lasker
+1908,15,"Lasker, Emanuel","Tarrasch, Siegbert",52,51,10.076923076923077,10.313725490196079,20.390648567119158,D02,Queen's Pawn Game: Krause Variation,Emanuel Lasker
+1908,16,"Tarrasch, Siegbert","Lasker, Emanuel",26,26,43.15384615384615,32.26923076923077,75.42307692307692,C49,"Four Knights Game: Spanish Variation, Symmetrical Variation, Tarrasch Variation",Emanuel Lasker
+1910,1,"Lasker, Emanuel","Janowski, Dawid Markelowicz",22,21,11.727272727272727,15.142857142857142,26.87012987012987,D41,Queen's Gambit Declined: Semi-Tarrasch Defense,Emanuel Lasker
+1910,2,"Janowski, Dawid Markelowicz","Lasker, Emanuel",45,45,16.77777777777778,17.31111111111111,34.08888888888889,D05,Rubinstein Opening: Bogoljubov Defense,Emanuel Lasker
+1910,3,"Lasker, Emanuel","Janowski, Dawid Markelowicz",101,100,13.178217821782178,13.21,26.388217821782177,D60,"Queen's Gambit Declined: Orthodox Defense, Botvinnik Variation",Emanuel Lasker
+1910,4,"Janowski, Dawid Markelowicz","Lasker, Emanuel",31,31,16.93548387096774,13.580645161290322,30.516129032258064,D04,Queen's Pawn Game: Colle System,Emanuel Lasker
+1910,5,"Lasker, Emanuel","Janowski, Dawid Markelowicz",29,28,38.93103448275862,61.42857142857143,100.35960591133005,D32,Tarrasch Defense: Two Knights Variation,Emanuel Lasker
+1910,6,"Janowski, Dawid Markelowicz","Lasker, Emanuel",67,66,16.029850746268657,14.272727272727273,30.30257801899593,D02,Queen's Pawn Game: Symmetrical Variation,Emanuel Lasker
+1910,7,"Lasker, Emanuel","Janowski, Dawid Markelowicz",46,45,26.23913043478261,37.333333333333336,63.572463768115945,D32,Tarrasch Defense: Two Knights Variation,Emanuel Lasker
+1910,8,"Janowski, Dawid Markelowicz","Lasker, Emanuel",88,88,28.636363636363637,22.977272727272727,51.61363636363636,D04,Queen's Pawn Game: Colle System,Emanuel Lasker
+1910,9,"Lasker, Emanuel","Janowski, Dawid Markelowicz",43,42,19.6046511627907,31.952380952380953,51.55703211517165,C78,Ruy Lopez: Morphy Defense,Emanuel Lasker
+1910,10,"Janowski, Dawid Markelowicz","Lasker, Emanuel",52,52,29.21153846153846,23.03846153846154,52.25,B07,King's Pawn Game: Maróczy Defense,Emanuel Lasker
+1910,11,"Lasker, Emanuel","Janowski, Dawid Markelowicz",30,29,46.766666666666666,61.48275862068966,108.24942528735633,C30,King's Gambit Declined: Classical Variation,Emanuel Lasker
+1921,1,"Capablanca, Jose Raul","Lasker, Emanuel",50,50,11.92,10.86,22.78,D63,"Queen's Gambit Declined: Orthodox Defense, Capablanca Variation",José Raúl Capablanca
+1921,2,"Lasker, Emanuel","Capablanca, Jose Raul",41,40,20.536585365853657,20.2,40.73658536585366,D37,Queen's Gambit Declined: Barmen Variation,José Raúl Capablanca
+1921,3,"Capablanca, Jose Raul","Lasker, Emanuel",63,62,11.301587301587302,10.983870967741936,22.28545826932924,C66,"Ruy Lopez: Berlin Defense, Hedgehog Variation",José Raúl Capablanca
+1921,4,"Lasker, Emanuel","Capablanca, Jose Raul",30,29,7,5.827586206896552,12.827586206896552,D61,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation",José Raúl Capablanca
+1921,5,"Capablanca, Jose Raul","Lasker, Emanuel",46,45,41.82608695652174,53.55555555555556,95.38164251207729,D63,"Queen's Gambit Declined: Orthodox Defense, Main Line",José Raúl Capablanca
+1921,6,"Lasker, Emanuel","Capablanca, Jose Raul",43,43,12.790697674418604,12.953488372093023,25.74418604651163,C66,"Ruy Lopez: Berlin Defense, Hedgehog Variation",José Raúl Capablanca
+1921,7,"Capablanca, Jose Raul","Lasker, Emanuel",23,23,7.3478260869565215,8.217391304347826,15.565217391304348,D64,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",José Raúl Capablanca
+1921,8,"Lasker, Emanuel","Capablanca, Jose Raul",30,30,9.1,10.3,19.4,D12,"Slav Defense: Quiet Variation, Schallopp Defense",José Raúl Capablanca
+1921,9,"Capablanca, Jose Raul","Lasker, Emanuel",24,24,9.875,9.625,19.5,D33,Tarrasch Defense: Prague Variation,José Raúl Capablanca
+1921,10,"Lasker, Emanuel","Capablanca, Jose Raul",68,68,26.058823529411764,19.720588235294116,45.779411764705884,D61,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation",José Raúl Capablanca
+1921,11,"Capablanca, Jose Raul","Lasker, Emanuel",48,46,18,26.956521739130434,44.95652173913044,D63,"Queen's Gambit Declined: Orthodox Defense, Main Line",José Raúl Capablanca
+1921,12,"Lasker, Emanuel","Capablanca, Jose Raul",31,30,31.161290322580644,32.6,63.76129032258065,C66,"Ruy Lopez: Berlin Defense, Hedgehog Variation",José Raúl Capablanca
+1921,13,"Capablanca, Jose Raul","Lasker, Emanuel",23,23,12,9.869565217391305,21.869565217391305,D63,"Queen's Gambit Declined: Orthodox Defense, Main Line",José Raúl Capablanca
+1921,14,"Lasker, Emanuel","Capablanca, Jose Raul",56,56,19.339285714285715,14.482142857142858,33.82142857142857,C66,"Ruy Lopez: Berlin Defense, Closed Showalter Variation",José Raúl Capablanca
+1927,1,"Capablanca, Jose Raul","Alekhine, Alexander",43,43,29.88372093023256,20.790697674418606,50.674418604651166,C15,"French Defense: Winawer Variation, Delayed Exchange Variation",Alexander Alekhine
+1927,2,"Alekhine, Alexander","Capablanca, Jose Raul",19,19,7.2631578947368425,8.421052631578947,15.68421052631579,D65,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",Alexander Alekhine
+1927,3,"Capablanca, Jose Raul","Alekhine, Alexander",42,40,24.738095238095237,37.525,62.26309523809523,A47,Marienbad System,Alexander Alekhine
+1927,4,"Alekhine, Alexander","Capablanca, Jose Raul",49,49,10.816326530612244,11.612244897959183,22.428571428571427,D64,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",Alexander Alekhine
+1927,5,"Capablanca, Jose Raul","Alekhine, Alexander",42,41,8.857142857142858,8.463414634146341,17.3205574912892,D51,"Queen's Gambit Declined: Capablanca Variation, Anti-Cambridge Springs Variation",Alexander Alekhine
+1927,6,"Alekhine, Alexander","Capablanca, Jose Raul",40,39,8.825,9.256410256410257,18.08141025641026,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,7,"Capablanca, Jose Raul","Alekhine, Alexander",36,35,14.61111111111111,27.314285714285713,41.925396825396824,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Argentine Variation",Alexander Alekhine
+1927,8,"Alekhine, Alexander","Capablanca, Jose Raul",42,42,8.738095238095237,7.976190476190476,16.714285714285715,D62,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation, Flohr Line",Alexander Alekhine
+1927,9,"Capablanca, Jose Raul","Alekhine, Alexander",34,34,12.205882352941176,11.852941176470589,24.058823529411764,D51,"Queen's Gambit Declined: Modern Variation, Knight Defense",Alexander Alekhine
+1927,10,"Alekhine, Alexander","Capablanca, Jose Raul",20,20,8.95,9.2,18.15,D62,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation, Flohr Line",Alexander Alekhine
+1927,11,"Capablanca, Jose Raul","Alekhine, Alexander",65,66,27.215384615384615,21.71212121212121,48.927505827505826,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubov Variation",Alexander Alekhine
+1927,12,"Alekhine, Alexander","Capablanca, Jose Raul",41,40,20.829268292682926,20.85,41.67926829268293,D64,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",Alexander Alekhine
+1927,13,"Capablanca, Jose Raul","Alekhine, Alexander",27,27,10.62962962962963,10.148148148148149,20.77777777777778,D63,"Queen's Gambit Declined: Orthodox Defense, Henneberger Variation",Alexander Alekhine
+1927,14,"Alekhine, Alexander","Capablanca, Jose Raul",25,25,11.08,10,21.08,D64,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",Alexander Alekhine
+1927,15,"Capablanca, Jose Raul","Alekhine, Alexander",30,29,10.033333333333333,9.89655172413793,19.929885057471264,D63,"Queen's Gambit Declined: Orthodox Defense, Henneberger Variation",Alexander Alekhine
+1927,16,"Alekhine, Alexander","Capablanca, Jose Raul",24,23,7.25,7.391304347826087,14.641304347826086,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,17,"Capablanca, Jose Raul","Alekhine, Alexander",59,59,11.067796610169491,10.101694915254237,21.16949152542373,D63,"Queen's Gambit Declined: Orthodox Defense, Henneberger Variation",Alexander Alekhine
+1927,18,"Alekhine, Alexander","Capablanca, Jose Raul",28,27,12.964285714285714,11.666666666666666,24.63095238095238,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,19,"Capablanca, Jose Raul","Alekhine, Alexander",21,21,19.285714285714285,16.61904761904762,35.904761904761905,D63,"Queen's Gambit Declined: Orthodox Defense, Henneberger Variation",Alexander Alekhine
+1927,20,"Alekhine, Alexander","Capablanca, Jose Raul",43,43,11.116279069767442,9.720930232558139,20.837209302325583,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,21,"Capablanca, Jose Raul","Alekhine, Alexander",32,32,27.25,11.03125,38.28125,D63,"Queen's Gambit Declined: Orthodox Defense, Henneberger Variation",Alexander Alekhine
+1927,22,"Alekhine, Alexander","Capablanca, Jose Raul",86,86,14.872093023255815,15.093023255813954,29.96511627906977,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,23,"Capablanca, Jose Raul","Alekhine, Alexander",48,47,7.6875,7.702127659574468,15.389627659574469,D63,"Queen's Gambit Declined: Orthodox Defense, Swiss, Karlsbad Variation",Alexander Alekhine
+1927,24,"Alekhine, Alexander","Capablanca, Jose Raul",41,40,16.804878048780488,14.8,31.60487804878049,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,25,"Capablanca, Jose Raul","Alekhine, Alexander",41,40,12.585365853658537,14.45,27.035365853658536,D63,"Queen's Gambit Declined: Orthodox Defense, Swiss, Karlsbad Variation",Alexander Alekhine
+1927,26,"Alekhine, Alexander","Capablanca, Jose Raul",22,21,6.863636363636363,6.571428571428571,13.435064935064934,D64,"Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack",Alexander Alekhine
+1927,27,"Capablanca, Jose Raul","Alekhine, Alexander",38,38,29.657894736842106,23,52.65789473684211,D63,"Queen's Gambit Declined: Orthodox Defense, Swiss, Karlsbad Variation",Alexander Alekhine
+1927,28,"Alekhine, Alexander","Capablanca, Jose Raul",43,42,7.186046511627907,5.9523809523809526,13.13842746400886,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,29,"Capablanca, Jose Raul","Alekhine, Alexander",70,69,16.2,19.884057971014492,36.08405797101449,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubov Variation",Alexander Alekhine
+1927,30,"Alekhine, Alexander","Capablanca, Jose Raul",40,40,10.075,8.525,18.6,D67,"Queen's Gambit Declined: Orthodox Defense, Alekhine Variation",Alexander Alekhine
+1927,31,"Capablanca, Jose Raul","Alekhine, Alexander",42,41,19.833333333333332,20.29268292682927,40.1260162601626,D51,"Queen's Gambit Declined: Modern Variation, Knight Defense",Alexander Alekhine
+1927,32,"Alekhine, Alexander","Capablanca, Jose Raul",63,62,18.396825396825395,31.5,49.89682539682539,D51,"Queen's Gambit Declined: Modern Variation, Knight Defense",Alexander Alekhine
+1927,33,"Capablanca, Jose Raul","Alekhine, Alexander",18,18,11.555555555555555,9.5,21.055555555555557,D51,"Queen's Gambit Declined: Modern Variation, Knight Defense",Alexander Alekhine
+1927,34,"Alekhine, Alexander","Capablanca, Jose Raul",82,81,24.01219512195122,28.061728395061728,52.07392351701294,D51,"Queen's Gambit Declined: Capablanca Variation, Anti-Cambridge Springs Variation",Alexander Alekhine
+1929,1,"Alekhine, Alexander","Bogoljubow, Efim",26,25,25.46153846153846,45.52,70.98153846153846,D16,Slav Defense: Soultanbeieff Variation,Alexander Alekhine
+1929,2,"Bogoljubow, Efim","Alekhine, Alexander",51,50,37.470588235294116,37.24,74.71058823529413,E23,"Nimzo-Indian Defense: Spielmann Variation, Romanovsky Gambit",Alexander Alekhine
+1929,3,"Alekhine, Alexander","Bogoljubow, Efim",70,70,10.157142857142857,11.014285714285714,21.17142857142857,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Alexander Alekhine
+1929,4,"Bogoljubow, Efim","Alekhine, Alexander",38,37,25.05263157894737,41.189189189189186,66.24182076813656,E22,Nimzo-Indian Defense: Spielmann Variation,Alexander Alekhine
+1929,5,"Alekhine, Alexander","Bogoljubow, Efim",48,47,16.229166666666668,21.851063829787233,38.0802304964539,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Alexander Alekhine
+1929,6,"Bogoljubow, Efim","Alekhine, Alexander",48,47,15.208333333333334,26.914893617021278,42.12322695035461,E22,Nimzo-Indian Defense: Spielmann Variation,Alexander Alekhine
+1929,7,"Alekhine, Alexander","Bogoljubow, Efim",35,34,15.342857142857143,29.676470588235293,45.01932773109244,D78,"Neo-Grünfeld Defense: Classical Variation, Original Defense",Alexander Alekhine
+1929,8,"Bogoljubow, Efim","Alekhine, Alexander",29,30,31.896551724137932,14,45.896551724137936,A50,Queen's Indian Accelerated,Alexander Alekhine
+1929,9,"Alekhine, Alexander","Bogoljubow, Efim",30,30,13.533333333333333,13.133333333333333,26.666666666666664,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubov Variation",Alexander Alekhine
+1929,10,"Bogoljubow, Efim","Alekhine, Alexander",49,49,32.08163265306123,19.79591836734694,51.87755102040816,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubov Variation",Alexander Alekhine
+1929,11,"Alekhine, Alexander","Bogoljubow, Efim",63,63,26.984126984126984,29.126984126984127,56.111111111111114,D51,Queen's Gambit Declined: Alekhine Variation,Alexander Alekhine
+1929,12,"Bogoljubow, Efim","Alekhine, Alexander",56,56,42.92857142857143,37.035714285714285,79.96428571428572,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation",Alexander Alekhine
+1929,13,"Alekhine, Alexander","Bogoljubow, Efim",34,34,30.441176470588236,14.411764705882353,44.85294117647059,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation",Alexander Alekhine
+1929,14,"Bogoljubow, Efim","Alekhine, Alexander",71,70,9.492957746478874,20.757142857142856,30.250100603621732,D11,Slav Defense: Quiet Variation,Alexander Alekhine
+1929,15,"Alekhine, Alexander","Bogoljubow, Efim",44,44,21.727272727272727,22.613636363636363,44.34090909090909,E60,"Indian Defense: Anti-Grünfeld, Alekhine Variation",Alexander Alekhine
+1929,16,"Bogoljubow, Efim","Alekhine, Alexander",59,60,29.23728813559322,17.466666666666665,46.70395480225989,D11,Slav Defense: Quiet Variation,Alexander Alekhine
+1929,17,"Alekhine, Alexander","Bogoljubow, Efim",34,33,34.029411764705884,60.42424242424242,94.4536541889483,D70,Neo-Grünfeld Defense: Goglidze Attack,Alexander Alekhine
+1929,18,"Bogoljubow, Efim","Alekhine, Alexander",51,50,22,28.36,50.36,C11,"French Defense: Classical Variation, Burn Variation, Morozevich Line",Alexander Alekhine
+1929,19,"Alekhine, Alexander","Bogoljubow, Efim",77,76,18.571428571428573,24.605263157894736,43.17669172932331,D51,Queen's Gambit Declined: Alekhine Variation,Alexander Alekhine
+1929,20,"Bogoljubow, Efim","Alekhine, Alexander",48,47,18.604166666666668,20.76595744680851,39.37012411347518,C74,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Alexander Alekhine
+1929,21,"Alekhine, Alexander","Bogoljubow, Efim",49,48,23.591836734693878,33.166666666666664,56.75850340136054,E22,Nimzo-Indian Defense: Spielmann Variation,Alexander Alekhine
+1929,22,"Bogoljubow, Efim","Alekhine, Alexander",39,38,31.846153846153847,18.5,50.34615384615385,C76,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Fianchetto Variation",Alexander Alekhine
+1929,23,"Alekhine, Alexander","Bogoljubow, Efim",83,82,16.120481927710845,14.573170731707316,30.693652659418163,D11,Slav Defense: Quiet Variation,Alexander Alekhine
+1929,24,"Bogoljubow, Efim","Alekhine, Alexander",38,38,15.842105263157896,15.5,31.342105263157897,C11,French Defense: Burn Variation,Alexander Alekhine
+1929,25,"Alekhine, Alexander","Bogoljubow, Efim",55,55,18.563636363636363,19.945454545454545,38.50909090909091,D11,Slav Defense: Quiet Variation,Alexander Alekhine
+1934,1,"Bogoljubow, Efim","Alekhine, Alexander",65,65,23.2,25.107692307692307,48.30769230769231,D40,"Queen's Gambit Declined: Semi-Tarrasch Defense, Pillsbury Variation",Alexander Alekhine
+1934,2,"Alekhine, Alexander","Bogoljubow, Efim",37,35,19.89189189189189,38.25714285714286,58.149034749034755,D48,Semi-Slav Defense: Meran Variation,Alexander Alekhine
+1934,3,"Bogoljubow, Efim","Alekhine, Alexander",27,27,18.703703703703702,20.666666666666668,39.37037037037037,D22,Queen's Gambit Accepted: Alekhine Defense,Alexander Alekhine
+1934,4,"Alekhine, Alexander","Bogoljubow, Efim",61,60,18.065573770491802,23.366666666666667,41.43224043715847,D10,Slav Defense,Alexander Alekhine
+1934,5,"Bogoljubow, Efim","Alekhine, Alexander",51,50,18.607843137254903,18.28,36.887843137254904,D26,"Queen's Gambit Accepted: Classical Defense, Steinitz Variation, Development Variation",Alexander Alekhine
+1934,6,"Alekhine, Alexander","Bogoljubow, Efim",60,60,33.516666666666666,29.3,62.81666666666666,D11,Slav Defense: Quiet Variation,Alexander Alekhine
+1934,7,"Bogoljubow, Efim","Alekhine, Alexander",17,17,17.647058823529413,16.58823529411765,34.23529411764706,D28,"Queen's Gambit Accepted: Classical Defense, Alekhine System",Alexander Alekhine
+1934,8,"Alekhine, Alexander","Bogoljubow, Efim",64,63,30.703125,28.6984126984127,59.401537698412696,E24,"Nimzo-Indian Defense: Sämisch Variation, Accelerated",Alexander Alekhine
+1934,9,"Bogoljubow, Efim","Alekhine, Alexander",46,46,31.91304347826087,20.369565217391305,52.28260869565217,A44,Benoni Defense: Semi-Benoni,Alexander Alekhine
+1934,10,"Alekhine, Alexander","Bogoljubow, Efim",81,81,23.62962962962963,18.333333333333332,41.96296296296296,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubov Variation",Alexander Alekhine
+1934,11,"Bogoljubow, Efim","Alekhine, Alexander",62,62,35.193548387096776,25.661290322580644,60.85483870967742,A92,Dutch Defense: Classical Variation,Alexander Alekhine
+1934,12,"Alekhine, Alexander","Bogoljubow, Efim",75,74,23.85333333333333,25.56756756756757,49.420900900900904,D49,"Semi-Slav Defense: Meran Variation, Rellstab Attack",Alexander Alekhine
+1934,13,"Bogoljubow, Efim","Alekhine, Alexander",74,73,18.27027027027027,19.19178082191781,37.46205109218808,A47,Pseudo Queen's Indian Defense,Alexander Alekhine
+1934,14,"Alekhine, Alexander","Bogoljubow, Efim",54,53,17.75925925925926,17.11320754716981,34.872466806429074,D43,Semi-Slav Defense,Alexander Alekhine
+1934,15,"Bogoljubow, Efim","Alekhine, Alexander",70,69,23.1,22.36231884057971,45.46231884057971,D21,Queen's Gambit Accepted: Rosenthal Variation,Alexander Alekhine
+1934,16,"Alekhine, Alexander","Bogoljubow, Efim",43,42,22.186046511627907,30.476190476190474,52.66223698781838,C77,"Ruy Lopez: Morphy Defense, Bayreuth Variation",Alexander Alekhine
+1934,17,"Bogoljubow, Efim","Alekhine, Alexander",41,41,37.4390243902439,28.414634146341463,65.85365853658536,D24,Queen's Gambit Accepted: Bogoljubov Defense,Alexander Alekhine
+1934,18,"Alekhine, Alexander","Bogoljubow, Efim",28,28,13.107142857142858,12.392857142857142,25.5,A46,Yusupov-Rubinstein System,Alexander Alekhine
+1934,19,"Bogoljubow, Efim","Alekhine, Alexander",58,58,22.551724137931036,20.517241379310345,43.06896551724138,D27,"Queen's Gambit Accepted: Classical Defense, Main Line",Alexander Alekhine
+1934,20,"Alekhine, Alexander","Bogoljubow, Efim",44,44,14.227272727272727,13.681818181818182,27.909090909090907,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubov Variation",Alexander Alekhine
+1934,21,"Bogoljubow, Efim","Alekhine, Alexander",63,63,31.984126984126984,27.49206349206349,59.476190476190474,D02,Queen's Pawn Game: Zukertort Variation,Alexander Alekhine
+1934,22,"Alekhine, Alexander","Bogoljubow, Efim",42,41,15.69047619047619,14.195121951219512,29.885598141695702,E35,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Alexander Alekhine
+1934,23,"Bogoljubow, Efim","Alekhine, Alexander",58,57,30.17241379310345,30.94736842105263,61.119782214156075,D23,Queen's Gambit Accepted: Mannheim Variation,Alexander Alekhine
+1934,24,"Alekhine, Alexander","Bogoljubow, Efim",39,39,35.82051282051282,17.307692307692307,53.128205128205124,D11,Slav Defense: Quiet Variation,Alexander Alekhine
+1934,25,"Bogoljubow, Efim","Alekhine, Alexander",44,44,42.70454545454545,26.522727272727273,69.22727272727272,D11,Slav Defense: Modern Line,Alexander Alekhine
+1934,26,"Alekhine, Alexander","Bogoljubow, Efim",26,25,20.692307692307693,22.92,43.612307692307695,E67,"King's Indian Defense: Fianchetto Variation, Double Fianchetto Attack",Alexander Alekhine
+1935,1,"Alekhine, Alexander","Euwe, Max",30,29,21.133333333333333,36.827586206896555,57.96091954022989,D17,"Slav Defense: Czech Variation, Carlsbad Variation",Max Euwe
+1935,2,"Euwe, Max","Alekhine, Alexander",45,44,31.755555555555556,36.72727272727273,68.48282828282828,D81,"Grünfeld Defense: Russian Variation, Accelerated Variation",Max Euwe
+1935,3,"Alekhine, Alexander","Euwe, Max",41,40,30.878048780487806,39.925,70.8030487804878,C15,"French Defense: Winawer Variation, Winckelmann-Riemer Gambit",Max Euwe
+1935,4,"Euwe, Max","Alekhine, Alexander",44,44,37.47727272727273,27.65909090909091,65.13636363636364,D81,"Grünfeld Defense: Russian Variation, Accelerated Variation",Max Euwe
+1935,5,"Alekhine, Alexander","Euwe, Max",34,34,11.352941176470589,11.323529411764707,22.676470588235297,C15,"French Defense: Winawer Variation, Alekhine-Maróczy Gambit",Max Euwe
+1935,6,"Euwe, Max","Alekhine, Alexander",73,72,15.794520547945206,17.13888888888889,32.9334094368341,D12,"Slav Defense: Quiet Variation, Schallopp Defense",Max Euwe
+1935,7,"Alekhine, Alexander","Euwe, Max",41,40,50.65853658536585,57.925,108.58353658536585,C15,"French Defense: Winawer Variation, Alekhine-Maróczy Gambit",Max Euwe
+1935,8,"Euwe, Max","Alekhine, Alexander",69,68,17.855072463768117,19.544117647058822,37.399190110826936,D45,Semi-Slav Defense: Accelerated Meran Variation,Max Euwe
+1935,9,"Alekhine, Alexander","Euwe, Max",41,40,22.902439024390244,29.95,52.85243902439024,C15,French Defense: Winawer Variation,Max Euwe
+1935,10,"Euwe, Max","Alekhine, Alexander",41,40,18.463414634146343,29.075,47.53841463414634,D45,Semi-Slav Defense: Accelerated Meran Variation,Max Euwe
+1935,11,"Alekhine, Alexander","Euwe, Max",30,30,15,12.3,27.3,D12,"Slav Defense: Quiet Variation, Amsterdam Variation",Max Euwe
+1935,12,"Euwe, Max","Alekhine, Alexander",36,35,15.194444444444445,30.02857142857143,45.223015873015875,D97,"Grünfeld Defense: Russian Variation, Hungarian Variation",Max Euwe
+1935,13,"Alekhine, Alexander","Euwe, Max",59,58,28.338983050847457,31.03448275862069,59.373465809468144,C83,"Ruy Lopez: Open, Classical Defense",Max Euwe
+1935,14,"Euwe, Max","Alekhine, Alexander",41,39,21.51219512195122,29.743589743589745,51.25578486554096,D82,Grünfeld Defense: Brinckmann Attack,Max Euwe
+1935,15,"Alekhine, Alexander","Euwe, Max",61,61,23.18032786885246,22.868852459016395,46.049180327868854,D17,"Slav Defense: Czech Variation, Bled Attack",Max Euwe
+1935,16,"Euwe, Max","Alekhine, Alexander",65,65,22.49230769230769,13.76923076923077,36.261538461538464,D13,"Slav Defense: Exchange Variation, Schallopp Variation",Max Euwe
+1935,17,"Alekhine, Alexander","Euwe, Max",23,22,9.08695652173913,7.454545454545454,16.541501976284586,D04,"Queen's Pawn Game: Colle System, Anti-Colle",Max Euwe
+1935,18,"Euwe, Max","Alekhine, Alexander",16,15,14.875,15.333333333333334,30.208333333333336,A20,"English Opening: King's English Variation, Nimzowitsch-Flohr Variation",Max Euwe
+1935,19,"Alekhine, Alexander","Euwe, Max",57,56,15.035087719298245,24.142857142857142,39.177944862155385,D16,Slav Defense: Soultanbeieff Variation,Max Euwe
+1935,20,"Euwe, Max","Alekhine, Alexander",41,40,27.195121951219512,31.625,58.82012195121951,D17,"Slav Defense: Czech Variation, Carlsbad Variation",Max Euwe
+1935,21,"Alekhine, Alexander","Euwe, Max",40,40,21.05,14.275,35.325,D17,"Slav Defense: Czech Variation, Carlsbad Variation",Max Euwe
+1935,22,"Euwe, Max","Alekhine, Alexander",18,17,11.11111111111111,13.588235294117647,24.69934640522876,E33,"Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation",Max Euwe
+1935,23,"Alekhine, Alexander","Euwe, Max",58,57,21.24137931034483,20.63157894736842,41.87295825771325,D15,Slav Defense: Alekhine Variation,Max Euwe
+1935,24,"Euwe, Max","Alekhine, Alexander",33,32,19.060606060606062,17.09375,36.15435606060606,A90,"Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation",Max Euwe
+1935,25,"Alekhine, Alexander","Euwe, Max",45,45,34.55555555555556,31.266666666666666,65.82222222222222,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation",Max Euwe
+1935,26,"Euwe, Max","Alekhine, Alexander",47,46,21.574468085106382,29.67391304347826,51.24838112858464,A90,"Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation",Max Euwe
+1935,27,"Alekhine, Alexander","Euwe, Max",41,40,22.4390243902439,26.225,48.6640243902439,C27,"Vienna Game: Stanley Variation, Alekhine Variation",Max Euwe
+1935,28,"Euwe, Max","Alekhine, Alexander",63,62,17.07936507936508,15.46774193548387,32.54710701484895,D66,"Queen's Gambit Declined: Orthodox Defense, Bd3 Line",Max Euwe
+1935,29,"Alekhine, Alexander","Euwe, Max",50,50,10.06,8.78,18.84,B03,"Alekhine Defense: Modern Variation, Alekhine Gambit",Max Euwe
+1935,30,"Euwe, Max","Alekhine, Alexander",40,39,25.975,35.12820512820513,61.10320512820513,D21,Queen's Gambit Accepted: Godes Variation,Max Euwe
+1937,1,"Euwe, Max","Alekhine, Alexander",50,49,22.58,33.3469387755102,55.9269387755102,D17,"Slav Defense: Czech Variation, Carlsbad Variation",Alexander Alekhine
+1937,2,"Alekhine, Alexander","Euwe, Max",41,40,25.51219512195122,32.7,58.212195121951225,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Alexander Alekhine
+1937,3,"Euwe, Max","Alekhine, Alexander",60,60,13.916666666666666,13.45,27.366666666666667,D46,Semi-Slav Defense: Romih Variation,Alexander Alekhine
+1937,4,"Alekhine, Alexander","Euwe, Max",27,26,15.518518518518519,14.538461538461538,30.05698005698006,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Alexander Alekhine
+1937,5,"Euwe, Max","Alekhine, Alexander",41,40,24.658536585365855,30.475,55.13353658536586,D28,"Queen's Gambit Accepted: Classical Defense, Alekhine System",Alexander Alekhine
+1937,6,"Alekhine, Alexander","Euwe, Max",23,22,35,44.09090909090909,79.0909090909091,D10,"Slav Defense: Slav Gambit, Alekhine Attack",Alexander Alekhine
+1937,7,"Euwe, Max","Alekhine, Alexander",34,34,34.94117647058823,20.970588235294116,55.91176470588235,D18,"Slav Defense: Czech Variation, Classical System",Alexander Alekhine
+1937,8,"Alekhine, Alexander","Euwe, Max",26,25,7.846153846153846,35.8,43.646153846153844,E34,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Alexander Alekhine
+1937,9,"Euwe, Max","Alekhine, Alexander",41,40,13.292682926829269,14.175,27.46768292682927,D19,"Slav Defense: Czech Variation, Dutch Variation",Alexander Alekhine
+1937,10,"Alekhine, Alexander","Euwe, Max",40,39,19.625,29.333333333333332,48.95833333333333,E34,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Alexander Alekhine
+1937,11,"Euwe, Max","Alekhine, Alexander",30,30,11.766666666666667,11.366666666666667,23.133333333333333,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Alexander Alekhine
+1937,12,"Alekhine, Alexander","Euwe, Max",26,25,10.653846153846153,7.28,17.933846153846154,E34,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Alexander Alekhine
+1937,13,"Euwe, Max","Alekhine, Alexander",68,67,22.91176470588235,27.059701492537314,49.97146619841966,D18,"Slav Defense: Czech Variation, Classical System",Alexander Alekhine
+1937,14,"Alekhine, Alexander","Euwe, Max",52,51,26.634615384615383,32.92156862745098,59.55618401206637,E00,Catalan Opening,Alexander Alekhine
+1937,15,"Euwe, Max","Alekhine, Alexander",62,61,8.951612903225806,10.098360655737705,19.04997355896351,D19,"Slav Defense: Czech Variation, Dutch Variation",Alexander Alekhine
+1937,16,"Alekhine, Alexander","Euwe, Max",65,64,22.584615384615386,22.421875,45.00649038461539,E02,Catalan Opening: Open Defense,Alexander Alekhine
+1937,17,"Euwe, Max","Alekhine, Alexander",41,40,13.951219512195122,22.325,36.27621951219512,D19,"Slav Defense: Czech Variation, Classical System, Main Line",Alexander Alekhine
+1937,18,"Alekhine, Alexander","Euwe, Max",51,50,21.058823529411764,21.3,42.358823529411765,D41,"Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation",Alexander Alekhine
+1937,19,"Euwe, Max","Alekhine, Alexander",49,48,29.79591836734694,28.104166666666668,57.90008503401361,E21,Nimzo-Indian Defense: Three Knights Variation,Alexander Alekhine
+1937,20,"Alekhine, Alexander","Euwe, Max",41,40,13.926829268292684,15.4,29.326829268292684,E34,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Alexander Alekhine
+1937,21,"Euwe, Max","Alekhine, Alexander",32,32,27.40625,18.46875,45.875,E16,Queen's Indian Defense: Riumin Variation,Alexander Alekhine
+1937,22,"Alekhine, Alexander","Euwe, Max",62,61,15.435483870967742,22.21311475409836,37.6485986250661,A09,Réti Opening: Advance Variation,Alexander Alekhine
+1937,23,"Euwe, Max","Alekhine, Alexander",50,50,19.32,19.6,38.92,E17,Queen's Indian Defense: Euwe Variation,Alexander Alekhine
+1937,24,"Alekhine, Alexander","Euwe, Max",41,40,11,16.65,27.65,D41,Queen's Gambit Declined: Semi-Tarrasch Defense,Alexander Alekhine
+1937,25,"Euwe, Max","Alekhine, Alexander",43,43,47.325581395348834,41.30232558139535,88.62790697674419,E46,Nimzo-Indian Defense: Reshevsky Variation,Alexander Alekhine
+1948,1,"Euwe, Max","Keres, Paul",56,55,30.017857142857142,25.527272727272727,55.54512987012987,C75,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Mikhail Botvinnik
+1948,2,"Smyslov, Vassily","Reshevsky, Samuel Herman",41,40,13.512195121951219,13.9,27.41219512195122,C99,"Ruy Lopez: Closed, Chigorin Defense, Panov System",Mikhail Botvinnik
+1948,3,"Keres, Paul","Smyslov, Vassily",27,26,29.296296296296298,44.65384615384615,73.95014245014245,A15,"English Opening: Anglo-Indian Defense, King's Knight Variation",Mikhail Botvinnik
+1948,4,"Botvinnik, Mikhail","Euwe, Max",32,31,32.28125,44.12903225806452,76.41028225806451,D46,Semi-Slav Defense: Romih Variation,Mikhail Botvinnik
+1948,5,"Reshevsky, Samuel Herman","Keres, Paul",41,40,26.073170731707318,34.925,60.99817073170732,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",Mikhail Botvinnik
+1948,6,"Smyslov, Vassily","Botvinnik, Mikhail",44,44,19.727272727272727,18.704545454545453,38.43181818181818,D96,Grünfeld Defense: Russian Variation,Mikhail Botvinnik
+1948,7,"Euwe, Max","Smyslov, Vassily",42,42,28.214285714285715,15.880952380952381,44.095238095238095,C98,"Ruy Lopez: Closed, Chigorin Defense",Mikhail Botvinnik
+1948,8,"Botvinnik, Mikhail","Reshevsky, Samuel Herman",32,31,25.1875,41.12903225806452,66.31653225806451,E40,Nimzo-Indian Defense: Normal Line,Mikhail Botvinnik
+1948,9,"Keres, Paul","Botvinnik, Mikhail",58,58,22.310344827586206,17.275862068965516,39.58620689655172,A13,English Opening: Agincourt Defense,Mikhail Botvinnik
+1948,10,"Reshevsky, Samuel Herman","Euwe, Max",41,41,25.195121951219512,25.585365853658537,50.78048780487805,D46,Semi-Slav Defense: Romih Variation,Mikhail Botvinnik
+1948,11,"Keres, Paul","Euwe, Max",34,33,26.029411764705884,26.393939393939394,52.423351158645275,C86,"Ruy Lopez: Closed, Worrall Attack, Castling Line",Mikhail Botvinnik
+1948,12,"Reshevsky, Samuel Herman","Smyslov, Vassily",45,44,21.91111111111111,22.65909090909091,44.57020202020202,D17,"Slav Defense: Czech Variation, Wiesbaden Variation, Sharp Line",Mikhail Botvinnik
+1948,13,"Euwe, Max","Botvinnik, Mikhail",40,40,15.825,15.075,30.9,C08,"French Defense: Tarrasch Variation, Open System",Mikhail Botvinnik
+1948,14,"Smyslov, Vassily","Keres, Paul",57,57,31.859649122807017,21.68421052631579,53.54385964912281,E02,Catalan Opening: Open Defense,Mikhail Botvinnik
+1948,15,"Botvinnik, Mikhail","Smyslov, Vassily",79,79,19.354430379746834,19.810126582278482,39.164556962025316,D98,"Grünfeld Defense: Russian Variation, Smyslov Variation",Mikhail Botvinnik
+1948,16,"Keres, Paul","Reshevsky, Samuel Herman",24,23,17.541666666666668,17.82608695652174,35.367753623188406,C71,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Mikhail Botvinnik
+1948,17,"Reshevsky, Samuel Herman","Botvinnik, Mikhail",33,33,34.36363636363637,36.84848484848485,71.21212121212122,A91,"Dutch Defense: Classical Variation, Blackburne Attack",Mikhail Botvinnik
+1948,18,"Smyslov, Vassily","Euwe, Max",70,69,20,24.594202898550726,44.594202898550726,C88,Ruy Lopez: Closed,Mikhail Botvinnik
+1948,19,"Botvinnik, Mikhail","Keres, Paul",23,22,20,59.5,79.5,E28,Nimzo-Indian Defense: Sämisch Variation,Mikhail Botvinnik
+1948,20,"Euwe, Max","Reshevsky, Samuel Herman",57,56,28.49122807017544,30.785714285714285,59.27694235588972,C75,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Mikhail Botvinnik
+1948,21,"Euwe, Max","Keres, Paul",25,25,40,11.88,51.88,C74,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Siesta Variation",Mikhail Botvinnik
+1948,22,"Smyslov, Vassily","Reshevsky, Samuel Herman",52,51,22.923076923076923,27.19607843137255,50.119155354449475,C75,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Mikhail Botvinnik
+1948,23,"Keres, Paul","Smyslov, Vassily",42,42,10.261904761904763,8.214285714285714,18.476190476190474,D99,"Grünfeld Defense: Russian Variation, Smyslov Variation",Mikhail Botvinnik
+1948,24,"Botvinnik, Mikhail","Euwe, Max",36,35,21.833333333333332,25.17142857142857,47.00476190476191,D49,"Semi-Slav Defense: Meran Variation, Blumenfeld Variation",Mikhail Botvinnik
+1948,25,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,27.78048780487805,14.275,42.05548780487805,B62,Sicilian Defense: Richter-Rauzer Variation,Mikhail Botvinnik
+1948,26,"Reshevsky, Samuel Herman","Keres, Paul",63,61,27.984126984126984,22.21311475409836,50.197241738225344,D45,Semi-Slav Defense: Accelerated Meran Variation,Mikhail Botvinnik
+1948,27,"Euwe, Max","Smyslov, Vassily",42,41,27.333333333333332,32.5609756097561,59.89430894308943,D99,"Grünfeld Defense: Russian Variation, Smyslov Variation",Mikhail Botvinnik
+1948,28,"Botvinnik, Mikhail","Reshevsky, Samuel Herman",42,41,34.69047619047619,23.21951219512195,57.90998838559814,E29,"Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation",Mikhail Botvinnik
+1948,29,"Reshevsky, Samuel Herman","Euwe, Max",26,26,10.961538461538462,9.961538461538462,20.923076923076923,A13,English Opening: Agincourt Defense,Mikhail Botvinnik
+1948,30,"Keres, Paul","Botvinnik, Mikhail",72,72,24.305555555555557,18.083333333333332,42.388888888888886,C08,"French Defense: Tarrasch Variation, Open System",Mikhail Botvinnik
+1948,31,"Reshevsky, Samuel Herman","Smyslov, Vassily",41,41,16.536585365853657,15.585365853658537,32.1219512195122,D19,"Slav Defense: Czech Variation, Classical System, Main Line",Mikhail Botvinnik
+1948,32,"Keres, Paul","Euwe, Max",34,33,20.470588235294116,34.121212121212125,54.59180035650624,C81,"Ruy Lopez: Open, Howell Attack",Mikhail Botvinnik
+1948,33,"Euwe, Max","Botvinnik, Mikhail",29,28,13.586206896551724,11.357142857142858,24.943349753694584,C08,"French Defense: Tarrasch Variation, Open System",Mikhail Botvinnik
+1948,34,"Smyslov, Vassily","Keres, Paul",41,40,13.902439024390244,20.175,34.077439024390245,D51,"Queen's Gambit Declined: Modern Variation, Knight Defense",Mikhail Botvinnik
+1948,35,"Keres, Paul","Reshevsky, Samuel Herman",41,40,25.5609756097561,15.5,41.0609756097561,C81,"Ruy Lopez: Open, Howell Attack",Mikhail Botvinnik
+1948,36,"Botvinnik, Mikhail","Smyslov, Vassily",80,80,13.775,12.8375,26.6125,D76,Neo-Grünfeld Defense: Delayed Exchange Variation,Mikhail Botvinnik
+1948,37,"Smyslov, Vassily","Euwe, Max",26,25,22.115384615384617,40.16,62.27538461538461,C81,"Ruy Lopez: Open, Howell Attack",Mikhail Botvinnik
+1948,38,"Reshevsky, Samuel Herman","Botvinnik, Mikhail",47,47,36.829787234042556,30.617021276595743,67.4468085106383,C18,"French Defense: Winawer Variation, Classical Variation",Mikhail Botvinnik
+1948,39,"Euwe, Max","Reshevsky, Samuel Herman",42,42,27.333333333333332,19.547619047619047,46.88095238095238,E33,"Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation",Mikhail Botvinnik
+1948,40,"Botvinnik, Mikhail","Keres, Paul",60,59,14.2,19.728813559322035,33.92881355932204,D02,Queen's Pawn Game: Zukertort Variation,Mikhail Botvinnik
+1948,41,"Smyslov, Vassily","Reshevsky, Samuel Herman",73,72,6.383561643835616,5.527777777777778,11.911339421613395,C81,"Ruy Lopez: Open, Howell Attack",Mikhail Botvinnik
+1948,42,"Euwe, Max","Keres, Paul",34,35,33.8235294117647,30.742857142857144,64.56638655462184,E32,Nimzo-Indian Defense: Classical Variation,Mikhail Botvinnik
+1948,43,"Keres, Paul","Smyslov, Vassily",49,48,14.857142857142858,14.5625,29.419642857142858,A16,English Opening: Anglo-Grünfeld Defense,Mikhail Botvinnik
+1948,44,"Botvinnik, Mikhail","Euwe, Max",14,14,8.857142857142858,8,16.857142857142858,D02,Queen's Pawn Game: Symmetrical Variation,Mikhail Botvinnik
+1948,45,"Smyslov, Vassily","Botvinnik, Mikhail",17,17,10.764705882352942,10.176470588235293,20.941176470588236,D22,Queen's Gambit Accepted: Alekhine Defense,Mikhail Botvinnik
+1948,46,"Reshevsky, Samuel Herman","Keres, Paul",26,26,15.538461538461538,15.115384615384615,30.653846153846153,E32,"Nimzo-Indian Defense: Classical Variation, Keres Defense",Mikhail Botvinnik
+1948,47,"Euwe, Max","Smyslov, Vassily",38,38,30.605263157894736,21.473684210526315,52.078947368421055,D99,"Grünfeld Defense: Russian Variation, Smyslov Variation",Mikhail Botvinnik
+1948,48,"Botvinnik, Mikhail","Reshevsky, Samuel Herman",41,40,20.73170731707317,35.35,56.08170731707317,C49,"Four Knights Game: Spanish Variation, Symmetrical Variation, Metger Unpin",Mikhail Botvinnik
+1948,49,"Reshevsky, Samuel Herman","Euwe, Max",36,35,18.333333333333332,25.8,44.13333333333333,D32,Tarrasch Defense: Symmetrical Variation,Mikhail Botvinnik
+1948,50,"Keres, Paul","Botvinnik, Mikhail",39,38,18.743589743589745,24.07894736842105,42.82253711201079,C15,"French Defense: Winawer Variation, Fingerslip Variation, Main Line",Mikhail Botvinnik
+1951,1,"Botvinnik, Mikhail","Bronstein, David I",29,28,17.17241379310345,19,36.172413793103445,A91,Dutch Defense: Classical Variation,Mikhail Botvinnik
+1951,2,"Bronstein, David I","Botvinnik, Mikhail",49,48,30.081632653061224,29.708333333333332,59.789965986394556,D87,"Grünfeld Defense: Exchange Variation, Spassky Variation",Mikhail Botvinnik
+1951,3,"Botvinnik, Mikhail","Bronstein, David I",63,63,12.984126984126984,13.238095238095237,26.22222222222222,C08,"French Defense: Tarrasch Variation, Open System",Mikhail Botvinnik
+1951,4,"Bronstein, David I","Botvinnik, Mikhail",47,47,16.27659574468085,15.76595744680851,32.04255319148936,D15,Slav Defense: Schlechter Variation,Mikhail Botvinnik
+1951,5,"Botvinnik, Mikhail","Bronstein, David I",38,39,40.026315789473685,21.58974358974359,61.616059379217276,E47,"Nimzo-Indian Defense: Normal Variation, Bishop Attack",Mikhail Botvinnik
+1951,6,"Bronstein, David I","Botvinnik, Mikhail",57,57,25.350877192982455,18.45614035087719,43.807017543859644,B63,"Sicilian Defense: Richter-Rauzer Variation, Traditional Variation",Mikhail Botvinnik
+1951,7,"Botvinnik, Mikhail","Bronstein, David I",66,65,14.590909090909092,21.415384615384614,36.006293706293704,A94,Dutch Defense: Stonewall Variation,Mikhail Botvinnik
+1951,8,"Bronstein, David I","Botvinnik, Mikhail",41,41,13.609756097560975,13.195121951219512,26.804878048780488,D49,"Semi-Slav Defense: Meran Variation, Stahlberg Variation",Mikhail Botvinnik
+1951,9,"Botvinnik, Mikhail","Bronstein, David I",41,41,30.829268292682926,24.170731707317074,55.0,A91,Dutch Defense: Classical Variation,Mikhail Botvinnik
+1951,10,"Bronstein, David I","Botvinnik, Mikhail",55,54,25.8,24.074074074074073,49.87407407407407,A84,Dutch Defense: Rubinstein Variation,Mikhail Botvinnik
+1951,11,"Botvinnik, Mikhail","Bronstein, David I",39,39,24.58974358974359,15.743589743589743,40.333333333333336,E17,Queen's Indian Defense: Euwe Variation,Mikhail Botvinnik
+1951,12,"Bronstein, David I","Botvinnik, Mikhail",40,40,22.575,16.1,38.675,A84,Dutch Defense: Classical Variation,Mikhail Botvinnik
+1951,13,"Botvinnik, Mikhail","Bronstein, David I",56,56,7.589285714285714,6.678571428571429,14.267857142857142,E44,Nimzo-Indian Defense: Fischer Variation,Mikhail Botvinnik
+1951,14,"Bronstein, David I","Botvinnik, Mikhail",66,65,16.424242424242426,16.184615384615384,32.608857808857806,A04,Zukertort Opening: Queen's Gambit Invitation,Mikhail Botvinnik
+1951,15,"Botvinnik, Mikhail","Bronstein, David I",33,32,29.09090909090909,29.78125,58.87215909090909,C08,"French Defense: Tarrasch Variation, Open System",Mikhail Botvinnik
+1951,16,"Bronstein, David I","Botvinnik, Mikhail",75,74,23.373333333333335,23.527027027027028,46.90036036036037,A91,Dutch Defense: Classical Variation,Mikhail Botvinnik
+1951,17,"Botvinnik, Mikhail","Bronstein, David I",35,35,36.74285714285714,18.857142857142858,55.599999999999994,E45,"Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation",Mikhail Botvinnik
+1951,18,"Bronstein, David I","Botvinnik, Mikhail",58,57,17.689655172413794,15.56140350877193,33.251058681185725,D45,Semi-Slav Defense: Accelerated Meran Variation,Mikhail Botvinnik
+1951,19,"Botvinnik, Mikhail","Bronstein, David I",60,59,17.216666666666665,23.52542372881356,40.742090395480226,D74,Neo-Grünfeld Defense: Delayed Exchange Variation,Mikhail Botvinnik
+1951,20,"Bronstein, David I","Botvinnik, Mikhail",46,45,10.826086956521738,8.8,19.62608695652174,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",Mikhail Botvinnik
+1951,21,"Botvinnik, Mikhail","Bronstein, David I",64,64,30.34375,25.28125,55.625,E69,"King's Indian Defense: Fianchetto Variation, Classical Main Line",Mikhail Botvinnik
+1951,22,"Bronstein, David I","Botvinnik, Mikhail",38,37,18.763157894736842,33.270270270270274,52.033428165007116,A91,Dutch Defense: Classical Variation,Mikhail Botvinnik
+1951,23,"Botvinnik, Mikhail","Bronstein, David I",57,56,13.666666666666666,15.428571428571429,29.095238095238095,E60,"King's Indian Defense: Fianchetto Variation, Immediate Fianchetto",Mikhail Botvinnik
+1951,24,"Bronstein, David I","Botvinnik, Mikhail",22,21,27.454545454545453,22.61904761904762,50.073593073593074,D44,Semi-Slav Defense Accepted,Mikhail Botvinnik
+1954,1,"Smyslov, Vassily","Botvinnik, Mikhail",58,58,25.46551724137931,20.29310344827586,45.758620689655174,C17,"French Defense: Winawer Variation, Retreat Variation, Armenian Line",Mikhail Botvinnik
+1954,2,"Botvinnik, Mikhail","Smyslov, Vassily",30,29,21.233333333333334,31.482758620689655,52.716091954022986,E45,"Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation",Mikhail Botvinnik
+1954,3,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,18.926829268292682,20.25,39.17682926829268,C17,"French Defense: Winawer Variation, Retreat Variation, Armenian Line",Mikhail Botvinnik
+1954,4,"Botvinnik, Mikhail","Smyslov, Vassily",61,60,25.262295081967213,28.5,53.76229508196721,D22,Queen's Gambit Accepted: Alekhine Defense,Mikhail Botvinnik
+1954,5,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,14.951219512195122,13.725,28.67621951219512,D44,Semi-Slav Defense: Botvinnik Variation,Mikhail Botvinnik
+1954,6,"Botvinnik, Mikhail","Smyslov, Vassily",34,33,13.823529411764707,11.969696969696969,25.793226381461675,D86,"Grünfeld Defense: Exchange Variation, Simagin's Lesser Variation",Mikhail Botvinnik
+1954,7,"Smyslov, Vassily","Botvinnik, Mikhail",50,49,18.5,24.714285714285715,43.214285714285715,C15,"French Defense: Winawer Variation, Winckelmann-Riemer Gambit",Mikhail Botvinnik
+1954,8,"Botvinnik, Mikhail","Smyslov, Vassily",50,50,16.4,18.16,34.56,D02,Queen's Pawn Game: Zukertort Variation,Mikhail Botvinnik
+1954,9,"Smyslov, Vassily","Botvinnik, Mikhail",25,24,19.96,33.458333333333336,53.41833333333334,C17,"French Defense: Winawer Variation, Retreat Variation, Armenian Line",Mikhail Botvinnik
+1954,10,"Botvinnik, Mikhail","Smyslov, Vassily",37,37,30.864864864864863,25.243243243243242,56.108108108108105,D22,Queen's Gambit Accepted: Alekhine Defense,Mikhail Botvinnik
+1954,11,"Smyslov, Vassily","Botvinnik, Mikhail",41,41,10.024390243902438,18.51219512195122,28.536585365853657,C79,"Ruy Lopez: Morphy Defense, Steinitz Deferred",Mikhail Botvinnik
+1954,12,"Botvinnik, Mikhail","Smyslov, Vassily",38,37,22.026315789473685,30.89189189189189,52.91820768136557,D19,"Slav Defense: Czech Variation, Dutch Variation",Mikhail Botvinnik
+1954,13,"Smyslov, Vassily","Botvinnik, Mikhail",41,41,28.4390243902439,19.26829268292683,47.70731707317073,B24,Sicilian Defense: Closed,Mikhail Botvinnik
+1954,14,"Botvinnik, Mikhail","Smyslov, Vassily",33,33,27.242424242424242,14.363636363636363,41.60606060606061,E68,"King's Indian Defense: Fianchetto Variation, Classical Variation",Mikhail Botvinnik
+1954,15,"Smyslov, Vassily","Botvinnik, Mikhail",36,36,23.666666666666668,9.5,33.16666666666667,B25,"Sicilian Defense: Closed, Botvinnik Defense, with Nge2",Mikhail Botvinnik
+1954,16,"Botvinnik, Mikhail","Smyslov, Vassily",45,44,15.533333333333333,22.545454545454547,38.07878787878788,E60,"Indian Defense: King's Indian Variation, Fianchetto Variation",Mikhail Botvinnik
+1954,17,"Smyslov, Vassily","Botvinnik, Mikhail",31,30,12.903225806451612,12.133333333333333,25.036559139784945,A05,King's Indian Attack: Symmetrical Defense,Mikhail Botvinnik
+1954,18,"Botvinnik, Mikhail","Smyslov, Vassily",58,57,16.56896551724138,16.105263157894736,32.67422867513612,E60,"Indian Defense: King's Indian Variation, Fianchetto Variation",Mikhail Botvinnik
+1954,19,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,15.658536585365853,15.775,31.433536585365854,C15,"French Defense: Winawer Variation, Winckelmann-Riemer Gambit",Mikhail Botvinnik
+1954,20,"Botvinnik, Mikhail","Smyslov, Vassily",72,72,31.166666666666668,24.02777777777778,55.19444444444444,E60,"Indian Defense: King's Indian Variation, Fianchetto Variation",Mikhail Botvinnik
+1954,21,"Smyslov, Vassily","Botvinnik, Mikhail",40,39,22.725,21.923076923076923,44.64807692307693,C15,"French Defense: Winawer Variation, Winckelmann-Riemer Gambit",Mikhail Botvinnik
+1954,22,"Botvinnik, Mikhail","Smyslov, Vassily",45,45,17.133333333333333,15.71111111111111,32.84444444444444,D83,"Grünfeld Defense: Brinckmann Attack, Grünfeld Gambit",Mikhail Botvinnik
+1954,23,"Smyslov, Vassily","Botvinnik, Mikhail",28,27,18.821428571428573,25.85185185185185,44.673280423280424,C00,French Defense: King's Indian Attack,Mikhail Botvinnik
+1954,24,"Botvinnik, Mikhail","Smyslov, Vassily",22,22,14.318181818181818,16.5,30.81818181818182,E69,"King's Indian Defense: Fianchetto Variation, Classical Main Line",Mikhail Botvinnik
+1957,1,"Botvinnik, Mikhail","Smyslov, Vassily",41,40,23.609756097560975,21.2,44.80975609756098,A16,"English Opening: Anglo-Indian Defense, Queen's Knight Variation",Vasily Smyslov
+1957,2,"Smyslov, Vassily","Botvinnik, Mikhail",45,45,16.955555555555556,16.22222222222222,33.17777777777778,B66,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations",Vasily Smyslov
+1957,3,"Botvinnik, Mikhail","Smyslov, Vassily",41,40,10.365853658536585,9.525,19.890853658536585,E63,"King's Indian Defense: Fianchetto Variation, Panno Variation, Blockade Line",Vasily Smyslov
+1957,4,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,35.609756097560975,27.675,63.28475609756097,B66,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations",Vasily Smyslov
+1957,5,"Botvinnik, Mikhail","Smyslov, Vassily",54,53,18.11111111111111,22.566037735849058,40.677148846960165,A16,"English Opening: Anglo-Indian Defense, Queen's Knight Variation",Vasily Smyslov
+1957,6,"Smyslov, Vassily","Botvinnik, Mikhail",28,27,16.214285714285715,25.74074074074074,41.955026455026456,D98,"Grünfeld Defense: Russian Variation, Smyslov Variation",Vasily Smyslov
+1957,7,"Botvinnik, Mikhail","Smyslov, Vassily",23,23,13.043478260869565,12.782608695652174,25.82608695652174,E45,"Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation",Vasily Smyslov
+1957,8,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,10.902439024390244,17.7,28.602439024390243,B66,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations",Vasily Smyslov
+1957,9,"Botvinnik, Mikhail","Smyslov, Vassily",40,40,23.375,23.95,47.325,E62,"King's Indian Defense: Fianchetto Variation, Larsen Defense",Vasily Smyslov
+1957,10,"Smyslov, Vassily","Botvinnik, Mikhail",47,47,24.574468085106382,24.21276595744681,48.787234042553195,C98,"Ruy Lopez: Closed, Chigorin Defense",Vasily Smyslov
+1957,11,"Botvinnik, Mikhail","Smyslov, Vassily",23,23,11.26086956521739,9.391304347826088,20.652173913043477,A05,King's Indian Attack: Symmetrical Defense,Vasily Smyslov
+1957,12,"Smyslov, Vassily","Botvinnik, Mikhail",43,43,22.023255813953487,25.674418604651162,47.69767441860465,B27,Sicilian Defense: Hyperaccelerated Dragon,Vasily Smyslov
+1957,13,"Botvinnik, Mikhail","Smyslov, Vassily",41,40,23.70731707317073,29.675,53.38231707317073,E45,"Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation",Vasily Smyslov
+1957,14,"Smyslov, Vassily","Botvinnik, Mikhail",46,45,16.67391304347826,17.933333333333334,34.607246376811595,C18,"French Defense: Winawer Variation, Classical Variation",Vasily Smyslov
+1957,15,"Botvinnik, Mikhail","Smyslov, Vassily",56,56,22.589285714285715,22,44.589285714285715,E45,"Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation",Vasily Smyslov
+1957,16,"Smyslov, Vassily","Botvinnik, Mikhail",55,55,12.272727272727273,13.49090909090909,25.763636363636365,C98,"Ruy Lopez: Closed, Chigorin Defense",Vasily Smyslov
+1957,17,"Botvinnik, Mikhail","Smyslov, Vassily",69,69,16.73913043478261,12.753623188405797,29.492753623188406,A15,"English Opening: Anglo-Indian Defense, Slav Formation",Vasily Smyslov
+1957,18,"Smyslov, Vassily","Botvinnik, Mikhail",62,61,16.612903225806452,14.852459016393443,31.465362242199895,C15,"French Defense: Winawer Variation, Winckelmann-Riemer Gambit",Vasily Smyslov
+1957,19,"Botvinnik, Mikhail","Smyslov, Vassily",15,15,9.8,8.533333333333333,18.333333333333336,A36,"English Opening: Symmetrical Variation, Symmetrical Variation",Vasily Smyslov
+1957,20,"Smyslov, Vassily","Botvinnik, Mikhail",42,41,17.238095238095237,23.585365853658537,40.82346109175377,C18,"French Defense: Winawer Variation, Classical Variation",Vasily Smyslov
+1957,21,"Botvinnik, Mikhail","Smyslov, Vassily",13,13,14.846153846153847,10,24.846153846153847,E60,"King's Indian Defense: Fianchetto Variation, Immediate Fianchetto",Vasily Smyslov
+1957,22,"Smyslov, Vassily","Botvinnik, Mikhail",11,10,10.272727272727273,7.8,18.072727272727274,C11,French Defense: Burn Variation,Vasily Smyslov
+1958,1,"Smyslov, Vassily","Botvinnik, Mikhail",62,62,24.225806451612904,17.693548387096776,41.91935483870968,B11,"Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line",Mikhail Botvinnik
+1958,2,"Botvinnik, Mikhail","Smyslov, Vassily",41,40,24.26829268292683,29,53.26829268292683,E81,"King's Indian Defense: Sämisch Variation, Normal Defense",Mikhail Botvinnik
+1958,3,"Smyslov, Vassily","Botvinnik, Mikhail",66,66,22.893939393939394,18.439393939393938,41.33333333333333,B19,Caro-Kann Defense: Classical Variation,Mikhail Botvinnik
+1958,4,"Botvinnik, Mikhail","Smyslov, Vassily",82,81,20.28048780487805,23.555555555555557,43.83604336043361,D98,"Grünfeld Defense: Russian Variation, Smyslov Variation",Mikhail Botvinnik
+1958,5,"Smyslov, Vassily","Botvinnik, Mikhail",41,39,18.414634146341463,21.23076923076923,39.645403377110696,B72,"Sicilian Defense: Dragon Variation, Classical Variation",Mikhail Botvinnik
+1958,6,"Botvinnik, Mikhail","Smyslov, Vassily",49,48,23.755102040816325,29.916666666666668,53.671768707483,A42,Modern Defense: Averbakh System,Mikhail Botvinnik
+1958,7,"Smyslov, Vassily","Botvinnik, Mikhail",16,15,20.6875,18.133333333333333,38.82083333333333,B72,"Sicilian Defense: Dragon Variation, Classical Variation",Mikhail Botvinnik
+1958,8,"Botvinnik, Mikhail","Smyslov, Vassily",41,40,20.926829268292682,22.7,43.62682926829268,E69,"King's Indian Defense: Fianchetto Variation, Classical Main Line",Mikhail Botvinnik
+1958,9,"Smyslov, Vassily","Botvinnik, Mikhail",40,40,13.3,13.375,26.675,B72,"Sicilian Defense: Dragon Variation, Classical Variation",Mikhail Botvinnik
+1958,10,"Botvinnik, Mikhail","Smyslov, Vassily",44,43,11.522727272727273,10.488372093023257,22.011099365750532,A16,"English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation",Mikhail Botvinnik
+1958,11,"Smyslov, Vassily","Botvinnik, Mikhail",24,23,17.791666666666668,27.391304347826086,45.18297101449275,D98,"Grünfeld Defense: Russian Variation, Smyslov Variation",Mikhail Botvinnik
+1958,12,"Botvinnik, Mikhail","Smyslov, Vassily",41,40,25.78048780487805,29.575,55.35548780487805,A12,"Réti Opening: Anglo-Slav Variation, London Defensive System",Mikhail Botvinnik
+1958,13,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,13.536585365853659,13.725,27.26158536585366,D47,"Semi-Slav Defense: Meran Variation, Lundin Variation",Mikhail Botvinnik
+1958,14,"Botvinnik, Mikhail","Smyslov, Vassily",68,67,9.897058823529411,14.104477611940299,24.00153643546971,A16,"English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation",Mikhail Botvinnik
+1958,15,"Smyslov, Vassily","Botvinnik, Mikhail",55,54,34.43636363636364,31.796296296296298,66.23265993265994,B12,Caro-Kann Defense: Maróczy Variation,Mikhail Botvinnik
+1958,16,"Botvinnik, Mikhail","Smyslov, Vassily",36,36,12.75,9.666666666666666,22.416666666666664,A16,"English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation",Mikhail Botvinnik
+1958,17,"Smyslov, Vassily","Botvinnik, Mikhail",49,49,15.857142857142858,15.53061224489796,31.387755102040817,B10,Caro-Kann Defense: Two Knights Attack,Mikhail Botvinnik
+1958,18,"Botvinnik, Mikhail","Smyslov, Vassily",74,73,21.527027027027028,26.068493150684933,47.59552017771196,A16,"English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation",Mikhail Botvinnik
+1958,19,"Smyslov, Vassily","Botvinnik, Mikhail",35,34,15.542857142857143,40.44117647058823,55.984033613445376,B11,"Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line",Mikhail Botvinnik
+1958,20,"Botvinnik, Mikhail","Smyslov, Vassily",48,47,27.666666666666668,26.76595744680851,54.43262411347518,A30,English Opening: Symmetrical Variation,Mikhail Botvinnik
+1958,21,"Smyslov, Vassily","Botvinnik, Mikhail",23,22,13.73913043478261,11.909090909090908,25.648221343873516,B33,Sicilian Defense: Open,Mikhail Botvinnik
+1958,22,"Botvinnik, Mikhail","Smyslov, Vassily",38,38,23.789473684210527,13.526315789473685,37.31578947368421,A95,Dutch Defense: Stonewall Variation,Mikhail Botvinnik
+1958,23,"Smyslov, Vassily","Botvinnik, Mikhail",41,40,29.975609756097562,27.125,57.10060975609756,A05,King's Indian Attack: Smyslov Variation,Mikhail Botvinnik
+1960,1,"Tal, Mikhail","Botvinnik, Mikhail",32,31,16.59375,20.096774193548388,36.690524193548384,C18,"French Defense: Winawer Variation, Classical Variation",Mikhail Tal
+1960,2,"Botvinnik, Mikhail","Tal, Mikhail",44,44,16.84090909090909,16.545454545454547,33.38636363636364,A61,Benoni Defense: Uhlmann Variation,Mikhail Tal
+1960,3,"Tal, Mikhail","Botvinnik, Mikhail",37,37,13.378378378378379,11.91891891891892,25.2972972972973,B11,"Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line",Mikhail Tal
+1960,4,"Botvinnik, Mikhail","Tal, Mikhail",40,40,16.375,13.175,29.55,E27,Nimzo-Indian Defense: Sämisch Variation,Mikhail Tal
+1960,5,"Tal, Mikhail","Botvinnik, Mikhail",43,42,19.72093023255814,16.785714285714285,36.506644518272424,B18,Caro-Kann Defense: Classical Variation,Mikhail Tal
+1960,6,"Botvinnik, Mikhail","Tal, Mikhail",47,46,28.893617021276597,23.58695652173913,52.48057354301572,E69,"King's Indian Defense: Fianchetto Variation, Classical Main Line",Mikhail Tal
+1960,7,"Tal, Mikhail","Botvinnik, Mikhail",52,51,21.384615384615383,25.470588235294116,46.8552036199095,B18,Caro-Kann Defense: Classical Variation,Mikhail Tal
+1960,8,"Botvinnik, Mikhail","Tal, Mikhail",41,40,39.63414634146341,39.325,78.95914634146342,E10,Indian Defense: Anti-Nimzo-Indian,Mikhail Tal
+1960,9,"Tal, Mikhail","Botvinnik, Mikhail",58,58,19.655172413793103,15.224137931034482,34.87931034482759,B18,Caro-Kann Defense: Classical Variation,Mikhail Tal
+1960,10,"Botvinnik, Mikhail","Tal, Mikhail",60,59,21.416666666666668,19.11864406779661,40.53531073446328,E87,"King's Indian Defense: Sämisch Variation, Closed Variation",Mikhail Tal
+1960,11,"Tal, Mikhail","Botvinnik, Mikhail",72,71,22.805555555555557,28.35211267605634,51.15766823161189,A05,King's Indian Attack: Symmetrical Defense,Mikhail Tal
+1960,12,"Botvinnik, Mikhail","Tal, Mikhail",72,72,11.597222222222221,11.430555555555555,23.02777777777778,D32,Tarrasch Defense: Symmetrical Variation,Mikhail Tal
+1960,13,"Tal, Mikhail","Botvinnik, Mikhail",16,15,15.1875,12.733333333333333,27.920833333333334,A30,English Opening: Symmetrical Variation,Mikhail Tal
+1960,14,"Botvinnik, Mikhail","Tal, Mikhail",22,22,15.681818181818182,15.363636363636363,31.045454545454547,E24,"Nimzo-Indian Defense: Sämisch Variation, Accelerated",Mikhail Tal
+1960,15,"Tal, Mikhail","Botvinnik, Mikhail",41,41,17.658536585365855,18.804878048780488,36.463414634146346,B18,Caro-Kann Defense: Classical Variation,Mikhail Tal
+1960,16,"Botvinnik, Mikhail","Tal, Mikhail",41,40,15.853658536585366,13.325,29.178658536585367,E24,"Nimzo-Indian Defense: Sämisch Variation, Accelerated",Mikhail Tal
+1960,17,"Tal, Mikhail","Botvinnik, Mikhail",41,40,31,42.2,73.2,B18,Caro-Kann Defense: Classical Variation,Mikhail Tal
+1960,18,"Botvinnik, Mikhail","Tal, Mikhail",76,76,11.171052631578947,10.486842105263158,21.657894736842103,E24,"Nimzo-Indian Defense: Sämisch Variation, Accelerated",Mikhail Tal
+1960,19,"Tal, Mikhail","Botvinnik, Mikhail",41,41,17.365853658536587,20.51219512195122,37.8780487804878,A87,Dutch Defense: Leningrad Variation,Mikhail Tal
+1960,20,"Botvinnik, Mikhail","Tal, Mikhail",27,27,19.59259259259259,20.962962962962962,40.55555555555556,E24,"Nimzo-Indian Defense: Sämisch Variation, Accelerated",Mikhail Tal
+1960,21,"Tal, Mikhail","Botvinnik, Mikhail",17,17,11.882352941176471,11.058823529411764,22.941176470588236,E19,"Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line",Mikhail Tal
+1961,1,"Botvinnik, Mikhail","Tal, Mikhail",41,40,13.365853658536585,19.1,32.46585365853659,E48,"Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense",Mikhail Botvinnik
+1961,2,"Tal, Mikhail","Botvinnik, Mikhail",45,44,16.733333333333334,24.386363636363637,41.119696969696975,B18,Caro-Kann Defense: Classical Variation,Mikhail Botvinnik
+1961,3,"Botvinnik, Mikhail","Tal, Mikhail",43,42,18.906976744186046,24.738095238095237,43.64507198228128,E48,"Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense",Mikhail Botvinnik
+1961,4,"Tal, Mikhail","Botvinnik, Mikhail",41,41,26.878048780487806,26.24390243902439,53.1219512195122,B12,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",Mikhail Botvinnik
+1961,5,"Botvinnik, Mikhail","Tal, Mikhail",73,73,13.150684931506849,12.561643835616438,25.71232876712329,E48,"Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense",Mikhail Botvinnik
+1961,6,"Tal, Mikhail","Botvinnik, Mikhail",25,25,17.68,16.64,34.32,B12,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",Mikhail Botvinnik
+1961,7,"Botvinnik, Mikhail","Tal, Mikhail",32,32,18.5625,28.28125,46.84375,E24,"Nimzo-Indian Defense: Sämisch Variation, Accelerated",Mikhail Botvinnik
+1961,8,"Tal, Mikhail","Botvinnik, Mikhail",29,28,12.275862068965518,20.035714285714285,32.3115763546798,B12,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",Mikhail Botvinnik
+1961,9,"Botvinnik, Mikhail","Tal, Mikhail",73,72,18.78082191780822,22.555555555555557,41.336377473363775,A23,"English Opening: King's English Variation, Two Knights Variation, Keres Variation",Mikhail Botvinnik
+1961,10,"Tal, Mikhail","Botvinnik, Mikhail",42,42,36.166666666666664,30.69047619047619,66.85714285714286,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",Mikhail Botvinnik
+1961,11,"Botvinnik, Mikhail","Tal, Mikhail",42,42,23.857142857142858,33.214285714285715,57.07142857142857,D14,"Slav Defense: Exchange Variation, Symmetrical Line",Mikhail Botvinnik
+1961,12,"Tal, Mikhail","Botvinnik, Mikhail",41,40,25.951219512195124,33.75,59.701219512195124,C18,"French Defense: Winawer Variation, Classical Variation",Mikhail Botvinnik
+1961,13,"Botvinnik, Mikhail","Tal, Mikhail",41,40,11.634146341463415,16.525,28.159146341463412,E85,"King's Indian Defense: Sämisch Variation, Orthodox Variation",Mikhail Botvinnik
+1961,14,"Tal, Mikhail","Botvinnik, Mikhail",33,32,18.151515151515152,17.4375,35.589015151515156,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",Mikhail Botvinnik
+1961,15,"Botvinnik, Mikhail","Tal, Mikhail",63,62,22.77777777777778,27.322580645161292,50.10035842293907,E81,"King's Indian Defense: Sämisch Variation, Normal Defense",Mikhail Botvinnik
+1961,16,"Tal, Mikhail","Botvinnik, Mikhail",90,90,14.9,14.488888888888889,29.38888888888889,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",Mikhail Botvinnik
+1961,17,"Botvinnik, Mikhail","Tal, Mikhail",83,83,33.57831325301205,32.373493975903614,65.95180722891567,E80,King's Indian Defense: Sämisch Variation,Mikhail Botvinnik
+1961,18,"Tal, Mikhail","Botvinnik, Mikhail",41,41,25.51219512195122,21.195121951219512,46.70731707317073,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",Mikhail Botvinnik
+1961,19,"Botvinnik, Mikhail","Tal, Mikhail",75,75,23.666666666666668,20.346666666666668,44.013333333333335,E81,"King's Indian Defense: Sämisch Variation, Normal Defense",Mikhail Botvinnik
+1961,20,"Tal, Mikhail","Botvinnik, Mikhail",121,121,18.355371900826448,18.74380165289256,37.09917355371901,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",Mikhail Botvinnik
+1961,21,"Botvinnik, Mikhail","Tal, Mikhail",33,32,25.060606060606062,31.96875,57.02935606060606,E80,King's Indian Defense: Sämisch Variation,Mikhail Botvinnik
+1963,1,"Petrosian, Tigran V","Botvinnik, Mikhail",40,40,26.85,19.475,46.325,E35,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Tigran Petrosian
+1963,2,"Botvinnik, Mikhail","Petrosian, Tigran V",35,35,12.285714285714286,12.257142857142858,24.542857142857144,D27,"Queen's Gambit Accepted: Classical Defense, Rubinstein Variation",Tigran Petrosian
+1963,3,"Petrosian, Tigran V","Botvinnik, Mikhail",86,86,10.05813953488372,10.36046511627907,20.418604651162788,E18,"Queen's Indian Defense: Classical Variation, Traditional Variation",Tigran Petrosian
+1963,4,"Botvinnik, Mikhail","Petrosian, Tigran V",24,24,18.75,16.208333333333332,34.95833333333333,A35,"English Opening: Symmetrical Variation, Two Knights Variation",Tigran Petrosian
+1963,5,"Petrosian, Tigran V","Botvinnik, Mikhail",48,47,14.354166666666666,17,31.354166666666664,D94,"Grünfeld Defense: Three Knights Variation, Burille Variation",Tigran Petrosian
+1963,6,"Botvinnik, Mikhail","Petrosian, Tigran V",27,27,19.444444444444443,18.74074074074074,38.18518518518518,D27,"Queen's Gambit Accepted: Classical Defense, Rubinstein Variation",Tigran Petrosian
+1963,7,"Petrosian, Tigran V","Botvinnik, Mikhail",52,51,19.26923076923077,22.49019607843137,41.75942684766214,A10,English Opening: Great Snake Variation,Tigran Petrosian
+1963,8,"Botvinnik, Mikhail","Petrosian, Tigran V",55,54,11.145454545454545,9.907407407407407,21.052861952861953,D27,"Queen's Gambit Accepted: Classical Defense, Rubinstein Variation",Tigran Petrosian
+1963,9,"Petrosian, Tigran V","Botvinnik, Mikhail",55,55,14.945454545454545,15.654545454545454,30.6,E08,Catalan Opening: Closed,Tigran Petrosian
+1963,10,"Botvinnik, Mikhail","Petrosian, Tigran V",43,42,7.906976744186046,7.5,15.406976744186046,D27,"Queen's Gambit Accepted: Classical Defense, Rubinstein Variation",Tigran Petrosian
+1963,11,"Petrosian, Tigran V","Botvinnik, Mikhail",41,41,15.170731707317072,12.804878048780488,27.975609756097562,D32,Tarrasch Defense: Symmetrical Variation,Tigran Petrosian
+1963,12,"Botvinnik, Mikhail","Petrosian, Tigran V",53,52,11.90566037735849,11.173076923076923,23.078737300435414,D31,Queen's Gambit Declined: Charousek Variation,Tigran Petrosian
+1963,13,"Petrosian, Tigran V","Botvinnik, Mikhail",54,53,15.38888888888889,12.132075471698114,27.520964360587,E18,"Queen's Indian Defense: Classical Variation, Traditional Variation",Tigran Petrosian
+1963,14,"Botvinnik, Mikhail","Petrosian, Tigran V",57,56,11.43859649122807,15.803571428571429,27.2421679197995,D31,Queen's Gambit Declined: Charousek Variation,Tigran Petrosian
+1963,15,"Petrosian, Tigran V","Botvinnik, Mikhail",58,57,17.75862068965517,24.473684210526315,42.23230490018149,D81,"Grünfeld Defense: Russian Variation, Accelerated Variation",Tigran Petrosian
+1963,16,"Botvinnik, Mikhail","Petrosian, Tigran V",54,53,22.074074074074073,22,44.074074074074076,D27,"Queen's Gambit Accepted: Classical Defense, Rubinstein Variation",Tigran Petrosian
+1963,17,"Petrosian, Tigran V","Botvinnik, Mikhail",39,39,20.153846153846153,19.128205128205128,39.282051282051285,E14,Queen's Indian Defense: Spassky System,Tigran Petrosian
+1963,18,"Botvinnik, Mikhail","Petrosian, Tigran V",61,61,24.704918032786885,18.60655737704918,43.31147540983606,D31,Queen's Gambit Declined: Charousek Variation,Tigran Petrosian
+1963,19,"Petrosian, Tigran V","Botvinnik, Mikhail",66,65,35.484848484848484,36.92307692307692,72.4079254079254,E19,"Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line",Tigran Petrosian
+1963,20,"Botvinnik, Mikhail","Petrosian, Tigran V",21,21,13.476190476190476,10.380952380952381,23.857142857142858,D27,"Queen's Gambit Accepted: Classical Defense, Main Line",Tigran Petrosian
+1963,21,"Petrosian, Tigran V","Botvinnik, Mikhail",10,9,13.8,13.666666666666666,27.46666666666667,A15,"English Opening: Anglo-Indian Defense, King's Indian Formation",Tigran Petrosian
+1963,22,"Botvinnik, Mikhail","Petrosian, Tigran V",10,10,13.2,12.3,25.5,D23,Queen's Gambit Accepted: Mannheim Variation,Tigran Petrosian
+1966,1,"Spassky, Boris V","Petrosian, Tigran V",37,36,14.378378378378379,14.166666666666666,28.545045045045043,B19,Caro-Kann Defense: Classical Variation,Tigran Petrosian
+1966,2,"Petrosian, Tigran V","Spassky, Boris V",50,50,12.4,12.82,25.22,D59,Queen's Gambit Declined: Tartakower Defense,Tigran Petrosian
+1966,3,"Spassky, Boris V","Petrosian, Tigran V",43,43,23.41860465116279,20.11627906976744,43.53488372093023,B14,Caro-Kann Defense: Panov Attack,Tigran Petrosian
+1966,4,"Petrosian, Tigran V","Spassky, Boris V",44,43,11.636363636363637,12.395348837209303,24.031712473572938,A14,"English Opening: Agincourt Defense, Neo-Catalan Declined",Tigran Petrosian
+1966,5,"Spassky, Boris V","Petrosian, Tigran V",79,79,14.835443037974683,14.556962025316455,29.392405063291136,B14,"Caro-Kann Defense: Panov Attack, Fianchetto Defense",Tigran Petrosian
+1966,6,"Petrosian, Tigran V","Spassky, Boris V",15,15,10.8,14.333333333333334,25.133333333333333,D41,Queen's Gambit Declined: Semi-Tarrasch Defense,Tigran Petrosian
+1966,7,"Spassky, Boris V","Petrosian, Tigran V",43,43,38.74418604651163,32,70.74418604651163,A46,Torre Attack: Classical Defense,Tigran Petrosian
+1966,8,"Petrosian, Tigran V","Spassky, Boris V",23,23,13.869565217391305,13.91304347826087,27.782608695652172,A33,"English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",Tigran Petrosian
+1966,9,"Spassky, Boris V","Petrosian, Tigran V",26,25,13.038461538461538,12.92,25.95846153846154,B14,Caro-Kann Defense: Panov Attack,Tigran Petrosian
+1966,10,"Petrosian, Tigran V","Spassky, Boris V",30,29,43.333333333333336,58.89655172413793,102.22988505747126,E63,"King's Indian Defense: Fianchetto Variation, Panno Variation, Blockade Line",Tigran Petrosian
+1966,11,"Spassky, Boris V","Petrosian, Tigran V",26,25,36.19230769230769,34.72,70.91230769230769,C10,"French Defense: Rubinstein Variation, Blackburne Defense",Tigran Petrosian
+1966,12,"Petrosian, Tigran V","Spassky, Boris V",39,38,21.23076923076923,22.94736842105263,44.17813765182186,A04,Zukertort Opening: Kingside Fianchetto,Tigran Petrosian
+1966,13,"Spassky, Boris V","Petrosian, Tigran V",91,91,28.53846153846154,29.24175824175824,57.78021978021978,B19,"Caro-Kann Defense: Classical Variation, Spassky Variation",Tigran Petrosian
+1966,14,"Petrosian, Tigran V","Spassky, Boris V",57,56,19.649122807017545,20.25,39.89912280701755,A05,King's Indian Attack: Spassky Variation,Tigran Petrosian
+1966,15,"Spassky, Boris V","Petrosian, Tigran V",55,55,18.90909090909091,18.6,37.509090909090915,B25,Sicilian Defense: Closed,Tigran Petrosian
+1966,16,"Petrosian, Tigran V","Spassky, Boris V",49,48,15.040816326530612,14.979166666666666,30.019982993197278,B06,Modern Defense,Tigran Petrosian
+1966,17,"Spassky, Boris V","Petrosian, Tigran V",29,29,18.482758620689655,15.068965517241379,33.55172413793103,B30,Sicilian Defense: Old Sicilian,Tigran Petrosian
+1966,18,"Petrosian, Tigran V","Spassky, Boris V",33,32,20.939393939393938,22.65625,43.59564393939394,E12,Queen's Indian Defense: Kasparov-Petrosian Variation,Tigran Petrosian
+1966,19,"Spassky, Boris V","Petrosian, Tigran V",68,67,24.264705882352942,29.55223880597015,53.81694468832309,C11,"French Defense: Classical Variation, Steinitz Variation",Tigran Petrosian
+1966,20,"Petrosian, Tigran V","Spassky, Boris V",41,40,17.26829268292683,22.25,39.51829268292683,E59,"Nimzo-Indian Defense: Normal Variation, Bernstein Defense",Tigran Petrosian
+1966,21,"Spassky, Boris V","Petrosian, Tigran V",39,39,13.205128205128204,13.205128205128204,26.41025641025641,C11,French Defense: Burn Variation,Tigran Petrosian
+1966,22,"Petrosian, Tigran V","Spassky, Boris V",35,35,14.057142857142857,24.37142857142857,38.42857142857143,A40,Polish Defense,Tigran Petrosian
+1966,23,"Spassky, Boris V","Petrosian, Tigran V",31,31,12.35483870967742,20.29032258064516,32.64516129032258,C11,French Defense: Burn Variation,Tigran Petrosian
+1966,24,"Petrosian, Tigran V","Spassky, Boris V",77,76,18.194805194805195,17.657894736842106,35.8526999316473,E60,"Indian Defense: King's Indian Variation, Fianchetto Variation",Tigran Petrosian
+1969,1,"Spassky, Boris V","Petrosian, Tigran V",56,56,26.964285714285715,22.535714285714285,49.5,B42,"Sicilian Defense: Kan Variation, Modern Variation",Boris Spassky
+1969,2,"Petrosian, Tigran V","Spassky, Boris V",61,61,8.21311475409836,8.01639344262295,16.229508196721312,D34,"Tarrasch Defense: Classical Variation, Spassky Variation",Boris Spassky
+1969,3,"Spassky, Boris V","Petrosian, Tigran V",43,43,4.953488372093023,4.348837209302325,9.302325581395348,B36,"Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation",Boris Spassky
+1969,4,"Petrosian, Tigran V","Spassky, Boris V",41,41,27.75609756097561,16.048780487804876,43.80487804878049,D34,"Tarrasch Defense: Classical Variation, Spassky Variation",Boris Spassky
+1969,5,"Spassky, Boris V","Petrosian, Tigran V",30,29,15.566666666666666,27.79310344827586,43.35977011494253,D41,"Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation",Boris Spassky
+1969,6,"Petrosian, Tigran V","Spassky, Boris V",47,47,4.51063829787234,4.361702127659575,8.872340425531915,D31,Queen's Gambit Declined: Charousek Variation,Boris Spassky
+1969,7,"Spassky, Boris V","Petrosian, Tigran V",27,26,13.185185185185185,12.038461538461538,25.223646723646723,D19,"Slav Defense: Czech Variation, Dutch Variation",Boris Spassky
+1969,8,"Petrosian, Tigran V","Spassky, Boris V",44,44,28.931818181818183,23.295454545454547,52.227272727272734,D37,Queen's Gambit Declined: Harrwitz Attack,Boris Spassky
+1969,9,"Spassky, Boris V","Petrosian, Tigran V",65,65,18.03076923076923,18.076923076923077,36.107692307692304,A56,Benoni Defense: King's Indian System,Boris Spassky
+1969,10,"Petrosian, Tigran V","Spassky, Boris V",38,37,17.55263157894737,25.35135135135135,42.903982930298724,E47,"Nimzo-Indian Defense: Normal Variation, Bishop Attack",Boris Spassky
+1969,11,"Spassky, Boris V","Petrosian, Tigran V",56,55,24.732142857142858,16.6,41.332142857142856,E12,"Queen's Indian Defense: Kasparov-Petrosian Variation, Main Line",Boris Spassky
+1969,12,"Petrosian, Tigran V","Spassky, Boris V",49,48,17.46938775510204,17.604166666666668,35.073554421768705,D34,"Tarrasch Defense: Classical Variation, Spassky Variation",Boris Spassky
+1969,13,"Spassky, Boris V","Petrosian, Tigran V",25,25,12.08,11.76,23.84,C42,Russian Game: Cozio Attack,Boris Spassky
+1969,14,"Petrosian, Tigran V","Spassky, Boris V",56,55,22.214285714285715,20.21818181818182,42.432467532467534,D30,Queen's Gambit Declined: Traditional Variation,Boris Spassky
+1969,15,"Spassky, Boris V","Petrosian, Tigran V",19,19,16.63157894736842,15.105263157894736,31.736842105263158,C42,Russian Game: Cozio Attack,Boris Spassky
+1969,16,"Petrosian, Tigran V","Spassky, Boris V",31,31,7.225806451612903,7.161290322580645,14.387096774193548,D34,"Tarrasch Defense: Classical Variation, Endgame Variation",Boris Spassky
+1969,17,"Spassky, Boris V","Petrosian, Tigran V",58,57,17.689655172413794,22.789473684210527,40.47912885662432,B42,"Sicilian Defense: Kan Variation, Modern Variation",Boris Spassky
+1969,18,"Petrosian, Tigran V","Spassky, Boris V",59,58,7.627118644067797,6.724137931034483,14.35125657510228,D34,"Tarrasch Defense: Classical Variation, Main Line",Boris Spassky
+1969,19,"Spassky, Boris V","Petrosian, Tigran V",24,23,14.583333333333334,27.26086956521739,41.844202898550726,B94,Sicilian Defense: Najdorf Variation,Boris Spassky
+1969,20,"Petrosian, Tigran V","Spassky, Boris V",50,49,17.44,19.836734693877553,37.27673469387756,D55,Queen's Gambit Declined: Anti-Tartakower Variation,Boris Spassky
+1969,21,"Spassky, Boris V","Petrosian, Tigran V",52,52,21.03846153846154,33.75,54.78846153846154,C92,"Ruy Lopez: Closed, Karpov Variation",Boris Spassky
+1969,22,"Petrosian, Tigran V","Spassky, Boris V",31,31,15.258064516129032,14.193548387096774,29.451612903225808,D55,Queen's Gambit Declined: Anti-Tartakower Variation,Boris Spassky
+1969,23,"Spassky, Boris V","Petrosian, Tigran V",41,40,15.682926829268293,17.85,33.53292682926829,B48,"Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack",Boris Spassky
+1972,1,"Spassky, Boris V","Fischer, Robert James",56,55,14.035714285714286,18.927272727272726,32.962987012987014,E56,"Nimzo-Indian Defense: Normal Variation, Gligoric System, Bernstein Defense",Bobby Fischer
+1972,3,"Spassky, Boris V","Fischer, Robert James",41,41,27.609756097560975,19.170731707317074,46.78048780487805,A61,Benoni Defense: Knight's Tour Variation,Bobby Fischer
+1972,4,"Fischer, Robert James","Spassky, Boris V",45,44,14.466666666666667,13.886363636363637,28.3530303030303,B88,"Sicilian Defense: Sozin Attack, Leonhardt Variation",Bobby Fischer
+1972,5,"Spassky, Boris V","Fischer, Robert James",27,27,14.333333333333334,10.407407407407407,24.74074074074074,E41,"Nimzo-Indian Defense: Hübner Variation, Main Line",Bobby Fischer
+1972,6,"Fischer, Robert James","Spassky, Boris V",41,40,19.341463414634145,32.1,51.44146341463414,D59,Queen's Gambit Declined: Tartakower Defense,Bobby Fischer
+1972,7,"Spassky, Boris V","Fischer, Robert James",49,48,25.102040816326532,25.645833333333332,50.747874149659864,B97,"Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",Bobby Fischer
+1972,8,"Fischer, Robert James","Spassky, Boris V",37,36,16.027027027027028,27.72222222222222,43.749249249249246,A39,"English Opening: Symmetrical Variation, Mecking Variation",Bobby Fischer
+1972,9,"Spassky, Boris V","Fischer, Robert James",29,29,7.413793103448276,7.517241379310345,14.931034482758621,D41,"Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation",Bobby Fischer
+1972,10,"Fischer, Robert James","Spassky, Boris V",56,55,22.928571428571427,29.363636363636363,52.29220779220779,C95,"Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid",Bobby Fischer
+1972,11,"Spassky, Boris V","Fischer, Robert James",31,30,17.580645161290324,29.933333333333334,47.51397849462366,B97,"Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",Bobby Fischer
+1972,12,"Fischer, Robert James","Spassky, Boris V",55,55,18,17.509090909090908,35.50909090909091,D55,"Queen's Gambit Declined: Neo-Orthodox Variation, Main Line",Bobby Fischer
+1972,13,"Spassky, Boris V","Fischer, Robert James",74,74,31.864864864864863,30.87837837837838,62.74324324324324,B04,"Alekhine Defense: Modern Variation, Alburt Variation",Bobby Fischer
+1972,14,"Fischer, Robert James","Spassky, Boris V",40,40,13.05,12.4,25.450000000000003,D37,Queen's Gambit Declined: Harrwitz Attack,Bobby Fischer
+1972,15,"Spassky, Boris V","Fischer, Robert James",43,43,25.674418604651162,24.186046511627907,49.86046511627907,B99,"Sicilian Defense: Najdorf Variation, Main Line",Bobby Fischer
+1972,16,"Fischer, Robert James","Spassky, Boris V",60,60,6.983333333333333,6.616666666666666,13.6,C69,"Ruy Lopez: Exchange Variation, Gligoric Variation",Bobby Fischer
+1972,17,"Spassky, Boris V","Fischer, Robert James",45,44,15.28888888888889,15.431818181818182,30.72070707070707,B09,"Pirc Defense: Austrian Attack, Dragon Formation",Bobby Fischer
+1972,18,"Fischer, Robert James","Spassky, Boris V",47,47,23.53191489361702,26.93617021276596,50.46808510638298,B69,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack",Bobby Fischer
+1972,19,"Spassky, Boris V","Fischer, Robert James",40,40,13.75,12.275,26.025,B05,"Alekhine Defense: Modern Variation, Main Line",Bobby Fischer
+1972,20,"Fischer, Robert James","Spassky, Boris V",54,54,13.296296296296296,12.314814814814815,25.61111111111111,B68,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation",Bobby Fischer
+1972,21,"Spassky, Boris V","Fischer, Robert James",41,40,18.26829268292683,15.375,33.64329268292683,B46,Sicilian Defense: Taimanov Variation,Bobby Fischer
+1978,1,"Korchnoi, Viktor","Karpov, Anatoly",18,18,11.833333333333334,11.166666666666666,23.0,D58,Queen's Gambit Declined: Tartakower Defense,Anatoly Karpov
+1978,2,"Karpov, Anatoly","Korchnoi, Viktor",29,28,15.862068965517242,16.107142857142858,31.9692118226601,C82,"Ruy Lopez: Open, St. Petersburg Variation",Anatoly Karpov
+1978,3,"Korchnoi, Viktor","Karpov, Anatoly",30,30,23.2,21.333333333333332,44.53333333333333,E42,"Nimzo-Indian Defense: Hübner Variation, Rubinstein Variation",Anatoly Karpov
+1978,4,"Karpov, Anatoly","Korchnoi, Viktor",19,18,14.631578947368421,13.5,28.13157894736842,C82,"Ruy Lopez: Open, St. Petersburg Variation",Anatoly Karpov
+1978,5,"Korchnoi, Viktor","Karpov, Anatoly",123,122,9.308943089430894,10.663934426229508,19.9728775156604,E42,"Nimzo-Indian Defense: Hübner Variation, Rubinstein Variation",Anatoly Karpov
+1978,6,"Karpov, Anatoly","Korchnoi, Viktor",23,22,17.52173913043478,13.363636363636363,30.885375494071145,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Anatoly Karpov
+1978,7,"Korchnoi, Viktor","Karpov, Anatoly",42,41,35.88095238095238,33.19512195121951,69.07607433217188,E47,"Nimzo-Indian Defense: Normal Variation, Bishop Attack",Anatoly Karpov
+1978,8,"Karpov, Anatoly","Korchnoi, Viktor",28,27,19.964285714285715,21.25925925925926,41.223544973544975,C80,"Ruy Lopez: Open, Bernstein Variation",Anatoly Karpov
+1978,9,"Korchnoi, Viktor","Karpov, Anatoly",41,41,17,16.585365853658537,33.58536585365854,D37,Queen's Gambit Declined: Harrwitz Attack,Anatoly Karpov
+1978,10,"Karpov, Anatoly","Korchnoi, Viktor",44,43,18.772727272727273,15.767441860465116,34.54016913319239,C80,"Ruy Lopez: Open, Karpov Gambit",Anatoly Karpov
+1978,11,"Korchnoi, Viktor","Karpov, Anatoly",50,50,22.24,30.64,52.879999999999995,A00,Hungarian Opening: Sicilian Invitation,Anatoly Karpov
+1978,12,"Karpov, Anatoly","Korchnoi, Viktor",44,44,12.818181818181818,11.772727272727273,24.590909090909093,C81,"Ruy Lopez: Open, Howell Attack",Anatoly Karpov
+1978,13,"Korchnoi, Viktor","Karpov, Anatoly",61,61,21.114754098360656,13.704918032786885,34.81967213114754,D37,Queen's Gambit Declined: Three Knights Variation,Anatoly Karpov
+1978,14,"Karpov, Anatoly","Korchnoi, Viktor",50,49,17.38,23.040816326530614,40.42081632653061,C82,"Ruy Lopez: Open, St. Petersburg Variation",Anatoly Karpov
+1978,15,"Korchnoi, Viktor","Karpov, Anatoly",25,24,10.56,11.291666666666666,21.851666666666667,D37,Queen's Gambit Declined: Three Knights Variation,Anatoly Karpov
+1978,16,"Karpov, Anatoly","Korchnoi, Viktor",42,42,9.714285714285714,9.571428571428571,19.285714285714285,C08,"French Defense: Tarrasch Variation, Open System",Anatoly Karpov
+1978,17,"Korchnoi, Viktor","Karpov, Anatoly",38,39,23.5,19.794871794871796,43.294871794871796,E47,"Nimzo-Indian Defense: Normal Variation, Bishop Attack",Anatoly Karpov
+1978,18,"Karpov, Anatoly","Korchnoi, Viktor",64,64,15.53125,14.90625,30.4375,B08,"Pirc Defense: Classical Variation, Quiet System, Parma Defense",Anatoly Karpov
+1978,19,"Korchnoi, Viktor","Karpov, Anatoly",39,38,18.23076923076923,17.81578947368421,36.04655870445344,E06,Catalan Opening: Closed,Anatoly Karpov
+1978,20,"Karpov, Anatoly","Korchnoi, Viktor",63,63,22.952380952380953,23.904761904761905,46.85714285714286,B15,Caro-Kann Defense: Forgacs Variation,Anatoly Karpov
+1978,21,"Korchnoi, Viktor","Karpov, Anatoly",60,59,17.083333333333332,22.796610169491526,39.87994350282486,D37,Queen's Gambit Declined: Harrwitz Attack,Anatoly Karpov
+1978,22,"Karpov, Anatoly","Korchnoi, Viktor",64,64,15.640625,14.203125,29.84375,C08,"French Defense: Tarrasch Variation, Open System",Anatoly Karpov
+1978,23,"Korchnoi, Viktor","Karpov, Anatoly",42,41,20.833333333333332,20.195121951219512,41.02845528455285,D37,Queen's Gambit Declined: Harrwitz Attack,Anatoly Karpov
+1978,24,"Karpov, Anatoly","Korchnoi, Viktor",45,45,16.8,14.577777777777778,31.37777777777778,C83,"Ruy Lopez: Open, Classical Defense",Anatoly Karpov
+1978,25,"Korchnoi, Viktor","Karpov, Anatoly",80,80,21.2125,21.6,42.8125,A22,"English Opening: King's English Variation, Two Knights Variation, Smyslov System",Anatoly Karpov
+1978,26,"Karpov, Anatoly","Korchnoi, Viktor",27,27,11.925925925925926,14.11111111111111,26.037037037037038,A21,"English Opening: King's English Variation, Reversed Sicilian",Anatoly Karpov
+1978,27,"Korchnoi, Viktor","Karpov, Anatoly",41,40,19.634146341463413,11.225,30.859146341463415,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Anatoly Karpov
+1978,28,"Karpov, Anatoly","Korchnoi, Viktor",61,61,20.540983606557376,15.327868852459016,35.868852459016395,C82,"Ruy Lopez: Open, Berlin Variation",Anatoly Karpov
+1978,29,"Korchnoi, Viktor","Karpov, Anatoly",79,78,19.139240506329113,22.012820512820515,41.15206101914963,A19,"English Opening: Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit",Anatoly Karpov
+1978,30,"Karpov, Anatoly","Korchnoi, Viktor",41,41,11.878048780487806,13.390243902439025,25.26829268292683,A16,"English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation",Anatoly Karpov
+1978,31,"Korchnoi, Viktor","Karpov, Anatoly",71,70,14.732394366197184,17.942857142857143,32.67525150905433,D35,"Queen's Gambit Declined: Exchange Variation, Positional Variation",Anatoly Karpov
+1978,32,"Karpov, Anatoly","Korchnoi, Viktor",41,41,12.853658536585366,25.951219512195124,38.80487804878049,B08,"Pirc Defense: Classical Variation, Quiet System",Anatoly Karpov
+1981,1,"Korchnoi, Viktor","Karpov, Anatoly",43,43,36.95348837209303,26.813953488372093,63.76744186046512,D58,Queen's Gambit Declined: Tartakower Defense,Anatoly Karpov
+1981,2,"Karpov, Anatoly","Korchnoi, Viktor",57,56,19.56140350877193,27.767857142857142,47.32926065162907,C67,"Ruy Lopez: Berlin Defense, Rio de Janeiro Variation",Anatoly Karpov
+1981,3,"Korchnoi, Viktor","Karpov, Anatoly",41,40,10.268292682926829,9.1,19.36829268292683,D58,Queen's Gambit Declined: Tartakower Defense,Anatoly Karpov
+1981,4,"Karpov, Anatoly","Korchnoi, Viktor",53,52,13.075471698113208,20.826923076923077,33.902394775036285,C42,"Russian Game: Classical Attack, Chigorin Variation",Anatoly Karpov
+1981,5,"Korchnoi, Viktor","Karpov, Anatoly",68,68,4.647058823529412,4.573529411764706,9.220588235294118,D31,Queen's Gambit Declined: Charousek Variation,Anatoly Karpov
+1981,6,"Karpov, Anatoly","Korchnoi, Viktor",41,41,29.634146341463413,22.4390243902439,52.073170731707314,C82,"Ruy Lopez: Open, St. Petersburg Variation",Anatoly Karpov
+1981,7,"Korchnoi, Viktor","Karpov, Anatoly",31,30,11.096774193548388,9.1,20.196774193548386,D31,Queen's Gambit Declined: Charousek Variation,Anatoly Karpov
+1981,8,"Karpov, Anatoly","Korchnoi, Viktor",80,79,15.5375,15.341772151898734,30.879272151898732,C53,"Italian Game: Classical Variation, Giuoco Pianissimo",Anatoly Karpov
+1981,9,"Korchnoi, Viktor","Karpov, Anatoly",43,43,25.093023255813954,16.74418604651163,41.83720930232558,D31,Queen's Gambit Declined: Uhlmann Variation,Anatoly Karpov
+1981,10,"Karpov, Anatoly","Korchnoi, Viktor",32,31,10.625,9.225806451612904,19.850806451612904,C53,"Italian Game: Classical Variation, Giuoco Pianissimo",Anatoly Karpov
+1981,11,"Korchnoi, Viktor","Karpov, Anatoly",35,35,25.542857142857144,24.742857142857144,50.28571428571429,D37,Queen's Gambit Declined: Harrwitz Attack,Anatoly Karpov
+1981,12,"Karpov, Anatoly","Korchnoi, Viktor",47,46,11.127659574468085,10.891304347826088,22.018963922294173,A16,"English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation",Anatoly Karpov
+1981,13,"Korchnoi, Viktor","Karpov, Anatoly",41,41,26.853658536585368,31.24390243902439,58.09756097560975,D31,Queen's Gambit Declined: Charousek Variation,Anatoly Karpov
+1981,14,"Karpov, Anatoly","Korchnoi, Viktor",46,45,17.608695652173914,22.355555555555554,39.96425120772947,C80,"Ruy Lopez: Open, Bernstein Variation",Anatoly Karpov
+1981,15,"Korchnoi, Viktor","Karpov, Anatoly",40,40,10.275,10.8,21.075000000000003,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Anatoly Karpov
+1981,16,"Karpov, Anatoly","Korchnoi, Viktor",42,42,14.69047619047619,14.428571428571429,29.11904761904762,C80,"Ruy Lopez: Open, Bernstein Variation",Anatoly Karpov
+1981,17,"Korchnoi, Viktor","Karpov, Anatoly",23,23,8.782608695652174,9.173913043478262,17.956521739130437,D31,Queen's Gambit Declined: Uhlmann Variation,Anatoly Karpov
+1981,18,"Karpov, Anatoly","Korchnoi, Viktor",41,40,21.26829268292683,26.675,47.94329268292683,C80,"Ruy Lopez: Open, Bernstein Variation",Anatoly Karpov
+1984,1,"Karpov, Anatoly","Kasparov, Garry",36,36,21.27777777777778,21.583333333333332,42.861111111111114,B81,"Sicilian Defense: Scheveningen Variation, Keres Attack",No result
+1984,2,"Kasparov, Garry","Karpov, Anatoly",47,46,37.97872340425532,35.43478260869565,73.41350601295096,E17,"Queen's Indian Defense: Classical Variation, Polugaevsky Gambit",No result
+1984,3,"Karpov, Anatoly","Kasparov, Garry",31,30,15.32258064516129,22.133333333333333,37.45591397849462,B44,"Sicilian Defense: Taimanov Variation, Modern Line",No result
+1984,4,"Kasparov, Garry","Karpov, Anatoly",44,44,13.704545454545455,12.931818181818182,26.636363636363637,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",No result
+1984,5,"Karpov, Anatoly","Kasparov, Garry",21,21,19.238095238095237,15.380952380952381,34.61904761904762,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",No result
+1984,6,"Kasparov, Garry","Karpov, Anatoly",70,70,35.77142857142857,31.757142857142856,67.52857142857142,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",No result
+1984,7,"Karpov, Anatoly","Kasparov, Garry",42,41,21.095238095238095,27.26829268292683,48.36353077816493,D34,"Tarrasch Defense: Classical Variation, Main Line",No result
+1984,8,"Kasparov, Garry","Karpov, Anatoly",20,19,13.05,12.631578947368421,25.681578947368422,E06,Catalan Opening: Closed,No result
+1984,9,"Karpov, Anatoly","Kasparov, Garry",70,69,17.47142857142857,20.144927536231883,37.61635610766045,D34,"Tarrasch Defense: Classical Variation, Main Line",No result
+1984,10,"Kasparov, Garry","Karpov, Anatoly",15,14,14.4,9.5,23.9,E12,"Queen's Indian Defense: Kasparov-Petrosian Variation, Petrosian Attack",No result
+1984,11,"Karpov, Anatoly","Kasparov, Garry",41,41,12.21951219512195,10.951219512195122,23.170731707317074,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",No result
+1984,12,"Kasparov, Garry","Karpov, Anatoly",21,20,13.428571428571429,12.85,26.27857142857143,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,13,"Karpov, Anatoly","Kasparov, Garry",33,33,14.545454545454545,15.787878787878787,30.333333333333332,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",No result
+1984,14,"Kasparov, Garry","Karpov, Anatoly",16,15,6.0625,8.066666666666666,14.129166666666666,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",No result
+1984,15,"Karpov, Anatoly","Kasparov, Garry",93,93,6.462365591397849,6.161290322580645,12.623655913978494,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",No result
+1984,16,"Kasparov, Garry","Karpov, Anatoly",37,36,26.81081081081081,20.5,47.31081081081081,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",No result
+1984,17,"Karpov, Anatoly","Kasparov, Garry",22,22,6.2727272727272725,4.590909090909091,10.863636363636363,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,18,"Kasparov, Garry","Karpov, Anatoly",22,21,8.181818181818182,7.809523809523809,15.99134199134199,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",No result
+1984,19,"Karpov, Anatoly","Kasparov, Garry",44,44,13.727272727272727,13.545454545454545,27.272727272727273,D37,Queen's Gambit Declined: Three Knights Variation,No result
+1984,20,"Kasparov, Garry","Karpov, Anatoly",15,14,9.6,12.928571428571429,22.52857142857143,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",No result
+1984,21,"Karpov, Anatoly","Kasparov, Garry",31,30,9.96774193548387,9.7,19.667741935483868,D37,Queen's Gambit Declined: Three Knights Variation,No result
+1984,22,"Kasparov, Garry","Karpov, Anatoly",20,19,10.25,9.263157894736842,19.513157894736842,E06,Catalan Opening: Closed,No result
+1984,23,"Karpov, Anatoly","Kasparov, Garry",22,22,9.727272727272727,8.136363636363637,17.863636363636363,D31,Queen's Gambit Declined: Uhlmann Variation,No result
+1984,24,"Kasparov, Garry","Karpov, Anatoly",17,16,15.352941176470589,15.375,30.727941176470587,A33,"English Opening: Symmetrical Variation, Anti-Benoni Variation, Geller Variation",No result
+1984,25,"Karpov, Anatoly","Kasparov, Garry",21,21,11.666666666666666,16.142857142857142,27.80952380952381,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,26,"Kasparov, Garry","Karpov, Anatoly",23,23,10,10.869565217391305,20.869565217391305,A33,"English Opening: Symmetrical Variation, Anti-Benoni Variation, Geller Variation",No result
+1984,27,"Karpov, Anatoly","Kasparov, Garry",59,58,14.627118644067796,20.155172413793103,34.7822910578609,D37,Queen's Gambit Declined: Three Knights Variation,No result
+1984,28,"Kasparov, Garry","Karpov, Anatoly",25,24,18.76,20.708333333333332,39.468333333333334,C42,"Russian Game: Classical Attack, Mason-Showalter Variation",No result
+1984,29,"Karpov, Anatoly","Kasparov, Garry",13,13,12.538461538461538,13.461538461538462,26.0,D47,Semi-Slav Defense: Meran Variation,No result
+1984,30,"Kasparov, Garry","Karpov, Anatoly",20,20,7.5,7.7,15.2,C42,"Russian Game: Classical Attack, Chigorin Variation",No result
+1984,31,"Karpov, Anatoly","Kasparov, Garry",35,35,19.02857142857143,15.885714285714286,34.91428571428571,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,32,"Kasparov, Garry","Karpov, Anatoly",41,40,16.902439024390244,19.35,36.25243902439024,E12,"Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack",No result
+1984,33,"Karpov, Anatoly","Kasparov, Garry",20,19,19.1,21.57894736842105,40.67894736842105,D45,"Semi-Slav Defense: Stoltz Variation, Center Variation",No result
+1984,34,"Kasparov, Garry","Karpov, Anatoly",20,20,3.8,4.9,8.7,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,35,"Karpov, Anatoly","Kasparov, Garry",17,17,15,17.235294117647058,32.23529411764706,B64,"Sicilian Defense: Richter-Rauzer Variation, Classical Variation",No result
+1984,36,"Kasparov, Garry","Karpov, Anatoly",41,41,22.5609756097561,21.024390243902438,43.58536585365854,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,37,"Karpov, Anatoly","Kasparov, Garry",15,15,14.8,10.533333333333333,25.333333333333336,B63,"Sicilian Defense: Richter-Rauzer Variation, Classical Variation",No result
+1984,38,"Kasparov, Garry","Karpov, Anatoly",25,25,11.2,13.4,24.6,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,39,"Karpov, Anatoly","Kasparov, Garry",48,48,7.479166666666667,11.5,18.979166666666668,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,40,"Kasparov, Garry","Karpov, Anatoly",70,70,11.971428571428572,11.942857142857143,23.914285714285715,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,41,"Karpov, Anatoly","Kasparov, Garry",71,70,6.704225352112676,6.585714285714285,13.289939637826961,C42,"Russian Game: Classical Attack, Chigorin Variation, Main Line",No result
+1984,42,"Kasparov, Garry","Karpov, Anatoly",26,26,6.615384615384615,6.6923076923076925,13.307692307692307,D58,Queen's Gambit Declined: Tartakower Defense,No result
+1984,43,"Karpov, Anatoly","Kasparov, Garry",21,21,8.761904761904763,6.285714285714286,15.047619047619047,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",No result
+1984,44,"Kasparov, Garry","Karpov, Anatoly",38,37,19.92105263157895,20.405405405405407,40.326458036984356,C92,"Ruy Lopez: Closed, Flohr System",No result
+1984,45,"Karpov, Anatoly","Kasparov, Garry",36,36,10.944444444444445,10.444444444444445,21.38888888888889,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",No result
+1984,46,"Kasparov, Garry","Karpov, Anatoly",41,41,19.097560975609756,19.536585365853657,38.63414634146341,C92,"Ruy Lopez: Closed, Flohr System",No result
+1984,47,"Karpov, Anatoly","Kasparov, Garry",32,32,33.65625,15.46875,49.125,D52,"Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation",No result
+1984,48,"Kasparov, Garry","Karpov, Anatoly",67,66,21,22.21212121212121,43.21212121212121,C42,"Russian Game: Classical Attack, Jaenisch Variation",No result
+1985,1,"Kasparov, Garry","Karpov, Anatoly",42,41,17.571428571428573,22.195121951219512,39.76655052264809,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1985,2,"Karpov, Anatoly","Kasparov, Garry",65,64,20.353846153846153,18.15625,38.51009615384615,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1985,3,"Kasparov, Garry","Karpov, Anatoly",20,20,14.75,9.9,24.65,D37,Queen's Gambit Declined: Three Knights Variation,Garry Kasparov
+1985,4,"Karpov, Anatoly","Kasparov, Garry",63,62,20.38095238095238,25.338709677419356,45.71966205837174,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1985,5,"Kasparov, Garry","Karpov, Anatoly",41,41,26.902439024390244,23.926829268292682,50.829268292682926,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1985,6,"Karpov, Anatoly","Kasparov, Garry",27,27,11.777777777777779,13.703703703703704,25.48148148148148,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1985,7,"Kasparov, Garry","Karpov, Anatoly",31,30,15.709677419354838,14.866666666666667,30.576344086021507,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1985,8,"Karpov, Anatoly","Kasparov, Garry",49,49,5.204081632653061,4.530612244897959,9.73469387755102,D58,Queen's Gambit Declined: Tartakower Defense,Garry Kasparov
+1985,9,"Kasparov, Garry","Karpov, Anatoly",53,52,15.20754716981132,15.692307692307692,30.899854862119014,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1985,10,"Karpov, Anatoly","Kasparov, Garry",37,36,11.108108108108109,10.305555555555555,21.413663663663662,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1985,11,"Kasparov, Garry","Karpov, Anatoly",25,24,12.8,25.458333333333332,38.25833333333333,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1985,12,"Karpov, Anatoly","Kasparov, Garry",18,18,15.444444444444445,14.444444444444445,29.88888888888889,B44,"Sicilian Defense: Taimanov Variation, Gary Gambit",Garry Kasparov
+1985,13,"Kasparov, Garry","Karpov, Anatoly",24,24,10.875,10.375,21.25,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1985,14,"Karpov, Anatoly","Kasparov, Garry",32,32,13.4375,12.78125,26.21875,B45,"Sicilian Defense: Taimanov Variation, Normal Variation",Garry Kasparov
+1985,15,"Kasparov, Garry","Karpov, Anatoly",22,22,26.318181818181817,25.136363636363637,51.45454545454545,C42,"Russian Game: Classical Attack, Mason-Showalter Variation",Garry Kasparov
+1985,16,"Karpov, Anatoly","Kasparov, Garry",39,40,51.92307692307692,30.1,82.02307692307693,B44,"Sicilian Defense: Taimanov Variation, Gary Gambit",Garry Kasparov
+1985,17,"Kasparov, Garry","Karpov, Anatoly",29,28,12.586206896551724,12,24.586206896551722,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1985,18,"Karpov, Anatoly","Kasparov, Garry",23,22,12.434782608695652,9.090909090909092,21.525691699604742,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1985,19,"Kasparov, Garry","Karpov, Anatoly",42,41,12.666666666666666,20.951219512195124,33.61788617886179,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1985,20,"Karpov, Anatoly","Kasparov, Garry",85,85,10,10.929411764705883,20.929411764705883,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1985,21,"Kasparov, Garry","Karpov, Anatoly",44,44,11.75,12.659090909090908,24.409090909090907,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1985,22,"Karpov, Anatoly","Kasparov, Garry",42,41,15.880952380952381,21.097560975609756,36.97851335656214,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1985,23,"Kasparov, Garry","Karpov, Anatoly",41,40,11.609756097560975,12.05,23.659756097560976,D55,"Queen's Gambit Declined: Anti-Tartakower Variation, Petrosian Variation",Garry Kasparov
+1985,24,"Karpov, Anatoly","Kasparov, Garry",42,42,50.45238095238095,31.928571428571427,82.38095238095238,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1986,1,"Karpov, Anatoly","Kasparov, Garry",21,20,13.238095238095237,10.15,23.38809523809524,D92,"Grünfeld Defense: Three Knights Variation, Hungarian Attack",Garry Kasparov
+1986,2,"Kasparov, Garry","Karpov, Anatoly",52,52,17.75,17.25,35.0,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1986,3,"Karpov, Anatoly","Kasparov, Garry",35,34,9.542857142857143,8.529411764705882,18.072268907563025,E60,"King's Indian Defense: Normal Variation, King's Knight Variation",Garry Kasparov
+1986,4,"Kasparov, Garry","Karpov, Anatoly",41,40,20.024390243902438,24.4,44.42439024390244,E21,Nimzo-Indian Defense: Three Knights Variation,Garry Kasparov
+1986,5,"Karpov, Anatoly","Kasparov, Garry",32,31,21.8125,28.161290322580644,49.97379032258064,D82,Grünfeld Defense: Brinckmann Attack,Garry Kasparov
+1986,6,"Kasparov, Garry","Karpov, Anatoly",42,41,9.642857142857142,10.073170731707316,19.71602787456446,C42,"Russian Game: Classical Attack, Mason-Showalter Variation",Garry Kasparov
+1986,7,"Karpov, Anatoly","Kasparov, Garry",41,41,21.634146341463413,24.048780487804876,45.68292682926829,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1986,8,"Kasparov, Garry","Karpov, Anatoly",31,30,28.29032258064516,31.766666666666666,60.056989247311826,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1986,9,"Karpov, Anatoly","Kasparov, Garry",20,20,17.65,16.2,33.849999999999994,D82,Grünfeld Defense: Brinckmann Attack,Garry Kasparov
+1986,10,"Kasparov, Garry","Karpov, Anatoly",44,43,8.113636363636363,7.604651162790698,15.718287526427062,D55,"Queen's Gambit Declined: Anti-Tartakower Variation, Petrosian Variation",Garry Kasparov
+1986,11,"Karpov, Anatoly","Kasparov, Garry",41,40,16.121951219512194,16.925,33.046951219512195,D82,Grünfeld Defense: Brinckmann Attack,Garry Kasparov
+1986,12,"Kasparov, Garry","Karpov, Anatoly",34,33,6.617647058823529,6.787878787878788,13.405525846702318,D55,"Queen's Gambit Declined: Anti-Tartakower Variation, Petrosian Variation",Garry Kasparov
+1986,13,"Karpov, Anatoly","Kasparov, Garry",40,40,23.5,22.1,45.6,E60,"King's Indian Defense: Normal Variation, King's Knight Variation",Garry Kasparov
+1986,14,"Kasparov, Garry","Karpov, Anatoly",41,40,15.390243902439025,18.25,33.640243902439025,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1986,15,"Karpov, Anatoly","Kasparov, Garry",29,29,11.206896551724139,10.793103448275861,22.0,D98,"Grünfeld Defense: Russian Variation, Smyslov Variation",Garry Kasparov
+1986,16,"Kasparov, Garry","Karpov, Anatoly",41,40,18.414634146341463,26.7,45.11463414634146,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1986,17,"Karpov, Anatoly","Kasparov, Garry",31,30,12.129032258064516,19.033333333333335,31.16236559139785,D98,"Grünfeld Defense: Russian Variation, Smyslov Variation",Garry Kasparov
+1986,18,"Kasparov, Garry","Karpov, Anatoly",58,58,36.775862068965516,28.655172413793103,65.43103448275862,E12,"Nimzo-Indian Defense: Three Knights Variation, Duchamp Variation",Garry Kasparov
+1986,19,"Karpov, Anatoly","Kasparov, Garry",41,40,26.609756097560975,30.45,57.05975609756098,D97,"Grünfeld Defense: Russian Variation, Prins Variation",Garry Kasparov
+1986,20,"Kasparov, Garry","Karpov, Anatoly",21,21,12.095238095238095,11.142857142857142,23.238095238095237,E06,Catalan Opening: Closed,Garry Kasparov
+1986,21,"Karpov, Anatoly","Kasparov, Garry",45,45,10.088888888888889,9.644444444444444,19.733333333333334,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",Garry Kasparov
+1986,22,"Kasparov, Garry","Karpov, Anatoly",46,45,14.23913043478261,14.088888888888889,28.328019323671498,D55,"Queen's Gambit Declined: Anti-Tartakower Variation, Petrosian Variation",Garry Kasparov
+1986,23,"Karpov, Anatoly","Kasparov, Garry",32,31,15.1875,13.67741935483871,28.86491935483871,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",Garry Kasparov
+1986,24,"Kasparov, Garry","Karpov, Anatoly",41,41,6.780487804878049,7.780487804878049,14.560975609756097,E16,Queen's Indian Defense: Yates Variation,Garry Kasparov
+1987,1,"Karpov, Anatoly","Kasparov, Garry",30,30,13.933333333333334,11.433333333333334,25.366666666666667,E60,"King's Indian Defense: Fianchetto Variation, Immediate Fianchetto",Garry Kasparov
+1987,2,"Kasparov, Garry","Karpov, Anatoly",32,32,38.03125,24.125,62.15625,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Garry Kasparov
+1987,3,"Karpov, Anatoly","Kasparov, Garry",29,29,11.03448275862069,8.931034482758621,19.96551724137931,E60,"King's Indian Defense: Fianchetto Variation, Immediate Fianchetto",Garry Kasparov
+1987,4,"Kasparov, Garry","Karpov, Anatoly",41,40,22.536585365853657,26.9,49.43658536585366,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Garry Kasparov
+1987,5,"Karpov, Anatoly","Kasparov, Garry",38,37,25.42105263157895,42.5945945945946,68.01564722617354,D87,"Grünfeld Defense: Exchange Variation, Seville Variation",Garry Kasparov
+1987,6,"Kasparov, Garry","Karpov, Anatoly",28,27,14.678571428571429,14.444444444444445,29.123015873015873,A25,"English Opening: King's English Variation, Reversed Closed Sicilian",Garry Kasparov
+1987,7,"Karpov, Anatoly","Kasparov, Garry",79,79,17.911392405063292,17.911392405063292,35.822784810126585,D87,"Grünfeld Defense: Exchange Variation, Seville Variation",Garry Kasparov
+1987,8,"Kasparov, Garry","Karpov, Anatoly",50,49,14.16,18.163265306122447,32.32326530612245,A21,"English Opening: King's English Variation, Reversed Sicilian",Garry Kasparov
+1987,9,"Karpov, Anatoly","Kasparov, Garry",70,70,8.585714285714285,9.3,17.885714285714286,D87,"Grünfeld Defense: Exchange Variation, Seville Variation",Garry Kasparov
+1987,10,"Kasparov, Garry","Karpov, Anatoly",20,19,16.2,15.789473684210526,31.989473684210523,B17,Caro-Kann Defense: Karpov Variation,Garry Kasparov
+1987,11,"Karpov, Anatoly","Kasparov, Garry",50,50,19.56,13.62,33.18,D87,"Grünfeld Defense: Exchange Variation, Seville Variation",Garry Kasparov
+1987,12,"Kasparov, Garry","Karpov, Anatoly",21,20,11.428571428571429,10.5,21.92857142857143,D31,Queen's Gambit Declined: Charousek Variation,Garry Kasparov
+1987,13,"Karpov, Anatoly","Kasparov, Garry",36,36,11.5,11.61111111111111,23.11111111111111,D85,"Grünfeld Defense: Exchange Variation, Modern Exchange Variation",Garry Kasparov
+1987,14,"Kasparov, Garry","Karpov, Anatoly",21,20,8.047619047619047,9,17.047619047619047,B17,Caro-Kann Defense: Karpov Variation,Garry Kasparov
+1987,15,"Karpov, Anatoly","Kasparov, Garry",43,42,13.651162790697674,14.785714285714286,28.43687707641196,D97,"Grünfeld Defense: Russian Variation, Prins Variation",Garry Kasparov
+1987,16,"Kasparov, Garry","Karpov, Anatoly",41,40,24.073170731707318,16.2,40.27317073170732,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Garry Kasparov
+1987,17,"Karpov, Anatoly","Kasparov, Garry",46,46,8.73913043478261,8.58695652173913,17.326086956521742,E97,"King's Indian Defense: Orthodox Variation, Modern System",Garry Kasparov
+1987,18,"Kasparov, Garry","Karpov, Anatoly",40,40,6.275,6.15,12.425,D58,Queen's Gambit Declined: Tartakower Defense,Garry Kasparov
+1987,19,"Karpov, Anatoly","Kasparov, Garry",60,60,7.716666666666667,7.816666666666666,15.533333333333333,D58,Queen's Gambit Declined: Tartakower Defense,Garry Kasparov
+1987,20,"Kasparov, Garry","Karpov, Anatoly",37,37,18.675675675675677,18.89189189189189,37.567567567567565,D37,Queen's Gambit Declined: Miles Variation,Garry Kasparov
+1987,21,"Karpov, Anatoly","Kasparov, Garry",28,28,19.107142857142858,19.071428571428573,38.17857142857143,D97,"Grünfeld Defense: Russian Variation, Prins Variation",Garry Kasparov
+1987,22,"Kasparov, Garry","Karpov, Anatoly",19,18,10.894736842105264,9.61111111111111,20.505847953216374,D37,"Queen's Gambit Declined: Harrwitz Attack, Main Line",Garry Kasparov
+1987,23,"Karpov, Anatoly","Kasparov, Garry",57,57,25.403508771929825,29.719298245614034,55.12280701754386,A34,"English Opening: Symmetrical Variation, Three Knights Variation",Garry Kasparov
+1987,24,"Kasparov, Garry","Karpov, Anatoly",64,63,22.359375,26.095238095238095,48.454613095238095,A13,English Opening: Neo-Catalan,Garry Kasparov
+1990,1,"Karpov, Anatoly","Kasparov, Garry",30,30,13.2,11.866666666666667,25.066666666666666,E81,"King's Indian Defense: Sämisch Variation, Byrne Defense",Garry Kasparov
+1990,2,"Kasparov, Garry","Karpov, Anatoly",44,43,25.431818181818183,36.76744186046512,62.1992600422833,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1990,3,"Karpov, Anatoly","Kasparov, Garry",53,52,26.471698113207548,24.615384615384617,51.087082728592165,E92,"King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System",Garry Kasparov
+1990,4,"Kasparov, Garry","Karpov, Anatoly",41,40,29.195121951219512,29.75,58.94512195121951,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1990,5,"Karpov, Anatoly","Kasparov, Garry",36,35,11.833333333333334,11.457142857142857,23.29047619047619,E92,"King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System",Garry Kasparov
+1990,6,"Kasparov, Garry","Karpov, Anatoly",42,41,17.142857142857142,15.975609756097562,33.11846689895471,C92,"Ruy Lopez: Closed, Karpov Variation",Garry Kasparov
+1990,7,"Karpov, Anatoly","Kasparov, Garry",44,43,21.40909090909091,25.488372093023255,46.897463002114165,E92,"King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System",Garry Kasparov
+1990,8,"Kasparov, Garry","Karpov, Anatoly",84,83,17.071428571428573,16.40963855421687,33.48106712564544,C92,"Ruy Lopez: Closed, Karpov Variation",Garry Kasparov
+1990,9,"Karpov, Anatoly","Kasparov, Garry",34,33,12.088235294117647,11.575757575757576,23.663992869875223,D85,Grünfeld Defense: Exchange Variation,Garry Kasparov
+1990,10,"Kasparov, Garry","Karpov, Anatoly",18,17,12.777777777777779,12.941176470588236,25.718954248366014,C43,"Russian Game: Modern Attack, Center Attack",Garry Kasparov
+1990,11,"Karpov, Anatoly","Kasparov, Garry",24,24,27.125,33.875,61.0,E92,"King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System",Garry Kasparov
+1990,12,"Kasparov, Garry","Karpov, Anatoly",37,36,21.594594594594593,19.27777777777778,40.87237237237237,C92,"Ruy Lopez: Closed, Karpov Variation",Garry Kasparov
+1990,13,"Karpov, Anatoly","Kasparov, Garry",42,41,14.619047619047619,16.853658536585368,31.472706155632984,D85,Grünfeld Defense: Exchange Variation,Garry Kasparov
+1990,14,"Kasparov, Garry","Karpov, Anatoly",41,40,29.048780487804876,30.175,59.22378048780487,C45,Scotch Game: Mieses Variation,Garry Kasparov
+1990,15,"Karpov, Anatoly","Kasparov, Garry",33,33,15.030303030303031,14.454545454545455,29.484848484848484,D85,Grünfeld Defense: Exchange Variation,Garry Kasparov
+1990,16,"Kasparov, Garry","Karpov, Anatoly",102,101,16.274509803921568,18.10891089108911,34.38342069501068,C45,Scotch Game: Mieses Variation,Garry Kasparov
+1990,17,"Karpov, Anatoly","Kasparov, Garry",40,39,16.1,21.076923076923077,37.176923076923075,D85,Grünfeld Defense: Exchange Variation,Garry Kasparov
+1990,18,"Kasparov, Garry","Karpov, Anatoly",57,56,27.50877192982456,33.67857142857143,61.18734335839599,C92,"Ruy Lopez: Closed, Karpov Variation",Garry Kasparov
+1990,19,"Karpov, Anatoly","Kasparov, Garry",39,39,20.153846153846153,16.435897435897434,36.58974358974359,E92,"King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System",Garry Kasparov
+1990,20,"Kasparov, Garry","Karpov, Anatoly",40,39,14.45,25.974358974358974,40.424358974358974,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1990,21,"Karpov, Anatoly","Kasparov, Garry",86,86,13.162790697674419,12.604651162790697,25.767441860465116,E87,"King's Indian Defense: Sämisch Variation, Closed Variation",Garry Kasparov
+1990,22,"Kasparov, Garry","Karpov, Anatoly",43,42,16.41860465116279,17.428571428571427,33.84717607973422,C92,"Ruy Lopez: Closed, Flohr System",Garry Kasparov
+1990,23,"Karpov, Anatoly","Kasparov, Garry",29,28,11.172413793103448,26.392857142857142,37.56527093596059,E87,"King's Indian Defense: Sämisch Variation, Closed Variation",Garry Kasparov
+1990,24,"Kasparov, Garry","Karpov, Anatoly",36,35,22.86111111111111,25.485714285714284,48.346825396825395,A17,"English Opening: Anglo-Indian Defense, Nimzo-English",Garry Kasparov
+1993,1,"Kasparov, Garry","Short, Nigel D",39,39,14,16.05128205128205,30.05128205128205,C88,"Ruy Lopez: Closed, Anti-Marshall",Garry Kasparov
+1993,2,"Short, Nigel D","Kasparov, Garry",51,50,21.568627450980394,20.64,42.208627450980394,B67,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation",Garry Kasparov
+1993,3,"Kasparov, Garry","Short, Nigel D",59,58,22.389830508474578,28.75862068965517,51.14845119812975,C88,"Ruy Lopez: Closed, Anti-Marshall",Garry Kasparov
+1993,4,"Short, Nigel D","Kasparov, Garry",40,40,35.375,23.4,58.775,B97,"Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",Garry Kasparov
+1993,5,"Kasparov, Garry","Short, Nigel D",18,17,23.833333333333332,22.705882352941178,46.53921568627451,E35,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Garry Kasparov
+1993,6,"Short, Nigel D","Kasparov, Garry",31,31,21.06451612903226,17.70967741935484,38.7741935483871,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",Garry Kasparov
+1993,7,"Kasparov, Garry","Short, Nigel D",36,35,10.36111111111111,17.228571428571428,27.58968253968254,C88,"Ruy Lopez: Closed, Anti-Marshall",Garry Kasparov
+1993,8,"Short, Nigel D","Kasparov, Garry",41,41,31.48780487804878,33.65853658536585,65.14634146341463,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",Garry Kasparov
+1993,9,"Kasparov, Garry","Short, Nigel D",52,51,20.53846153846154,26.607843137254903,47.14630467571644,E35,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Garry Kasparov
+1993,10,"Short, Nigel D","Kasparov, Garry",43,43,46.906976744186046,33.906976744186046,80.81395348837209,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",Garry Kasparov
+1993,11,"Kasparov, Garry","Short, Nigel D",50,50,13.22,11.72,24.94,C45,"Scotch Game: Classical Variation, Intermezzo Variation",Garry Kasparov
+1993,12,"Short, Nigel D","Kasparov, Garry",40,40,10.125,11.9,22.025,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",Garry Kasparov
+1993,13,"Kasparov, Garry","Short, Nigel D",34,33,14.176470588235293,15.212121212121213,29.388591800356508,D19,"Slav Defense: Czech Variation, Dutch Variation",Garry Kasparov
+1993,14,"Short, Nigel D","Kasparov, Garry",39,39,22.333333333333332,17.205128205128204,39.53846153846153,B90,"Sicilian Defense: Najdorf Variation, Lipnitsky Attack",Garry Kasparov
+1993,15,"Kasparov, Garry","Short, Nigel D",39,38,12.435897435897436,24.36842105263158,36.80431848852901,D35,"Queen's Gambit Declined: Exchange Variation, Positional Variation",Garry Kasparov
+1993,16,"Short, Nigel D","Kasparov, Garry",38,37,16.342105263157894,27.972972972972972,44.315078236130866,B87,"Sicilian Defense: Sozin Attack, Flank Variation",Garry Kasparov
+1993,17,"Kasparov, Garry","Short, Nigel D",41,40,10.024390243902438,11.975,21.99939024390244,C45,"Scotch Game: Classical Variation, Intermezzo Variation",Garry Kasparov
+1993,18,"Short, Nigel D","Kasparov, Garry",33,33,19.242424242424242,15.969696969696969,35.21212121212121,B87,"Sicilian Defense: Sozin Attack, Flank Variation",Garry Kasparov
+1993,19,"Kasparov, Garry","Short, Nigel D",26,25,14.423076923076923,19,33.42307692307692,C73,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense",Garry Kasparov
+1993,20,"Short, Nigel D","Kasparov, Garry",36,35,14.694444444444445,12.342857142857143,27.037301587301588,B87,"Sicilian Defense: Sozin Attack, Flank Variation",Garry Kasparov
+1995,1,"Anand, Viswanathan","Kasparov, Garry",27,27,11.407407407407407,10.814814814814815,22.22222222222222,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1995,2,"Kasparov, Garry","Anand, Viswanathan",29,29,17.24137931034483,18,35.241379310344826,E34,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Garry Kasparov
+1995,3,"Anand, Viswanathan","Kasparov, Garry",36,36,13.805555555555555,13.63888888888889,27.444444444444443,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1995,4,"Kasparov, Garry","Anand, Viswanathan",21,20,15.428571428571429,17.85,33.27857142857143,A17,"English Opening: Anglo-Indian Defense, Nimzo-English",Garry Kasparov
+1995,5,"Anand, Viswanathan","Kasparov, Garry",27,27,9.62962962962963,6.592592592592593,16.22222222222222,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1995,6,"Kasparov, Garry","Anand, Viswanathan",28,27,27.428571428571427,27.77777777777778,55.2063492063492,C80,"Ruy Lopez: Open, Karpov Gambit",Garry Kasparov
+1995,7,"Anand, Viswanathan","Kasparov, Garry",25,25,6.96,7.68,14.64,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1995,8,"Kasparov, Garry","Anand, Viswanathan",22,22,35.77272727272727,38.40909090909091,74.18181818181819,C45,Scotch Game: Mieses Variation,Garry Kasparov
+1995,9,"Anand, Viswanathan","Kasparov, Garry",35,34,18.17142857142857,29.735294117647058,47.90672268907563,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1995,10,"Kasparov, Garry","Anand, Viswanathan",38,37,50.86842105263158,53.91891891891892,104.7873399715505,C80,"Ruy Lopez: Open, Karpov Gambit",Garry Kasparov
+1995,11,"Anand, Viswanathan","Kasparov, Garry",31,31,30.516129032258064,22.580645161290324,53.096774193548384,B78,"Sicilian Defense: Dragon Variation, Yugoslav Attack",Garry Kasparov
+1995,12,"Kasparov, Garry","Anand, Viswanathan",43,43,18.186046511627907,15.55813953488372,33.74418604651163,C78,Ruy Lopez: Morphy Defense,Garry Kasparov
+1995,13,"Anand, Viswanathan","Kasparov, Garry",25,25,22.84,13.32,36.16,B77,"Sicilian Defense: Dragon Variation, Yugoslav Attack",Garry Kasparov
+1995,14,"Kasparov, Garry","Anand, Viswanathan",41,40,21.195121951219512,25.125,46.32012195121951,B01,"Scandinavian Defense: Main Line, Mieses Variation",Garry Kasparov
+1995,15,"Anand, Viswanathan","Kasparov, Garry",16,16,13.5,9.5,23.0,B76,"Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation",Garry Kasparov
+1995,16,"Kasparov, Garry","Anand, Viswanathan",20,19,6.15,6.526315789473684,12.676315789473684,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+1995,17,"Anand, Viswanathan","Kasparov, Garry",63,62,13.714285714285714,15.693548387096774,29.407834101382488,B77,"Sicilian Defense: Dragon Variation, Yugoslav Attack",Garry Kasparov
+1995,18,"Kasparov, Garry","Anand, Viswanathan",12,11,8.833333333333334,8.454545454545455,17.28787878787879,B84,"Sicilian Defense: Scheveningen Variation, Classical Variation",Garry Kasparov
+2000,1,"Kasparov, Garry","Kramnik, Vladimir",25,25,10.2,10.36,20.56,C67,"Ruy Lopez: Berlin Defense, Berlin Wall",Vladimir Kramnik
+2000,2,"Kramnik, Vladimir","Kasparov, Garry",40,39,12.025,18.641025641025642,30.66602564102564,D85,"Grünfeld Defense: Exchange Variation, Modern Exchange Variation",Vladimir Kramnik
+2000,3,"Kasparov, Garry","Kramnik, Vladimir",53,53,20.49056603773585,19.056603773584907,39.54716981132076,C67,"Ruy Lopez: Berlin Defense, Berlin Wall",Vladimir Kramnik
+2000,4,"Kramnik, Vladimir","Kasparov, Garry",74,73,17.87837837837838,15.26027397260274,33.13865235098112,D27,"Queen's Gambit Accepted: Classical Defense, Main Line",Vladimir Kramnik
+2000,5,"Kasparov, Garry","Kramnik, Vladimir",24,24,15.541666666666666,14.875,30.416666666666664,A30,English Opening: Symmetrical Variation,Vladimir Kramnik
+2000,6,"Kramnik, Vladimir","Kasparov, Garry",66,65,18.40909090909091,20.4,38.80909090909091,D27,"Queen's Gambit Accepted: Classical Defense, Rubinstein Variation",Vladimir Kramnik
+2000,7,"Kasparov, Garry","Kramnik, Vladimir",11,10,12.272727272727273,9.3,21.572727272727274,A31,"English Opening: Symmetrical Variation, Anti-Benoni Variation",Vladimir Kramnik
+2000,8,"Kramnik, Vladimir","Kasparov, Garry",38,37,15.263157894736842,14.91891891891892,30.182076813655762,E32,"Nimzo-Indian Defense: Classical Variation, Keres Defense",Vladimir Kramnik
+2000,9,"Kasparov, Garry","Kramnik, Vladimir",30,30,11.966666666666667,11.033333333333333,23.0,C67,"Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense",Vladimir Kramnik
+2000,10,"Kramnik, Vladimir","Kasparov, Garry",25,24,21.8,35.75,57.55,E53,"Nimzo-Indian Defense: Normal Variation, Gligoric System",Vladimir Kramnik
+2000,11,"Kasparov, Garry","Kramnik, Vladimir",41,41,11.21951219512195,10.926829268292684,22.146341463414636,C78,Ruy Lopez: Morphy Defense,Vladimir Kramnik
+2000,12,"Kramnik, Vladimir","Kasparov, Garry",33,33,32.27272727272727,33.696969696969695,65.96969696969697,E55,"Nimzo-Indian Defense: Normal Variation, Gligoric System, Bronstein Variation",Vladimir Kramnik
+2000,13,"Kasparov, Garry","Kramnik, Vladimir",14,13,16.285714285714285,13.538461538461538,29.824175824175825,C67,"Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense",Vladimir Kramnik
+2000,14,"Kramnik, Vladimir","Kasparov, Garry",57,57,15.947368421052632,14.368421052631579,30.315789473684212,A15,"English Opening: Anglo-Indian Defense, Queen's Indian Formation",Vladimir Kramnik
+2000,15,"Kasparov, Garry","Kramnik, Vladimir",38,38,11.526315789473685,10.157894736842104,21.684210526315788,E06,Catalan Opening: Closed,Vladimir Kramnik
+2004,1,"Leko, Peter","Kramnik, Vladimir",65,65,19.8,13.723076923076922,33.52307692307692,C42,"Russian Game: Classical Attack, Chigorin Variation, Main Line",Vladimir Kramnik
+2004,2,"Kramnik, Vladimir","Leko, Peter",18,17,11.833333333333334,12.058823529411764,23.892156862745097,C88,Ruy Lopez: Closed,Vladimir Kramnik
+2004,3,"Leko, Peter","Kramnik, Vladimir",23,23,7.3478260869565215,7.521739130434782,14.869565217391305,C42,"Russian Game: Classical Attack, Chigorin Variation, Main Line",Vladimir Kramnik
+2004,4,"Kramnik, Vladimir","Leko, Peter",43,43,8.511627906976743,8.069767441860465,16.58139534883721,C88,Ruy Lopez: Closed,Vladimir Kramnik
+2004,5,"Leko, Peter","Kramnik, Vladimir",69,68,10.173913043478262,13.808823529411764,23.982736572890026,D37,"Queen's Gambit Declined: Harrwitz Attack, Main Line",Vladimir Kramnik
+2004,6,"Kramnik, Vladimir","Leko, Peter",20,20,12.15,11.95,24.1,C88,Ruy Lopez: Closed,Vladimir Kramnik
+2004,7,"Leko, Peter","Kramnik, Vladimir",21,20,10.19047619047619,10.15,20.34047619047619,D16,Slav Defense: Soultanbeieff Variation,Vladimir Kramnik
+2004,8,"Kramnik, Vladimir","Leko, Peter",32,32,41.3125,31.09375,72.40625,C89,"Ruy Lopez: Marshall Attack, Modern Main Line",Vladimir Kramnik
+2004,9,"Leko, Peter","Kramnik, Vladimir",16,16,6.8125,7.9375,14.75,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",Vladimir Kramnik
+2004,10,"Kramnik, Vladimir","Leko, Peter",35,34,12.885714285714286,14.676470588235293,27.56218487394958,C78,"Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation",Vladimir Kramnik
+2004,11,"Leko, Peter","Kramnik, Vladimir",17,17,7.823529411764706,7.9411764705882355,15.764705882352942,E15,"Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Nimzowitsch Attack",Vladimir Kramnik
+2004,12,"Kramnik, Vladimir","Leko, Peter",34,34,15.970588235294118,13.823529411764707,29.794117647058826,B19,"Caro-Kann Defense: Classical Variation, Spassky Variation",Vladimir Kramnik
+2004,13,"Leko, Peter","Kramnik, Vladimir",65,64,10.815384615384616,11.0625,21.877884615384616,A61,Benoni Defense: Knight's Tour Variation,Vladimir Kramnik
+2004,14,"Kramnik, Vladimir","Leko, Peter",41,39,18.78048780487805,34.76923076923077,53.549718574108816,B12,"Caro-Kann Defense: Advance Variation, Tal Variation",Vladimir Kramnik
+2006,1,"Kramnik, Vladimir","Topalov, Veselin",75,74,15.253333333333334,18.094594594594593,33.34792792792793,E04,Catalan Opening: Open Defense,Vladimir Kramnik
+2006,2,"Topalov, Veselin","Kramnik, Vladimir",63,63,29.047619047619047,28.49206349206349,57.53968253968254,D19,"Slav Defense: Czech Variation, Dutch Variation",Vladimir Kramnik
+2006,3,"Kramnik, Vladimir","Topalov, Veselin",38,38,13.368421052631579,11.447368421052632,24.815789473684212,E04,Catalan Opening: Open Defense,Vladimir Kramnik
+2006,4,"Topalov, Veselin","Kramnik, Vladimir",54,53,11.055555555555555,11.924528301886792,22.980083857442345,D47,"Semi-Slav Defense: Meran Variation, Wade Variation",Vladimir Kramnik
+2006,6,"Topalov, Veselin","Kramnik, Vladimir",31,30,9.96774193548387,11.766666666666667,21.734408602150538,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Vladimir Kramnik
+2006,7,"Topalov, Veselin","Kramnik, Vladimir",60,59,16.866666666666667,16.627118644067796,33.49378531073447,D27,"Queen's Gambit Accepted: Classical Defense, Main Line",Vladimir Kramnik
+2006,8,"Kramnik, Vladimir","Topalov, Veselin",51,52,33.86274509803921,25.48076923076923,59.34351432880844,D47,Semi-Slav Defense: Meran Variation,Vladimir Kramnik
+2006,9,"Topalov, Veselin","Kramnik, Vladimir",39,38,21.923076923076923,25.210526315789473,47.1336032388664,D12,"Slav Defense: Quiet Variation, Schallopp Defense",Vladimir Kramnik
+2006,10,"Kramnik, Vladimir","Topalov, Veselin",43,42,23.25581395348837,32.88095238095238,56.13676633444075,E10,Indian Defense: Anti-Nimzo-Indian,Vladimir Kramnik
+2006,11,"Topalov, Veselin","Kramnik, Vladimir",66,65,10.348484848484848,9.784615384615385,20.133100233100233,D12,"Slav Defense: Quiet Variation, Schallopp Defense",Vladimir Kramnik
+2006,12,"Kramnik, Vladimir","Topalov, Veselin",47,47,14.340425531914894,14.02127659574468,28.361702127659576,D12,"Slav Defense: Quiet Variation, Schallopp Defense",Vladimir Kramnik
+2006,13,"Topalov, Veselin","Kramnik, Vladimir",47,46,22.148936170212767,22.630434782608695,44.779370952821466,D19,"Slav Defense: Czech Variation, Dutch Variation",Vladimir Kramnik
+2006,14,"Kramnik, Vladimir","Topalov, Veselin",45,44,14.733333333333333,22.022727272727273,36.75606060606061,D45,Semi-Slav Defense: Stoltz Variation,Vladimir Kramnik
+2006,15,"Topalov, Veselin","Kramnik, Vladimir",50,49,27.2,39.97959183673469,67.17959183673469,D12,"Slav Defense: Quiet Variation, Schallopp Defense",Vladimir Kramnik
+2006,16,"Kramnik, Vladimir","Topalov, Veselin",45,44,17.822222222222223,29.954545454545453,47.776767676767676,D47,Semi-Slav Defense: Meran Variation,Vladimir Kramnik
+2007,1,"Kramnik, Vladimir","Svidler, Peter",23,22,18.608695652173914,18.227272727272727,36.83596837944664,D43,Semi-Slav Defense,Viswanathan Anand
+2007,2,"Morozevich, Alexander","Aronian, Levon",25,25,20.68,20.68,41.36,E12,"Queen's Indian Defense: Kasparov-Petrosian Variation, Petrosian Attack",Viswanathan Anand
+2007,3,"Anand, Viswanathan","Gelfand, Boris",22,22,31.363636363636363,28.181818181818183,59.54545454545455,C42,Russian Game: Nimzowitsch Attack,Viswanathan Anand
+2007,4,"Grischuk, Alexander","Leko, Peter",28,27,18.392857142857142,21.333333333333332,39.726190476190474,C88,Ruy Lopez: Closed,Viswanathan Anand
+2007,5,"Svidler, Peter","Leko, Peter",43,42,20.023255813953487,19.30952380952381,39.33277962347729,C89,"Ruy Lopez: Marshall Attack, Modern Main Line",Viswanathan Anand
+2007,6,"Gelfand, Boris","Grischuk, Alexander",23,22,10.826086956521738,10.045454545454545,20.87154150197628,E15,"Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Quiet Line",Viswanathan Anand
+2007,7,"Aronian, Levon","Anand, Viswanathan",41,41,32.951219512195124,22.70731707317073,55.65853658536585,D43,Semi-Slav Defense: Anti-Moscow Gambit,Viswanathan Anand
+2007,8,"Kramnik, Vladimir","Morozevich, Alexander",27,26,25.185185185185187,45.03846153846154,70.22364672364672,E04,Catalan Opening: Open Defense,Viswanathan Anand
+2007,9,"Morozevich, Alexander","Svidler, Peter",37,36,22.7027027027027,29.75,52.4527027027027,C45,Scotch Game: Classical Variation,Viswanathan Anand
+2007,10,"Anand, Viswanathan","Kramnik, Vladimir",65,65,13.76923076923077,14.661538461538461,28.43076923076923,C42,"Russian Game: Classical Attack, Chigorin Variation, Main Line",Viswanathan Anand
+2007,11,"Grischuk, Alexander","Aronian, Levon",31,30,27.258064516129032,24.233333333333334,51.491397849462366,C88,Ruy Lopez: Closed,Viswanathan Anand
+2007,12,"Leko, Peter","Gelfand, Boris",100,100,9.4,9.85,19.25,C42,Russian Game: Nimzowitsch Attack,Viswanathan Anand
+2007,13,"Kramnik, Vladimir","Grischuk, Alexander",60,60,17.583333333333332,19.633333333333333,37.21666666666667,E06,Catalan Opening: Closed,Viswanathan Anand
+2007,14,"Morozevich, Alexander","Anand, Viswanathan",61,60,26.75409836065574,26.233333333333334,52.98743169398907,D47,"Semi-Slav Defense: Meran Variation, Wade Variation",Viswanathan Anand
+2007,15,"Svidler, Peter","Gelfand, Boris",24,24,13.583333333333334,11.916666666666666,25.5,C42,Russian Game: Nimzowitsch Attack,Viswanathan Anand
+2007,16,"Aronian, Levon","Leko, Peter",45,44,12.377777777777778,20.045454545454547,32.42323232323233,A33,"English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",Viswanathan Anand
+2007,17,"Anand, Viswanathan","Svidler, Peter",39,38,12.794871794871796,19,31.794871794871796,C89,"Ruy Lopez: Marshall Attack, Modern Variation",Viswanathan Anand
+2007,18,"Grischuk, Alexander","Morozevich, Alexander",41,40,19.926829268292682,24.75,44.67682926829268,D38,Queen's Gambit Declined: Ragozin Defense,Viswanathan Anand
+2007,19,"Leko, Peter","Kramnik, Vladimir",24,24,15.166666666666666,10.791666666666666,25.958333333333332,C53,"Italian Game: Classical Variation, Giuoco Pianissimo, Main Line",Viswanathan Anand
+2007,20,"Gelfand, Boris","Aronian, Levon",48,47,22.458333333333332,25.46808510638298,47.926418439716315,E00,Catalan Opening,Viswanathan Anand
+2007,21,"Grischuk, Alexander","Svidler, Peter",41,40,32.048780487804876,31.475,63.52378048780488,D43,Semi-Slav Defense: Anti-Moscow Gambit,Viswanathan Anand
+2007,22,"Leko, Peter","Anand, Viswanathan",21,21,20.047619047619047,16.761904761904763,36.80952380952381,C78,Ruy Lopez: Morphy Defense,Viswanathan Anand
+2007,23,"Aronian, Levon","Kramnik, Vladimir",22,21,11.954545454545455,12.428571428571429,24.383116883116884,E06,Catalan Opening: Closed,Viswanathan Anand
+2007,24,"Gelfand, Boris","Morozevich, Alexander",50,49,14.66,18.163265306122447,32.82326530612245,E17,Queen's Indian Defense: Opocensky Variation,Viswanathan Anand
+2007,25,"Morozevich, Alexander","Leko, Peter",60,60,23.75,22.883333333333333,46.63333333333333,C45,Scotch Game: Classical Variation,Viswanathan Anand
+2007,26,"Anand, Viswanathan","Grischuk, Alexander",50,49,16.4,22.612244897959183,39.01224489795918,C88,"Ruy Lopez: Closed, Anti-Marshall",Viswanathan Anand
+2007,27,"Svidler, Peter","Aronian, Levon",20,20,11.75,10.1,21.85,C69,"Ruy Lopez: Exchange Variation, Gligoric Variation",Viswanathan Anand
+2007,28,"Kramnik, Vladimir","Gelfand, Boris",40,40,19.725,17.825,37.55,D43,Semi-Slav Defense: Anti-Moscow Gambit,Viswanathan Anand
+2007,29,"Svidler, Peter","Kramnik, Vladimir",29,29,18.275862068965516,16.655172413793103,34.93103448275862,C42,Russian Game: Nimzowitsch Attack,Viswanathan Anand
+2007,30,"Aronian, Levon","Morozevich, Alexander",69,69,14.18840579710145,13.420289855072463,27.608695652173914,E17,Queen's Indian Defense: Opocensky Variation,Viswanathan Anand
+2007,31,"Gelfand, Boris","Anand, Viswanathan",20,19,15.05,10.526315789473685,25.576315789473686,E06,Catalan Opening: Closed,Viswanathan Anand
+2007,32,"Leko, Peter","Grischuk, Alexander",60,59,21.2,27.203389830508474,48.40338983050847,C88,"Ruy Lopez: Closed, Anti-Marshall",Viswanathan Anand
+2007,33,"Leko, Peter","Svidler, Peter",29,28,12.344827586206897,14.357142857142858,26.701970443349754,B90,"Sicilian Defense: Najdorf Variation, English Attack",Viswanathan Anand
+2007,34,"Grischuk, Alexander","Gelfand, Boris",61,60,17.229508196721312,22.566666666666666,39.796174863387975,E20,"Nimzo-Indian Defense: Romanishin Variation, English Hybrid",Viswanathan Anand
+2007,35,"Anand, Viswanathan","Aronian, Levon",21,20,19.142857142857142,12.75,31.892857142857142,C89,"Ruy Lopez: Marshall Attack, Main Line",Viswanathan Anand
+2007,36,"Morozevich, Alexander","Kramnik, Vladimir",48,47,16.645833333333332,24.340425531914892,40.986258865248224,A40,"Pterodactyl Defense: Queen Pterodactyl, Quiet Line",Viswanathan Anand
+2007,37,"Svidler, Peter","Morozevich, Alexander",44,44,22.09090909090909,21.272727272727273,43.36363636363636,B17,"Caro-Kann Defense: Karpov Variation, Modern Main Line",Viswanathan Anand
+2007,38,"Kramnik, Vladimir","Anand, Viswanathan",41,40,25.51219512195122,24.825,50.33719512195122,D43,Semi-Slav Defense: Anti-Moscow Gambit,Viswanathan Anand
+2007,39,"Aronian, Levon","Grischuk, Alexander",42,40,15.666666666666666,19,34.666666666666664,D30,Queen's Gambit Declined: Capablanca Variation,Viswanathan Anand
+2007,40,"Gelfand, Boris","Leko, Peter",24,23,11.916666666666666,12.565217391304348,24.481884057971016,E06,Catalan Opening: Closed,Viswanathan Anand
+2007,41,"Grischuk, Alexander","Kramnik, Vladimir",13,12,16.076923076923077,18.583333333333332,34.66025641025641,C43,"Russian Game: Modern Attack, Center Variation",Viswanathan Anand
+2007,42,"Anand, Viswanathan","Morozevich, Alexander",56,55,25.964285714285715,31.69090909090909,57.65519480519481,B90,Sicilian Defense: Najdorf Variation,Viswanathan Anand
+2007,43,"Gelfand, Boris","Svidler, Peter",22,21,21.40909090909091,15.380952380952381,36.79004329004329,A15,"English Opening: Anglo-Indian Defense, King's Indian Formation",Viswanathan Anand
+2007,44,"Leko, Peter","Aronian, Levon",56,56,15.125,15.982142857142858,31.107142857142858,E15,"Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Nimzowitsch Attack",Viswanathan Anand
+2007,45,"Svidler, Peter","Anand, Viswanathan",22,22,10.227272727272727,9.227272727272727,19.454545454545453,C88,Ruy Lopez: Closed,Viswanathan Anand
+2007,46,"Morozevich, Alexander","Grischuk, Alexander",42,41,16.785714285714285,28.536585365853657,45.322299651567945,A28,"English Opening: King's English Variation, Four Knights Variation, Flexible Line",Viswanathan Anand
+2007,47,"Kramnik, Vladimir","Leko, Peter",39,38,24.025641025641026,29.605263157894736,53.63090418353576,E06,Catalan Opening: Closed,Viswanathan Anand
+2007,48,"Aronian, Levon","Gelfand, Boris",40,40,29.175,23.15,52.325,D43,Semi-Slav Defense,Viswanathan Anand
+2007,49,"Gelfand, Boris","Kramnik, Vladimir",26,25,14.26923076923077,14.36,28.62923076923077,D47,"Semi-Slav Defense: Meran Variation, Wade Variation",Viswanathan Anand
+2007,50,"Grischuk, Alexander","Anand,V",73,73,14.164383561643836,16.136986301369863,30.301369863013697,D43,Semi-Slav Defense: Anti-Moscow Gambit,Viswanathan Anand
+2007,51,"Aronian, Levon","Svidler, Peter",46,45,14.826086956521738,15.644444444444444,30.47053140096618,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Viswanathan Anand
+2007,52,"Leko, Peter","Morozevich, Alexander",33,32,14.575757575757576,27.03125,41.60700757575758,B67,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation",Viswanathan Anand
+2007,53,"Svidler, Peter","Grischuk, Alexander",42,41,19.547619047619047,29.170731707317074,48.718350754936125,B90,"Sicilian Defense: Najdorf Variation, English Attack, Anti-English",Viswanathan Anand
+2007,54,"Anand, Viswanathan","Leko, Peter",20,19,25.25,22.526315789473685,47.776315789473685,C89,"Ruy Lopez: Marshall Attack, Modern Variation",Viswanathan Anand
+2007,55,"Morozevich, Alexander","Gelfand, Boris",45,45,22.844444444444445,20.622222222222224,43.46666666666667,C42,"Russian Game: Classical Attack, Chigorin Variation",Viswanathan Anand
+2007,56,"Kramnik, Vladimir","Aronian, Levon",35,34,12.428571428571429,25.764705882352942,38.19327731092437,E15,"Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line",Viswanathan Anand
+2008,1,"Kramnik, Vladimir","Anand, Viswanathan",32,32,8.03125,6.25,14.28125,D14,"Slav Defense: Exchange Variation, Trifunovic Variation",Viswanathan Anand
+2008,2,"Anand, Viswanathan","Kramnik, Vladimir",32,32,23.625,25.90625,49.53125,E25,"Nimzo-Indian Defense: Sämisch Variation, Romanovsky Variation",Viswanathan Anand
+2008,3,"Kramnik, Vladimir","Anand, Viswanathan",41,41,29.536585365853657,24.682926829268293,54.21951219512195,D49,"Semi-Slav Defense: Meran Variation, Blumenfeld Variation",Viswanathan Anand
+2008,4,"Anand, Viswanathan","Kramnik, Vladimir",29,29,12.172413793103448,11.137931034482758,23.310344827586206,D37,"Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense",Viswanathan Anand
+2008,5,"Kramnik, Vladimir","Anand, Viswanathan",35,35,31.17142857142857,27.65714285714286,58.82857142857143,D49,"Semi-Slav Defense: Meran Variation, Blumenfeld Variation",Viswanathan Anand
+2008,6,"Anand, Viswanathan","Kramnik, Vladimir",47,46,23.06382978723404,29.23913043478261,52.30296022201665,E34,"Nimzo-Indian Defense: Classical Variation, Noa Variation",Viswanathan Anand
+2008,7,"Anand, Viswanathan","Kramnik, Vladimir",36,36,11.694444444444445,12.833333333333334,24.52777777777778,D19,"Slav Defense: Czech Variation, Dutch Variation",Viswanathan Anand
+2008,8,"Kramnik, Vladimir","Anand, Viswanathan",39,39,10.948717948717949,11.025641025641026,21.974358974358974,D37,"Queen's Gambit Declined: Three Knights, Vienna Variation",Viswanathan Anand
+2008,9,"Anand, Viswanathan","Kramnik, Vladimir",45,45,20.044444444444444,20.755555555555556,40.8,D43,Semi-Slav Defense: Anti-Moscow Gambit,Viswanathan Anand
+2008,10,"Kramnik, Vladimir","Anand, Viswanathan",29,28,12.586206896551724,15.785714285714286,28.37192118226601,E20,"Nimzo-Indian Defense: Romanishin Variation, English Hybrid",Viswanathan Anand
+2008,11,"Anand, Viswanathan","Kramnik, Vladimir",24,24,18.125,20.25,38.375,B96,Sicilian Defense: Najdorf Variation,Viswanathan Anand
+2010,1,"Topalov, Veselin","Anand, Viswanathan",30,29,21.7,25.689655172413794,47.389655172413796,D86,"Grünfeld Defense: Exchange Variation, Classical Variation",Viswanathan Anand
+2010,2,"Anand, Viswanathan","Topalov, Veselin",43,42,11.093023255813954,18.30952380952381,29.402547065337764,E04,Catalan Opening: Open Defense,Viswanathan Anand
+2010,3,"Topalov, Veselin","Anand, Viswanathan",46,45,11,11.577777777777778,22.577777777777776,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Viswanathan Anand
+2010,4,"Anand, Viswanathan","Topalov, Veselin",31,31,13.903225806451612,36.516129032258064,50.41935483870968,E04,Catalan Opening: Open Defense,Viswanathan Anand
+2010,5,"Topalov, Veselin","Anand, Viswanathan",44,43,13.295454545454545,12.046511627906977,25.34196617336152,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Viswanathan Anand
+2010,6,"Anand, Viswanathan","Topalov, Veselin",58,58,11.431034482758621,11.879310344827585,23.310344827586206,E04,Catalan Opening: Open Defense,Viswanathan Anand
+2010,7,"Anand, Viswanathan","Topalov, Veselin",58,57,19.448275862068964,18.45614035087719,37.90441621294616,E10,Indian Defense: Anti-Nimzo-Indian,Viswanathan Anand
+2010,8,"Topalov, Veselin","Anand, Viswanathan",56,55,9.071428571428571,10.836363636363636,19.907792207792205,D17,"Slav Defense: Czech Variation, Wiesbaden Variation",Viswanathan Anand
+2010,9,"Anand, Viswanathan","Topalov, Veselin",83,82,20.83132530120482,21.634146341463413,42.465471642668234,E53,"Nimzo-Indian Defense: Normal Variation, Gligoric System",Viswanathan Anand
+2010,10,"Topalov, Veselin","Anand, Viswanathan",60,59,10.416666666666666,9.169491525423728,19.586158192090394,D86,"Grünfeld Defense: Exchange Variation, Classical Variation",Viswanathan Anand
+2010,11,"Anand, Viswanathan","Topalov, Veselin",65,65,13.938461538461539,12.646153846153846,26.584615384615383,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Viswanathan Anand
+2010,12,"Topalov, Veselin","Anand, Viswanathan",56,56,25.035714285714285,19.017857142857142,44.05357142857143,D56,Queen's Gambit Declined: Lasker Defense,Viswanathan Anand
+2012,1,"Anand, Viswanathan","Gelfand, Boris",24,24,18.25,18.791666666666668,37.04166666666667,D85,"Grünfeld Defense: Exchange Variation, Modern Exchange Variation",Viswanathan Anand
+2012,2,"Gelfand, Boris","Anand, Viswanathan",25,24,11.4,9.583333333333334,20.983333333333334,D45,Semi-Slav Defense: Accelerated Meran Variation,Viswanathan Anand
+2012,3,"Anand, Viswanathan","Gelfand, Boris",37,37,19.10810810810811,18.16216216216216,37.270270270270274,D70,Neo-Grünfeld Defense: Goglidze Attack,Viswanathan Anand
+2012,4,"Gelfand, Boris","Anand, Viswanathan",34,34,10,9.764705882352942,19.764705882352942,D45,Semi-Slav Defense: Accelerated Meran Variation,Viswanathan Anand
+2012,5,"Anand, Viswanathan","Gelfand, Boris",27,26,15.185185185185185,14.846153846153847,30.03133903133903,B33,"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation",Viswanathan Anand
+2012,6,"Gelfand, Boris","Anand, Viswanathan",29,29,10.413793103448276,10.172413793103448,20.586206896551722,D45,Semi-Slav Defense: Accelerated Meran Variation,Viswanathan Anand
+2012,7,"Gelfand, Boris","Anand, Viswanathan",38,37,17.31578947368421,25.10810810810811,42.42389758179232,D45,Semi-Slav Defense: Accelerated Meran Variation,Viswanathan Anand
+2012,8,"Anand, Viswanathan","Gelfand, Boris",17,16,24,34.8125,58.8125,E60,"Indian Defense: Anti-Grünfeld, Alekhine Variation",Viswanathan Anand
+2012,9,"Gelfand, Boris","Anand, Viswanathan",49,49,11.938775510204081,11.571428571428571,23.51020408163265,E54,"Nimzo-Indian Defense: Normal Variation, Gligoric System, Exchange Variation",Viswanathan Anand
+2012,10,"Anand, Viswanathan","Gelfand, Boris",25,24,8.72,14.625,23.345,B30,Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,Viswanathan Anand
+2012,11,"Gelfand, Boris","Anand, Viswanathan",24,24,10.375,11.833333333333334,22.208333333333336,E54,"Nimzo-Indian Defense: Normal Variation, Gligoric System, Exchange Variation",Viswanathan Anand
+2012,12,"Anand, Viswanathan","Gelfand, Boris",22,21,15,15.761904761904763,30.761904761904763,B30,Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,Viswanathan Anand
+2012,13,"Gelfand, Boris","Anand, Viswanathan",32,32,22.625,20.8125,43.4375,D45,Semi-Slav Defense: Stoltz Variation,Viswanathan Anand
+2012,14,"Anand, Viswanathan","Gelfand, Boris",77,76,11.493506493506494,16.30263157894737,27.796138072453864,B30,Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,Viswanathan Anand
+2012,15,"Gelfand, Boris","Anand, Viswanathan",63,63,26.77777777777778,21.952380952380953,48.730158730158735,D12,"Slav Defense: Quiet Variation, Schallopp Defense",Viswanathan Anand
+2012,16,"Anand, Viswanathan","Gelfand, Boris",56,55,22.875,21.472727272727273,44.34772727272727,B51,Sicilian Defense: Moscow Variation,Viswanathan Anand
+2013,1,"Carlsen, Magnus","Anand, Viswanathan",16,16,5,3.4375,8.4375,A07,King's Indian Attack: Double Fianchetto,Magnus Carlsen
+2013,2,"Anand, Viswanathan","Carlsen, Magnus",25,25,8.32,8.36,16.68,B18,"Caro-Kann Defense: Classical Variation, Main Line",Magnus Carlsen
+2013,3,"Carlsen, Magnus","Anand, Viswanathan",51,51,12.588235294117647,12.07843137254902,24.666666666666664,A07,King's Indian Attack: Double Fianchetto,Magnus Carlsen
+2013,4,"Anand, Viswanathan","Carlsen, Magnus",64,63,22.984375,25.96825396825397,48.95262896825397,C67,"Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense",Magnus Carlsen
+2013,5,"Carlsen, Magnus","Anand, Viswanathan",58,57,18.275862068965516,21.31578947368421,39.59165154264973,D31,"Semi-Slav Defense: Marshall Gambit, Forgotten Variation",Magnus Carlsen
+2013,6,"Anand, Viswanathan","Carlsen, Magnus",67,67,19.402985074626866,14.26865671641791,33.67164179104478,C65,Ruy Lopez: Berlin Defense,Magnus Carlsen
+2013,7,"Anand, Viswanathan","Carlsen, Magnus",32,32,10.34375,10.375,20.71875,C65,Ruy Lopez: Berlin Defense,Magnus Carlsen
+2013,8,"Carlsen, Magnus","Anand, Viswanathan",33,33,5,4.9393939393939394,9.93939393939394,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Magnus Carlsen
+2013,9,"Anand, Viswanathan","Carlsen, Magnus",28,28,33.82142857142857,19.5,53.32142857142857,E25,Nimzo-Indian Defense: Sämisch Variation,Magnus Carlsen
+2013,10,"Carlsen, Magnus","Anand, Viswanathan",65,65,16.476923076923075,16.353846153846153,32.83076923076923,B51,Sicilian Defense: Moscow Variation,Magnus Carlsen
+2014,1,"Anand, Viswanathan","Carlsen, Magnus",48,47,18.791666666666668,17.48936170212766,36.281028368794324,D85,Grünfeld Defense: Exchange Variation,Magnus Carlsen
+2014,2,"Carlsen, Magnus","Anand, Viswanathan",35,34,18.114285714285714,33.76470588235294,51.878991596638656,C65,Ruy Lopez: Berlin Defense,Magnus Carlsen
+2014,3,"Anand, Viswanathan","Carlsen, Magnus",34,33,25.147058823529413,37.93939393939394,63.08645276292335,D37,"Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line",Magnus Carlsen
+2014,4,"Carlsen, Magnus","Anand, Viswanathan",47,47,7.51063829787234,7.829787234042553,15.340425531914892,B40,Sicilian Defense: French Variation,Magnus Carlsen
+2014,5,"Anand, Viswanathan","Carlsen, Magnus",39,39,18.307692307692307,17.41025641025641,35.717948717948715,E15,Queen's Indian Defense: Fianchetto Variation,Magnus Carlsen
+2014,6,"Carlsen, Magnus","Anand, Viswanathan",38,37,18.210526315789473,22.324324324324323,40.534850640113795,B41,"Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation",Magnus Carlsen
+2014,7,"Carlsen, Magnus","Anand, Viswanathan",122,121,8.581967213114755,8.96694214876033,17.548909361875083,C67,"Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense",Magnus Carlsen
+2014,8,"Anand, Viswanathan","Carlsen, Magnus",41,40,12.902439024390244,13.35,26.25243902439024,D37,"Queen's Gambit Declined: Harrwitz Attack, Main Line",Magnus Carlsen
+2014,9,"Carlsen, Magnus","Anand, Viswanathan",20,19,6.25,6.526315789473684,12.776315789473685,C67,"Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense",Magnus Carlsen
+2014,10,"Anand, Viswanathan","Carlsen, Magnus",32,31,19.46875,18.741935483870968,38.21068548387097,D97,"Grünfeld Defense: Russian Variation, Prins Variation",Magnus Carlsen
+2014,11,"Carlsen, Magnus","Anand, Viswanathan",45,44,19.622222222222224,25.09090909090909,44.71313131313131,C67,"Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense",Magnus Carlsen
+2016,1,"Carlsen, Magnus","Karjakin, Sergey",42,42,10.023809523809524,10.571428571428571,20.595238095238095,A45,Trompowsky Attack,Magnus Carlsen
+2016,2,"Karjakin, Sergey","Carlsen, Magnus",33,32,13.424242424242424,12,25.424242424242422,C84,"Ruy Lopez: Closed, Martinez Variation",Magnus Carlsen
+2016,3,"Carlsen, Magnus","Karjakin, Sergey",78,78,10.705128205128204,10.948717948717949,21.653846153846153,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Magnus Carlsen
+2016,4,"Karjakin, Sergey","Carlsen, Magnus",94,93,11.659574468085106,12.075268817204302,23.734843285289408,C88,Ruy Lopez: Closed,Magnus Carlsen
+2016,5,"Carlsen, Magnus","Karjakin, Sergey",51,51,13.568627450980392,14,27.568627450980394,C50,Italian Game: Giuoco Piano,Magnus Carlsen
+2016,6,"Karjakin, Sergey","Carlsen, Magnus",32,32,8.875,8.90625,17.78125,C88,Ruy Lopez: Closed,Magnus Carlsen
+2016,7,"Karjakin, Sergey","Carlsen, Magnus",33,33,12.93939393939394,12.151515151515152,25.090909090909093,D10,Slav Defense,Magnus Carlsen
+2016,8,"Carlsen, Magnus","Karjakin, Sergey",52,52,25.192307692307693,17.942307692307693,43.13461538461539,D05,Rubinstein Opening,Magnus Carlsen
+2016,9,"Karjakin, Sergey","Carlsen, Magnus",74,74,12.513513513513514,11.297297297297296,23.81081081081081,C78,Ruy Lopez: Morphy Defense,Magnus Carlsen
+2016,10,"Carlsen, Magnus","Karjakin, Sergey",75,74,14.186666666666667,18.60810810810811,32.79477477477478,C65,Ruy Lopez: Berlin Defense,Magnus Carlsen
+2016,11,"Karjakin, Sergey","Carlsen, Magnus",34,33,12.088235294117647,9.06060606060606,21.148841354723707,C84,"Ruy Lopez: Closed, Martinez Variation",Magnus Carlsen
+2016,12,"Carlsen, Magnus","Karjakin, Sergey",30,30,9.533333333333333,8.066666666666666,17.6,C67,"Ruy Lopez: Berlin Defense, Rio Gambit Accepted",Magnus Carlsen
+2018,1,"Caruana, Fabiano","Carlsen, Magnus",115,114,15.57391304347826,15.078947368421053,30.65286041189931,B31,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",Magnus Carlsen
+2018,2,"Carlsen, Magnus","Caruana, Fabiano",49,48,10.224489795918368,10.645833333333334,20.8703231292517,D37,Queen's Gambit Declined: Harrwitz Attack,Magnus Carlsen
+2018,3,"Caruana, Fabiano","Carlsen, Magnus",49,48,8.714285714285714,8.0625,16.776785714285715,B31,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",Magnus Carlsen
+2018,4,"Carlsen, Magnus","Caruana, Fabiano",34,33,10.294117647058824,8.090909090909092,18.385026737967916,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Magnus Carlsen
+2018,5,"Caruana, Fabiano","Carlsen, Magnus",34,33,13.029411764705882,10.909090909090908,23.93850267379679,B31,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Gurgenidze Variation",Magnus Carlsen
+2018,6,"Carlsen, Magnus","Caruana, Fabiano",80,80,10.4875,11.6875,22.175,C42,Russian Game: Karklins-Martinovsky Variation,Magnus Carlsen
+2018,7,"Carlsen, Magnus","Caruana, Fabiano",40,39,10.075,8.615384615384615,18.690384615384616,D37,"Queen's Gambit Declined: Harrwitz Attack, Main Line",Magnus Carlsen
+2018,8,"Caruana, Fabiano","Carlsen, Magnus",38,37,13.368421052631579,12.432432432432432,25.80085348506401,B33,Sicilian Defense: Lasker-Pelikan Variation,Magnus Carlsen
+2018,9,"Carlsen, Magnus","Caruana, Fabiano",56,56,12.464285714285714,12.732142857142858,25.19642857142857,A29,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",Magnus Carlsen
+2018,10,"Caruana, Fabiano","Carlsen, Magnus",54,53,19.40740740740741,19.50943396226415,38.91684136967156,B33,Sicilian Defense: Lasker-Pelikan Variation,Magnus Carlsen
+2018,11,"Carlsen, Magnus","Caruana, Fabiano",55,55,5.472727272727273,5.4363636363636365,10.90909090909091,C42,Russian Game: Nimzowitsch Attack,Magnus Carlsen
+2018,12,"Caruana, Fabiano","Carlsen, Magnus",31,31,23.838709677419356,22.419354838709676,46.25806451612903,B33,Sicilian Defense: Lasker-Pelikan Variation,Magnus Carlsen
+2021,1,"Nepomniachtchi, Ian","Carlsen, Magnus",45,44,19.444444444444443,17.181818181818183,36.62626262626263,C88,Ruy Lopez: Closed,Magnus Carlsen
+2021,2,"Carlsen, Magnus","Nepomniachtchi, Ian",58,58,11.741379310344827,13.448275862068966,25.189655172413794,E06,Catalan Opening: Closed,Magnus Carlsen
+2021,3,"Nepomniachtchi, Ian","Carlsen, Magnus",41,40,9.487804878048781,8.975,18.46280487804878,C88,"Ruy Lopez: Closed, Anti-Marshall",Magnus Carlsen
+2021,4,"Carlsen, Magnus","Nepomniachtchi, Ian",33,32,13.06060606060606,14.6875,27.748106060606062,C42,"Russian Game: Classical Attack, Staunton Variation",Magnus Carlsen
+2021,5,"Nepomniachtchi, Ian","Carlsen, Magnus",43,42,10.767441860465116,10.761904761904763,21.52934662236988,C88,"Ruy Lopez: Closed, Anti-Marshall",Magnus Carlsen
+2021,6,"Carlsen, Magnus","Nepomniachtchi, Ian",136,135,15.970588235294118,21.185185185185187,37.155773420479306,D02,"Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan",Magnus Carlsen
+2021,7,"Nepomniachtchi, Ian","Carlsen, Magnus",41,40,6.609756097560975,5.9,12.509756097560976,C88,"Ruy Lopez: Closed, Anti-Marshall",Magnus Carlsen
+2021,8,"Carlsen, Magnus","Nepomniachtchi, Ian",46,45,13.021739130434783,18.244444444444444,31.26618357487923,C43,"Russian Game: Modern Attack, Center Variation",Magnus Carlsen
+2021,9,"Nepomniachtchi, Ian","Carlsen, Magnus",39,39,24.384615384615383,20.512820512820515,44.8974358974359,A13,English Opening: Agincourt Defense,Magnus Carlsen
+2021,10,"Carlsen, Magnus","Nepomniachtchi, Ian",41,40,9.170731707317072,7.625,16.795731707317074,C42,Russian Game: Karklins-Martinovsky Variation,Magnus Carlsen
+2021,11,"Nepomniachtchi, Ian","Carlsen, Magnus",49,49,17.612244897959183,11.918367346938776,29.53061224489796,C53,"Italian Game: Classical Variation, Giuoco Pianissimo",Magnus Carlsen
+2023,1,"Nepomniachtchi, Ian","Liren, Ding",49,48,16.26530612244898,15.583333333333334,31.848639455782312,C85,"Ruy Lopez: Closed, Delayed Exchange",
+2023,2,"Liren, Ding","Nepomniachtchi, Ian",29,29,31.655172413793103,16.344827586206897,48.0,E10,Indian Defense: Anti-Nimzo-Indian,
+2023,3,"Nepomniachtchi, Ian","Liren, Ding",30,30,11.4,9.5,20.9,D35,"Queen's Gambit Declined: Exchange Variation, Positional Variation",
+2023,4,"Liren, Ding","Nepomniachtchi, Ian",47,46,15.957446808510639,26.347826086956523,42.30527289546716,A28,"English Opening: King's English Variation, Four Knights Variation, Quiet Line",
+2023,5,"Nepomniachtchi, Ian","Liren, Ding",48,47,21.770833333333332,21,42.77083333333333,C84,"Ruy Lopez: Closed, Martinez Variation",
+2023,6,"Liren, Ding","Nepomniachtchi, Ian",44,43,19.931818181818183,21.325581395348838,41.25739957716702,D02,Queen's Pawn Game: London System,
+2023,7,"Nepomniachtchi, Ian","Liren, Ding",37,37,20.64864864864865,26.83783783783784,47.486486486486484,C07,"French Defense: Tarrasch Variation, Open System, Euwe-Keres Line",
+2023,8,"Liren, Ding","Nepomniachtchi, Ian",45,44,22.22222222222222,25.954545454545453,48.176767676767675,E28,Nimzo-Indian Defense: Sämisch Variation,
+2023,9,"Nepomniachtchi, Ian","Liren, Ding",82,81,15.341463414634147,13.444444444444445,28.78590785907859,C65,Ruy Lopez: Berlin Defense,
+2023,10,"Liren, Ding","Nepomniachtchi, Ian",45,45,10.377777777777778,10.844444444444445,21.22222222222222,A28,"English Opening: Four Knights System, Nimzowitsch Variation",
+2023,11,"Nepomniachtchi, Ian","Liren, Ding",39,38,6.564102564102564,5.631578947368421,12.195681511470985,C84,"Ruy Lopez: Closed, Martinez Variation",
+2023,12,"Liren, Ding","Nepomniachtchi, Ian",38,37,25.31578947368421,52.62162162162162,77.93741109530583,D04,Queen's Pawn Game: Colle System,
+2023,13,"Nepomniachtchi, Ian","Liren, Ding",40,39,19.675,20.615384615384617,40.29038461538462,C84,"Ruy Lopez: Closed, Martinez Variation",
+2023,14,"Liren, Ding","Nepomniachtchi, Ian",90,90,12.411111111111111,12.411111111111111,24.822222222222223,E46,Nimzo-Indian Defense: Normal Variation,
+2023,15,"Liren, Ding","Nepomniachtchi, Ian",35,34,18.228571428571428,24.38235294117647,42.6109243697479,D02,Queen's Pawn Game: Symmetrical Variation,
+2023,16,"Nepomniachtchi, Ian","Liren, Ding",47,47,11.893617021276595,11.893617021276595,23.78723404255319,C84,"Ruy Lopez: Closed, Martinez Variation",
+2023,17,"Liren, Ding","Nepomniachtchi, Ian",33,32,10.484848484848484,10.9375,21.422348484848484,A14,"English Opening: Agincourt Defense, Neo-Catalan Declined",
+2023,18,"Nepomniachtchi, Ian","Liren, Ding",68,68,42.955882352941174,29.573529411764707,72.52941176470588,C84,"Ruy Lopez: Closed, Martinez Variation",
