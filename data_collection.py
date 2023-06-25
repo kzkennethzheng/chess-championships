@@ -1,6 +1,6 @@
 # Collected from https://lichess.org/page/world-championships
-from bs4 import BeautifulSoup
-from requests_html import HTMLSession
+#from bs4 import BeautifulSoup
+#from requests_html import HTMLSession
 import requests
 
 studies = [
